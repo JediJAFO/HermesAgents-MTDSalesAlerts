@@ -1,0 +1,4 @@
+# Never commit credentials or local scheduler runtime state.
+.env
+*.env
+backup/.last-successful-backup-date

@@ -1,0 +1,1011 @@
+{
+  "schema_version": 1,
+  "scope": {
+    "marketplace": "McFarlane Toys Digital",
+    "network": "POLYGON",
+    "category": "DC Comics NFTs",
+    "source": "user-supplied contract allowlist",
+    "tracking_rule": "completed Rarible SELL activities only; exclude transfers, mints, listings, bids, cancellations"
+  },
+  "catalog_created_at": "2026-08-26T17:07:44.280198Z",
+  "last_catalog_refresh_at": "2026-08-26T17:10:11.017348Z",
+  "collections": [
+    {
+      "id": "POLYGON:0x028ab77ff9794d2b02f11f77a01c7c2f96618916",
+      "contract": "0x028ab77ff9794d2b02f11f77a01c7c2f96618916",
+      "display_name": "Batman (1989) Cowl",
+      "name_source": "Rarible collection metadata",
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "symbol": "MTD-COWL89",
+      "last_metadata_update_at": "2026-01-28T17:46:36.928Z",
+      "metadata_status": "verified"
+    },
+    {
+      "id": "POLYGON:0x89ed4239d327856e31ae5194006a7c99e53babf3",
+      "contract": "0x89ed4239d327856e31ae5194006a7c99e53babf3",
+      "display_name": "The Joker Bank Robber",
+      "name_source": "Rarible collection metadata",
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "symbol": "TOKEN",
+      "last_metadata_update_at": "2025-02-15T00:51:47.551Z",
+      "metadata_status": "verified"
+    },
+    {
+      "id": "POLYGON:0x4925bd9f5e72cfc518fb9c6e078009cfc32bda6f",
+      "contract": "0x4925bd9f5e72cfc518fb9c6e078009cfc32bda6f",
+      "display_name": "The Tumbler",
+      "name_source": "Rarible collection metadata",
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "symbol": "MTD-TBLR",
+      "last_metadata_update_at": "2026-02-02T19:34:45.951Z",
+      "metadata_status": "verified"
+    },
+    {
+      "id": "POLYGON:0x509e2cb48f98ee08ed7d69c497b8d51ac6ddef7c",
+      "contract": "0x509e2cb48f98ee08ed7d69c497b8d51ac6ddef7c",
+      "display_name": "Batman Beyond",
+      "name_source": "Rarible collection metadata",
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "symbol": "MTD-BBYD",
+      "last_metadata_update_at": "2026-01-28T17:46:37.178Z",
+      "metadata_status": "verified"
+    },
+    {
+      "id": "POLYGON:0x5f075c762e276a6527846427e66c75e89ef30091",
+      "contract": "0x5f075c762e276a6527846427e66c75e89ef30091",
+      "display_name": "Wonder Woman Classic",
+      "name_source": "Rarible collection metadata",
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "symbol": "MTD-WWC",
+      "last_metadata_update_at": "2025-10-30T03:45:16.707Z",
+      "metadata_status": "verified"
+    },
+    {
+      "id": "POLYGON:0x065f62e2d98f6ee8ddf3d6899c4b3a2a9b9b3ea2",
+      "contract": "0x065f62e2d98f6ee8ddf3d6899c4b3a2a9b9b3ea2",
+      "display_name": "Jim Lee's The Flash",
+      "name_source": "Rarible collection metadata",
+      "last_sale": {
+        "activity_id": "POLYGON:6a8f1a15e7303c5185f86fc4",
+        "date": "2026-08-26T16:53:40Z",
+        "collection": "POLYGON:0x065f62e2d98f6ee8ddf3d6899c4b3a2a9b9b3ea2",
+        "token_id": "780",
+        "quantity": "1",
+        "settlement_type": "SELL",
+        "price": "180",
+        "payment": {
+          "@type": "ETH",
+          "blockchain": "POLYGON"
+        },
+        "amount_usd": "20.2126839559899732",
+        "transaction_hash": "0x12fb360739d52a3af1e02f5a2dbda6619476b64b11f6b08fd0fca92840e246fd",
+        "reverted": false,
+        "item_name": "Reverse Flash #111",
+        "rarity": "Legendary",
+        "rarity_source": "Rarible item metadata attribute Rarity"
+      },
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "symbol": "TOKEN",
+      "last_metadata_update_at": "2025-10-03T01:54:06.639Z",
+      "metadata_status": "verified"
+    },
+    {
+      "id": "POLYGON:0x651879523e831763519ab8df1d8cd6fa8c4c9937",
+      "contract": "0x651879523e831763519ab8df1d8cd6fa8c4c9937",
+      "display_name": "Lobo's Spacehog",
+      "name_source": "Rarible collection metadata",
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "metadata_status": "verified",
+      "symbol": "MTD-LOBOHOG",
+      "last_metadata_update_at": "2025-10-03T22:54:20.412Z"
+    },
+    {
+      "id": "POLYGON:0x66fc5b74aa52565d62ada7f15cbe042a4999e22e",
+      "contract": "0x66fc5b74aa52565d62ada7f15cbe042a4999e22e",
+      "display_name": "Lobo",
+      "name_source": "Rarible collection metadata",
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "symbol": "MTD-LOBO",
+      "last_metadata_update_at": "2025-11-15T10:31:55.038Z",
+      "metadata_status": "verified"
+    },
+    {
+      "id": "POLYGON:0x35b07bce9421e5d19b59a966aaf03e22b240d4d0",
+      "contract": "0x35b07bce9421e5d19b59a966aaf03e22b240d4d0",
+      "display_name": "Batman Rebirth - Build-a-wave",
+      "name_source": "Rarible collection metadata",
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "metadata_status": "verified",
+      "symbol": "TOKEN",
+      "last_metadata_update_at": "2025-08-15T20:10:44.939Z"
+    },
+    {
+      "id": "POLYGON:0x42cab89b1ed5b9f49636a06ab0e4866aaa2a2c3e",
+      "contract": "0x42cab89b1ed5b9f49636a06ab0e4866aaa2a2c3e",
+      "display_name": "Aquaman Classic - Build-a-wave",
+      "name_source": "Rarible collection metadata",
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "metadata_status": "verified",
+      "symbol": "TOKEN",
+      "last_metadata_update_at": "2025-10-03T17:54:15.218Z"
+    },
+    {
+      "id": "POLYGON:0x3ca89fcea0934efaadf2381906ca1cb004f8989d",
+      "contract": "0x3ca89fcea0934efaadf2381906ca1cb004f8989d",
+      "display_name": null,
+      "name_source": null,
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "metadata_status": "pending (Rarible metadata HTTP 429)"
+    },
+    {
+      "id": "POLYGON:0xfcc2919a153785d8b0181b05212d54eb5b313a3e",
+      "contract": "0xfcc2919a153785d8b0181b05212d54eb5b313a3e",
+      "display_name": null,
+      "name_source": null,
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "metadata_status": "pending (Rarible metadata HTTP 429)"
+    },
+    {
+      "id": "POLYGON:0x3eba9e3a6c4cc4883da6cbc0792b4ba62f658da1",
+      "contract": "0x3eba9e3a6c4cc4883da6cbc0792b4ba62f658da1",
+      "display_name": null,
+      "name_source": null,
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "metadata_status": "pending (Rarible metadata HTTP 429)"
+    },
+    {
+      "id": "POLYGON:0xe3c14a10f4398653569ab8eb2f86070565e22206",
+      "contract": "0xe3c14a10f4398653569ab8eb2f86070565e22206",
+      "display_name": null,
+      "name_source": null,
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "metadata_status": "pending (Rarible metadata HTTP 429)"
+    },
+    {
+      "id": "POLYGON:0x398acb7ea6a9602a57d3eaec89588923b5235bc5",
+      "contract": "0x398acb7ea6a9602a57d3eaec89588923b5235bc5",
+      "display_name": null,
+      "name_source": null,
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "metadata_status": "pending (Rarible metadata HTTP 429)"
+    },
+    {
+      "id": "POLYGON:0x2eea5c7d812e30f2940f6ecdb3dbaddc467a2ee3",
+      "contract": "0x2eea5c7d812e30f2940f6ecdb3dbaddc467a2ee3",
+      "display_name": null,
+      "name_source": null,
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "metadata_status": "pending (Rarible metadata HTTP 429)"
+    },
+    {
+      "id": "POLYGON:0x7180b24b73495968acd96f700f0860599a75dc9e",
+      "contract": "0x7180b24b73495968acd96f700f0860599a75dc9e",
+      "display_name": null,
+      "name_source": null,
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "metadata_status": "pending (Rarible metadata HTTP 429)"
+    },
+    {
+      "id": "POLYGON:0xcd17d2036e0cd836a95c9df33a1b161cd3eebc21",
+      "contract": "0xcd17d2036e0cd836a95c9df33a1b161cd3eebc21",
+      "display_name": null,
+      "name_source": null,
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "metadata_status": "pending (Rarible metadata HTTP 429)"
+    },
+    {
+      "id": "POLYGON:0x4867349931a547c47e3f4b4dffe7afa5c59b6174",
+      "contract": "0x4867349931a547c47e3f4b4dffe7afa5c59b6174",
+      "display_name": null,
+      "name_source": null,
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "metadata_status": "pending (Rarible metadata HTTP 429)"
+    },
+    {
+      "id": "POLYGON:0x6b75497bd0a94b03353c69cd93317e2a3b9ac803",
+      "contract": "0x6b75497bd0a94b03353c69cd93317e2a3b9ac803",
+      "display_name": null,
+      "name_source": null,
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "metadata_status": "pending (Rarible metadata HTTP 429)"
+    },
+    {
+      "id": "POLYGON:0xd42dd7a255a7c3067ab57f66484bd65287fb6de8",
+      "contract": "0xd42dd7a255a7c3067ab57f66484bd65287fb6de8",
+      "display_name": null,
+      "name_source": null,
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "metadata_status": "pending (Rarible metadata HTTP 429)"
+    },
+    {
+      "id": "POLYGON:0xd03c73c8f3e8c7e7957b43df402ecb7640d89f62",
+      "contract": "0xd03c73c8f3e8c7e7957b43df402ecb7640d89f62",
+      "display_name": null,
+      "name_source": null,
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "metadata_status": "pending (Rarible metadata HTTP 429)"
+    },
+    {
+      "id": "POLYGON:0x240a1d938d78c76ad8af1ce080858614da311636",
+      "contract": "0x240a1d938d78c76ad8af1ce080858614da311636",
+      "display_name": null,
+      "name_source": null,
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "metadata_status": "pending (Rarible metadata HTTP 429)"
+    },
+    {
+      "id": "POLYGON:0xab575d5961a4929386288ccb4cd6ff88cdf253d2",
+      "contract": "0xab575d5961a4929386288ccb4cd6ff88cdf253d2",
+      "display_name": null,
+      "name_source": null,
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "metadata_status": "pending (Rarible metadata HTTP 429)"
+    },
+    {
+      "id": "POLYGON:0x0fd66c55e5861122376f207b59d71aacb1b0cc4f",
+      "contract": "0x0fd66c55e5861122376f207b59d71aacb1b0cc4f",
+      "display_name": null,
+      "name_source": null,
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "metadata_status": "pending (Rarible metadata HTTP 429)"
+    },
+    {
+      "id": "POLYGON:0x4bdaf58712cf8c69fe619f32f373d541ea87a51a",
+      "contract": "0x4bdaf58712cf8c69fe619f32f373d541ea87a51a",
+      "display_name": null,
+      "name_source": null,
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "metadata_status": "pending (Rarible metadata HTTP 429)"
+    },
+    {
+      "id": "POLYGON:0x2b3d922b71d5bb1d745859f8c2cfa00951bd382a",
+      "contract": "0x2b3d922b71d5bb1d745859f8c2cfa00951bd382a",
+      "display_name": null,
+      "name_source": null,
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "metadata_status": "pending (Rarible metadata HTTP 429)"
+    },
+    {
+      "id": "POLYGON:0x0039650dc457f9b5002112fe1ee4c7895f5c14e2",
+      "contract": "0x0039650dc457f9b5002112fe1ee4c7895f5c14e2",
+      "display_name": null,
+      "name_source": null,
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "metadata_status": "pending (Rarible metadata HTTP 429)"
+    },
+    {
+      "id": "POLYGON:0x2595b68c39f9f42f6d533f85fca4cdc6fff29a09",
+      "contract": "0x2595b68c39f9f42f6d533f85fca4cdc6fff29a09",
+      "display_name": null,
+      "name_source": null,
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "metadata_status": "pending (Rarible metadata HTTP 429)"
+    },
+    {
+      "id": "POLYGON:0x229f58f93d2607c54d0abcf899c807f1f3b40ab8",
+      "contract": "0x229f58f93d2607c54d0abcf899c807f1f3b40ab8",
+      "display_name": null,
+      "name_source": null,
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "metadata_status": "pending (Rarible metadata HTTP 429)"
+    },
+    {
+      "id": "POLYGON:0x9a4767252f3b40929bc579a9c6f3d140c0901af2",
+      "contract": "0x9a4767252f3b40929bc579a9c6f3d140c0901af2",
+      "display_name": "Bane: Knightfall",
+      "name_source": "Rarible collection metadata",
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "symbol": "MTD-BKF",
+      "last_metadata_update_at": "2025-10-03T17:54:15.366Z",
+      "metadata_status": "verified"
+    },
+    {
+      "id": "POLYGON:0x02994090747138a15361560f943cc5fbfcff256d",
+      "contract": "0x02994090747138a15361560f943cc5fbfcff256d",
+      "display_name": "The Flash - Barry Allen",
+      "name_source": "Rarible collection metadata",
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "symbol": "MTD-FSHBA",
+      "last_metadata_update_at": "2025-10-03T12:54:14.909Z",
+      "metadata_status": "verified"
+    },
+    {
+      "id": "POLYGON:0x8bcb47ba475fd7d52975a5c660750ad5e60a6281",
+      "contract": "0x8bcb47ba475fd7d52975a5c660750ad5e60a6281",
+      "display_name": null,
+      "name_source": null,
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "metadata_status": "pending (Rarible metadata HTTP 429)"
+    },
+    {
+      "id": "POLYGON:0x0866e58f7faaa78b7bf709398c131586cedf0833",
+      "contract": "0x0866e58f7faaa78b7bf709398c131586cedf0833",
+      "display_name": null,
+      "name_source": null,
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "metadata_status": "pending (Rarible metadata HTTP 429)"
+    },
+    {
+      "id": "POLYGON:0xef0f05593a3ca8a8bb3c5f4ac86ac4af9bfeb346",
+      "contract": "0xef0f05593a3ca8a8bb3c5f4ac86ac4af9bfeb346",
+      "display_name": null,
+      "name_source": null,
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "metadata_status": "pending (Rarible metadata HTTP 429)"
+    },
+    {
+      "id": "POLYGON:0x7a768033aae19e13345686618bdcbf735e9b9a74",
+      "contract": "0x7a768033aae19e13345686618bdcbf735e9b9a74",
+      "display_name": "The Atom (DC: The Silver Age)",
+      "name_source": "Rarible collection metadata",
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "symbol": "TOKEN",
+      "last_metadata_update_at": "2025-10-06T18:54:32.213Z",
+      "metadata_status": "verified"
+    },
+    {
+      "id": "POLYGON:0xa2eab97f61ff1ec6e9708363e9111a7806118ae7",
+      "contract": "0xa2eab97f61ff1ec6e9708363e9111a7806118ae7",
+      "display_name": "Green Arrow",
+      "name_source": "Rarible collection metadata",
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "symbol": "TOKEN",
+      "last_metadata_update_at": "2025-10-06T18:54:32.077Z",
+      "metadata_status": "verified"
+    },
+    {
+      "id": "POLYGON:0x53247d58b7e1731a730773f5370f712867a22b5f",
+      "contract": "0x53247d58b7e1731a730773f5370f712867a22b5f",
+      "display_name": null,
+      "name_source": null,
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "metadata_status": "pending (Rarible metadata HTTP 429)"
+    },
+    {
+      "id": "POLYGON:0xdab073c72ccaea3d5a6571cf1dd98cfa77f01b05",
+      "contract": "0xdab073c72ccaea3d5a6571cf1dd98cfa77f01b05",
+      "display_name": "Robin of Earth 2 (Crisis on Infinite Earths)",
+      "name_source": "Rarible collection metadata",
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "symbol": "TOKEN",
+      "last_metadata_update_at": "2025-08-06T01:07:21.276Z",
+      "metadata_status": "verified"
+    },
+    {
+      "id": "POLYGON:0xa3ff7a4c4aa5369b73447e71ab3ac6dda69af07f",
+      "contract": "0xa3ff7a4c4aa5369b73447e71ab3ac6dda69af07f",
+      "display_name": null,
+      "name_source": null,
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "metadata_status": "pending (Rarible metadata HTTP 429)"
+    },
+    {
+      "id": "POLYGON:0x186b4d896d3be406ba4868541f866eb58ad6373e",
+      "contract": "0x186b4d896d3be406ba4868541f866eb58ad6373e",
+      "display_name": null,
+      "name_source": null,
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "metadata_status": "pending (Rarible metadata HTTP 429)"
+    },
+    {
+      "id": "POLYGON:0x79f1437646c048815a4187f598b877595f184592",
+      "contract": "0x79f1437646c048815a4187f598b877595f184592",
+      "display_name": null,
+      "name_source": null,
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "metadata_status": "pending (Rarible metadata HTTP 429)"
+    },
+    {
+      "id": "POLYGON:0x049474b730f15d863e4b87c352fae7d5acc1197f",
+      "contract": "0x049474b730f15d863e4b87c352fae7d5acc1197f",
+      "display_name": null,
+      "name_source": null,
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "metadata_status": "pending (Rarible metadata HTTP 429)"
+    },
+    {
+      "id": "POLYGON:0x1b15a670992d7b2475ed9578ef962bdc22f753a6",
+      "contract": "0x1b15a670992d7b2475ed9578ef962bdc22f753a6",
+      "display_name": null,
+      "name_source": null,
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "metadata_status": "pending (Rarible metadata HTTP 429)"
+    },
+    {
+      "id": "POLYGON:0xc0e360dae3bdcb967b16806a14e9621ece8b479a",
+      "contract": "0xc0e360dae3bdcb967b16806a14e9621ece8b479a",
+      "display_name": null,
+      "name_source": null,
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "metadata_status": "pending (Rarible metadata HTTP 429)"
+    },
+    {
+      "id": "POLYGON:0xea52d6ea1743bc5cb69cf63cd8bc5e53e03b2ed9",
+      "contract": "0xea52d6ea1743bc5cb69cf63cd8bc5e53e03b2ed9",
+      "display_name": null,
+      "name_source": null,
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "metadata_status": "pending (Rarible metadata HTTP 429)"
+    },
+    {
+      "id": "POLYGON:0x43248fc0a82b96ee59f9a10d8eabbde700b006f9",
+      "contract": "0x43248fc0a82b96ee59f9a10d8eabbde700b006f9",
+      "display_name": null,
+      "name_source": null,
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "metadata_status": "pending (Rarible metadata HTTP 429)"
+    },
+    {
+      "id": "POLYGON:0x6b2c6f1dec14f00d14d6f8f56dd52e2edabeffff",
+      "contract": "0x6b2c6f1dec14f00d14d6f8f56dd52e2edabeffff",
+      "display_name": null,
+      "name_source": null,
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "metadata_status": "pending (Rarible metadata HTTP 429)"
+    },
+    {
+      "id": "POLYGON:0xbfcd6a3dab4b7ba32aae04312786cea9d12aa221",
+      "contract": "0xbfcd6a3dab4b7ba32aae04312786cea9d12aa221",
+      "display_name": null,
+      "name_source": null,
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "metadata_status": "pending (Rarible metadata HTTP 429)"
+    },
+    {
+      "id": "POLYGON:0xcf0a77830c9d5ef65325a0884998dea764b0873b",
+      "contract": "0xcf0a77830c9d5ef65325a0884998dea764b0873b",
+      "display_name": null,
+      "name_source": null,
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "metadata_status": "pending (Rarible metadata HTTP 429)"
+    },
+    {
+      "id": "POLYGON:0xaf37e249b74b2cf57bfa1ab6cdfa88248e821cb7",
+      "contract": "0xaf37e249b74b2cf57bfa1ab6cdfa88248e821cb7",
+      "display_name": null,
+      "name_source": null,
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "metadata_status": "pending (Rarible metadata HTTP 429)"
+    },
+    {
+      "id": "POLYGON:0x636045ab763b493a80350bfbd08e038029056ae2",
+      "contract": "0x636045ab763b493a80350bfbd08e038029056ae2",
+      "display_name": null,
+      "name_source": null,
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "metadata_status": "pending (Rarible metadata HTTP 429)"
+    },
+    {
+      "id": "POLYGON:0xb817501dbcdc39c87d7afab91f41eb3608f312be",
+      "contract": "0xb817501dbcdc39c87d7afab91f41eb3608f312be",
+      "display_name": null,
+      "name_source": null,
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "metadata_status": "pending (Rarible metadata HTTP 429)"
+    },
+    {
+      "id": "POLYGON:0x89696ef507b55741dc311733b7658fba5c8eea91",
+      "contract": "0x89696ef507b55741dc311733b7658fba5c8eea91",
+      "display_name": null,
+      "name_source": null,
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "metadata_status": "pending (Rarible metadata HTTP 429)"
+    },
+    {
+      "id": "POLYGON:0x5847dd7002f1874bf55dd8c1db95b0bbfea84a08",
+      "contract": "0x5847dd7002f1874bf55dd8c1db95b0bbfea84a08",
+      "display_name": null,
+      "name_source": null,
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "metadata_status": "pending (Rarible metadata HTTP 429)"
+    },
+    {
+      "id": "POLYGON:0x7cb3de1557bad446c25edb6fb519f2f186ed1589",
+      "contract": "0x7cb3de1557bad446c25edb6fb519f2f186ed1589",
+      "display_name": null,
+      "name_source": null,
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "metadata_status": "pending (Rarible metadata HTTP 429)"
+    },
+    {
+      "id": "POLYGON:0xf53358fba52b6bd19d0b25f29e727c419f0ee9ea",
+      "contract": "0xf53358fba52b6bd19d0b25f29e727c419f0ee9ea",
+      "display_name": null,
+      "name_source": null,
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "metadata_status": "pending (Rarible metadata HTTP 429)"
+    },
+    {
+      "id": "POLYGON:0xe3ae4e46917540b7760bf7702be2f2c503f9bc4b",
+      "contract": "0xe3ae4e46917540b7760bf7702be2f2c503f9bc4b",
+      "display_name": null,
+      "name_source": null,
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "metadata_status": "pending (Rarible metadata HTTP 429)"
+    },
+    {
+      "id": "POLYGON:0x19f5dd4d1315adfcda911dbb811f9f1d129cf6ca",
+      "contract": "0x19f5dd4d1315adfcda911dbb811f9f1d129cf6ca",
+      "display_name": null,
+      "name_source": null,
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "metadata_status": "pending (Rarible metadata HTTP 429)"
+    },
+    {
+      "id": "POLYGON:0x5051775029610e48d325e65d6c5d56fe607bcc0d",
+      "contract": "0x5051775029610e48d325e65d6c5d56fe607bcc0d",
+      "display_name": null,
+      "name_source": null,
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "metadata_status": "pending (Rarible metadata HTTP 429)"
+    },
+    {
+      "id": "POLYGON:0x55e79461a5accca44f9a4744fe3215d593c79218",
+      "contract": "0x55e79461a5accca44f9a4744fe3215d593c79218",
+      "display_name": "Monarch",
+      "name_source": "Rarible collection metadata",
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "symbol": "TOKEN",
+      "last_metadata_update_at": "2025-08-22T16:20:49.280Z",
+      "metadata_status": "verified"
+    },
+    {
+      "id": "POLYGON:0x19b2dfff394cac6bec13f1ab00723763c5b9b659",
+      "contract": "0x19b2dfff394cac6bec13f1ab00723763c5b9b659",
+      "display_name": "Batgirl - Stephanie Brown",
+      "name_source": "Rarible collection metadata",
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "symbol": "TOKEN",
+      "last_metadata_update_at": "2025-08-22T16:20:49.280Z",
+      "metadata_status": "verified"
+    },
+    {
+      "id": "POLYGON:0xaa1d4c0eab9e4152890abb71fab015e23905e491",
+      "contract": "0xaa1d4c0eab9e4152890abb71fab015e23905e491",
+      "display_name": "Batman - No Man's Land",
+      "name_source": "Rarible collection metadata",
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "symbol": "TOKEN",
+      "last_metadata_update_at": "2025-10-03T12:54:15.001Z",
+      "metadata_status": "verified"
+    },
+    {
+      "id": "POLYGON:0x577246400bdb152a77b53804272624aee767396f",
+      "contract": "0x577246400bdb152a77b53804272624aee767396f",
+      "display_name": "Blackfire",
+      "name_source": "Rarible collection metadata",
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "symbol": "TOKEN",
+      "last_metadata_update_at": "2025-12-03T16:04:25.996Z",
+      "metadata_status": "verified"
+    },
+    {
+      "id": "POLYGON:0x94cb46eda9c53119fb65f28138fea6940f174490",
+      "contract": "0x94cb46eda9c53119fb65f28138fea6940f174490",
+      "display_name": null,
+      "name_source": null,
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "metadata_status": "pending (Rarible metadata HTTP 429)"
+    },
+    {
+      "id": "POLYGON:0x89ee5c0bcc5ccba8643ea4b6c223e375eb11cf7d",
+      "contract": "0x89ee5c0bcc5ccba8643ea4b6c223e375eb11cf7d",
+      "display_name": null,
+      "name_source": null,
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "metadata_status": "pending (Rarible metadata HTTP 429)"
+    },
+    {
+      "id": "POLYGON:0x311031dcb8286e60b0889b169e618445d5cb0083",
+      "contract": "0x311031dcb8286e60b0889b169e618445d5cb0083",
+      "display_name": "Psycho-Pirate - Build-A-Figure",
+      "name_source": "Rarible collection metadata",
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "symbol": "TOKEN",
+      "last_metadata_update_at": "2025-09-25T17:47:42.747Z",
+      "metadata_status": "verified"
+    },
+    {
+      "id": "POLYGON:0xf08ee0927a9a20bcce7767a239907642f6ff08c9",
+      "contract": "0xf08ee0927a9a20bcce7767a239907642f6ff08c9",
+      "display_name": null,
+      "name_source": null,
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "metadata_status": "pending (Rarible metadata HTTP 429)"
+    },
+    {
+      "id": "POLYGON:0x34d412f69c428dd1bc781f8bc3371b613b8ff5ab",
+      "contract": "0x34d412f69c428dd1bc781f8bc3371b613b8ff5ab",
+      "display_name": null,
+      "name_source": null,
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "metadata_status": "pending (Rarible metadata HTTP 429)"
+    },
+    {
+      "id": "POLYGON:0xe529803b1147bfded54d27dff8c2682d954e64a3",
+      "contract": "0xe529803b1147bfded54d27dff8c2682d954e64a3",
+      "display_name": null,
+      "name_source": null,
+      "last_sale": null,
+      "added_at": "2026-08-26T17:07:44.280198Z",
+      "metadata_status": "pending (Rarible metadata HTTP 429)"
+    }
+  ],
+  "baseline": {
+    "observed_at": "2026-08-26T17:07:44.280198Z",
+    "newest_sale": {
+      "activity_id": "POLYGON:6a8f1a15e7303c5185f86fc4",
+      "date": "2026-08-26T16:53:40Z",
+      "collection": "POLYGON:0x065f62e2d98f6ee8ddf3d6899c4b3a2a9b9b3ea2",
+      "token_id": "780",
+      "quantity": "1",
+      "settlement_type": "SELL",
+      "price": "180",
+      "payment": {
+        "@type": "ETH",
+        "blockchain": "POLYGON"
+      },
+      "amount_usd": "20.2126839559899732",
+      "transaction_hash": "0x12fb360739d52a3af1e02f5a2dbda6619476b64b11f6b08fd0fca92840e246fd",
+      "reverted": false,
+      "item_name": "Reverse Flash #111",
+      "rarity": "Legendary",
+      "rarity_source": "Rarible item metadata attribute Rarity"
+    },
+    "collections_with_historical_sale": null,
+    "search_status": "Initial combined SALE query returned 20 newest sales; full per-collection baseline pending paginated scan."
+  },
+  "catalog_errors": [
+    {
+      "id": "POLYGON:0x651879523e831763519ab8df1d8cd6fa8c4c9937",
+      "http_status": 429,
+      "detail": "Display-name fetch deferred after Rarible API rate limiting; prior values retained."
+    },
+    {
+      "id": "POLYGON:0x35b07bce9421e5d19b59a966aaf03e22b240d4d0",
+      "http_status": 429,
+      "detail": "Display-name fetch deferred after Rarible API rate limiting; prior values retained."
+    },
+    {
+      "id": "POLYGON:0x42cab89b1ed5b9f49636a06ab0e4866aaa2a2c3e",
+      "http_status": 429,
+      "detail": "Display-name fetch deferred after Rarible API rate limiting; prior values retained."
+    },
+    {
+      "id": "POLYGON:0x3ca89fcea0934efaadf2381906ca1cb004f8989d",
+      "http_status": 429,
+      "detail": "Display-name fetch deferred after Rarible API rate limiting; prior values retained."
+    },
+    {
+      "id": "POLYGON:0xfcc2919a153785d8b0181b05212d54eb5b313a3e",
+      "http_status": 429,
+      "detail": "Display-name fetch deferred after Rarible API rate limiting; prior values retained."
+    },
+    {
+      "id": "POLYGON:0x3eba9e3a6c4cc4883da6cbc0792b4ba62f658da1",
+      "http_status": 429,
+      "detail": "Display-name fetch deferred after Rarible API rate limiting; prior values retained."
+    },
+    {
+      "id": "POLYGON:0xe3c14a10f4398653569ab8eb2f86070565e22206",
+      "http_status": 429,
+      "detail": "Display-name fetch deferred after Rarible API rate limiting; prior values retained."
+    },
+    {
+      "id": "POLYGON:0x398acb7ea6a9602a57d3eaec89588923b5235bc5",
+      "http_status": 429,
+      "detail": "Display-name fetch deferred after Rarible API rate limiting; prior values retained."
+    },
+    {
+      "id": "POLYGON:0x2eea5c7d812e30f2940f6ecdb3dbaddc467a2ee3",
+      "http_status": 429,
+      "detail": "Display-name fetch deferred after Rarible API rate limiting; prior values retained."
+    },
+    {
+      "id": "POLYGON:0x7180b24b73495968acd96f700f0860599a75dc9e",
+      "http_status": 429,
+      "detail": "Display-name fetch deferred after Rarible API rate limiting; prior values retained."
+    },
+    {
+      "id": "POLYGON:0xcd17d2036e0cd836a95c9df33a1b161cd3eebc21",
+      "http_status": 429,
+      "detail": "Display-name fetch deferred after Rarible API rate limiting; prior values retained."
+    },
+    {
+      "id": "POLYGON:0x4867349931a547c47e3f4b4dffe7afa5c59b6174",
+      "http_status": 429,
+      "detail": "Display-name fetch deferred after Rarible API rate limiting; prior values retained."
+    },
+    {
+      "id": "POLYGON:0x6b75497bd0a94b03353c69cd93317e2a3b9ac803",
+      "http_status": 429,
+      "detail": "Display-name fetch deferred after Rarible API rate limiting; prior values retained."
+    },
+    {
+      "id": "POLYGON:0xd42dd7a255a7c3067ab57f66484bd65287fb6de8",
+      "http_status": 429,
+      "detail": "Display-name fetch deferred after Rarible API rate limiting; prior values retained."
+    },
+    {
+      "id": "POLYGON:0xd03c73c8f3e8c7e7957b43df402ecb7640d89f62",
+      "http_status": 429,
+      "detail": "Display-name fetch deferred after Rarible API rate limiting; prior values retained."
+    },
+    {
+      "id": "POLYGON:0x240a1d938d78c76ad8af1ce080858614da311636",
+      "http_status": 429,
+      "detail": "Display-name fetch deferred after Rarible API rate limiting; prior values retained."
+    },
+    {
+      "id": "POLYGON:0xab575d5961a4929386288ccb4cd6ff88cdf253d2",
+      "http_status": 429,
+      "detail": "Display-name fetch deferred after Rarible API rate limiting; prior values retained."
+    },
+    {
+      "id": "POLYGON:0x0fd66c55e5861122376f207b59d71aacb1b0cc4f",
+      "http_status": 429,
+      "detail": "Display-name fetch deferred after Rarible API rate limiting; prior values retained."
+    },
+    {
+      "id": "POLYGON:0x4bdaf58712cf8c69fe619f32f373d541ea87a51a",
+      "http_status": 429,
+      "detail": "Display-name fetch deferred after Rarible API rate limiting; prior values retained."
+    },
+    {
+      "id": "POLYGON:0x2b3d922b71d5bb1d745859f8c2cfa00951bd382a",
+      "http_status": 429,
+      "detail": "Display-name fetch deferred after Rarible API rate limiting; prior values retained."
+    },
+    {
+      "id": "POLYGON:0x0039650dc457f9b5002112fe1ee4c7895f5c14e2",
+      "http_status": 429,
+      "detail": "Display-name fetch deferred after Rarible API rate limiting; prior values retained."
+    },
+    {
+      "id": "POLYGON:0x2595b68c39f9f42f6d533f85fca4cdc6fff29a09",
+      "http_status": 429,
+      "detail": "Display-name fetch deferred after Rarible API rate limiting; prior values retained."
+    },
+    {
+      "id": "POLYGON:0x229f58f93d2607c54d0abcf899c807f1f3b40ab8",
+      "http_status": 429,
+      "detail": "Display-name fetch deferred after Rarible API rate limiting; prior values retained."
+    },
+    {
+      "id": "POLYGON:0x8bcb47ba475fd7d52975a5c660750ad5e60a6281",
+      "http_status": 429,
+      "detail": "Display-name fetch deferred after Rarible API rate limiting; prior values retained."
+    },
+    {
+      "id": "POLYGON:0x0866e58f7faaa78b7bf709398c131586cedf0833",
+      "http_status": 429,
+      "detail": "Display-name fetch deferred after Rarible API rate limiting; prior values retained."
+    },
+    {
+      "id": "POLYGON:0xef0f05593a3ca8a8bb3c5f4ac86ac4af9bfeb346",
+      "http_status": 429,
+      "detail": "Display-name fetch deferred after Rarible API rate limiting; prior values retained."
+    },
+    {
+      "id": "POLYGON:0x53247d58b7e1731a730773f5370f712867a22b5f",
+      "http_status": 429,
+      "detail": "Display-name fetch deferred after Rarible API rate limiting; prior values retained."
+    },
+    {
+      "id": "POLYGON:0xa3ff7a4c4aa5369b73447e71ab3ac6dda69af07f",
+      "http_status": 429,
+      "detail": "Display-name fetch deferred after Rarible API rate limiting; prior values retained."
+    },
+    {
+      "id": "POLYGON:0x186b4d896d3be406ba4868541f866eb58ad6373e",
+      "http_status": 429,
+      "detail": "Display-name fetch deferred after Rarible API rate limiting; prior values retained."
+    },
+    {
+      "id": "POLYGON:0x79f1437646c048815a4187f598b877595f184592",
+      "http_status": 429,
+      "detail": "Display-name fetch deferred after Rarible API rate limiting; prior values retained."
+    },
+    {
+      "id": "POLYGON:0x049474b730f15d863e4b87c352fae7d5acc1197f",
+      "http_status": 429,
+      "detail": "Display-name fetch deferred after Rarible API rate limiting; prior values retained."
+    },
+    {
+      "id": "POLYGON:0x1b15a670992d7b2475ed9578ef962bdc22f753a6",
+      "http_status": 429,
+      "detail": "Display-name fetch deferred after Rarible API rate limiting; prior values retained."
+    },
+    {
+      "id": "POLYGON:0xc0e360dae3bdcb967b16806a14e9621ece8b479a",
+      "http_status": 429,
+      "detail": "Display-name fetch deferred after Rarible API rate limiting; prior values retained."
+    },
+    {
+      "id": "POLYGON:0xea52d6ea1743bc5cb69cf63cd8bc5e53e03b2ed9",
+      "http_status": 429,
+      "detail": "Display-name fetch deferred after Rarible API rate limiting; prior values retained."
+    },
+    {
+      "id": "POLYGON:0x43248fc0a82b96ee59f9a10d8eabbde700b006f9",
+      "http_status": 429,
+      "detail": "Display-name fetch deferred after Rarible API rate limiting; prior values retained."
+    },
+    {
+      "id": "POLYGON:0x6b2c6f1dec14f00d14d6f8f56dd52e2edabeffff",
+      "http_status": 429,
+      "detail": "Display-name fetch deferred after Rarible API rate limiting; prior values retained."
+    },
+    {
+      "id": "POLYGON:0xbfcd6a3dab4b7ba32aae04312786cea9d12aa221",
+      "http_status": 429,
+      "detail": "Display-name fetch deferred after Rarible API rate limiting; prior values retained."
+    },
+    {
+      "id": "POLYGON:0xcf0a77830c9d5ef65325a0884998dea764b0873b",
+      "http_status": 429,
+      "detail": "Display-name fetch deferred after Rarible API rate limiting; prior values retained."
+    },
+    {
+      "id": "POLYGON:0xaf37e249b74b2cf57bfa1ab6cdfa88248e821cb7",
+      "http_status": 429,
+      "detail": "Display-name fetch deferred after Rarible API rate limiting; prior values retained."
+    },
+    {
+      "id": "POLYGON:0x636045ab763b493a80350bfbd08e038029056ae2",
+      "http_status": 429,
+      "detail": "Display-name fetch deferred after Rarible API rate limiting; prior values retained."
+    },
+    {
+      "id": "POLYGON:0xb817501dbcdc39c87d7afab91f41eb3608f312be",
+      "http_status": 429,
+      "detail": "Display-name fetch deferred after Rarible API rate limiting; prior values retained."
+    },
+    {
+      "id": "POLYGON:0x89696ef507b55741dc311733b7658fba5c8eea91",
+      "http_status": 429,
+      "detail": "Display-name fetch deferred after Rarible API rate limiting; prior values retained."
+    },
+    {
+      "id": "POLYGON:0x5847dd7002f1874bf55dd8c1db95b0bbfea84a08",
+      "http_status": 429,
+      "detail": "Display-name fetch deferred after Rarible API rate limiting; prior values retained."
+    },
+    {
+      "id": "POLYGON:0x7cb3de1557bad446c25edb6fb519f2f186ed1589",
+      "http_status": 429,
+      "detail": "Display-name fetch deferred after Rarible API rate limiting; prior values retained."
+    },
+    {
+      "id": "POLYGON:0xf53358fba52b6bd19d0b25f29e727c419f0ee9ea",
+      "http_status": 429,
+      "detail": "Display-name fetch deferred after Rarible API rate limiting; prior values retained."
+    },
+    {
+      "id": "POLYGON:0xe3ae4e46917540b7760bf7702be2f2c503f9bc4b",
+      "http_status": 429,
+      "detail": "Display-name fetch deferred after Rarible API rate limiting; prior values retained."
+    },
+    {
+      "id": "POLYGON:0x19f5dd4d1315adfcda911dbb811f9f1d129cf6ca",
+      "http_status": 429,
+      "detail": "Display-name fetch deferred after Rarible API rate limiting; prior values retained."
+    },
+    {
+      "id": "POLYGON:0x5051775029610e48d325e65d6c5d56fe607bcc0d",
+      "http_status": 429,
+      "detail": "Display-name fetch deferred after Rarible API rate limiting; prior values retained."
+    },
+    {
+      "id": "POLYGON:0x94cb46eda9c53119fb65f28138fea6940f174490",
+      "http_status": 429,
+      "detail": "Display-name fetch deferred after Rarible API rate limiting; prior values retained."
+    },
+    {
+      "id": "POLYGON:0x89ee5c0bcc5ccba8643ea4b6c223e375eb11cf7d",
+      "http_status": 429,
+      "detail": "Display-name fetch deferred after Rarible API rate limiting; prior values retained."
+    },
+    {
+      "id": "POLYGON:0xf08ee0927a9a20bcce7767a239907642f6ff08c9",
+      "http_status": 429,
+      "detail": "Display-name fetch deferred after Rarible API rate limiting; prior values retained."
+    },
+    {
+      "id": "POLYGON:0x34d412f69c428dd1bc781f8bc3371b613b8ff5ab",
+      "http_status": 429,
+      "detail": "Display-name fetch deferred after Rarible API rate limiting; prior values retained."
+    },
+    {
+      "id": "POLYGON:0xe529803b1147bfded54d27dff8c2682d954e64a3",
+      "http_status": 429,
+      "detail": "Display-name fetch deferred after Rarible API rate limiting; prior values retained."
+    }
+  ],
+  "delivery_policy": {
+    "channels": [
+      "Discord",
+      "WhatsApp"
+    ],
+    "trigger": "new completed DC sale only",
+    "format": "one outbound message per scheduled check containing one physical CRLF-terminated line per new sale; no message when no new sale",
+    "sale_fields": [
+      "collection display name",
+      "item name",
+      "rarity",
+      "price and payment currency",
+      "quantity",
+      "sale time"
+    ],
+    "rarity_rule": "fetch Rarible item metadata for each sale; use the attribute whose key is Rarity; emit Unknown when absent or unavailable, never infer"
+  },
+  "last_successful_check_at": "2026-08-27T00:01:17.264414Z"
+}
