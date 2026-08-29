@@ -522,7 +522,59 @@
       "contract": "0x636045ab763b493a80350bfbd08e038029056ae2",
       "display_name": null,
       "name_source": null,
-      "last_sale": null,
+      "last_sale": {
+        "@type": "SELL",
+        "orderId": "POLYGON:0x93917ff610fb992a2c92ffb9f0253c2fe9cba8dfbd616e6b6ecc8a68108c6a74",
+        "source": "RARIBLE",
+        "transactionHash": "0x178879648289e16575bd59a22935c88ebbbb829e5b48d2575c3e10c57a0a9560",
+        "blockchainInfo": {
+          "transactionHash": "0x178879648289e16575bd59a22935c88ebbbb829e5b48d2575c3e10c57a0a9560",
+          "blockHash": "0x8a30f034180c3d408e0ddb25750e9c1aa67a5af7049df00e0d72a7fe3dd2a243",
+          "blockNumber": 92816719,
+          "logIndex": 2723
+        },
+        "id": "POLYGON:6a91a5fbe7303c5185f89587",
+        "date": "2026-08-28T15:15:06Z",
+        "lastUpdatedAt": "2026-08-28T15:15:07.866Z",
+        "cursor": "[1787930106000,92816719,2723,1741858334128667899]",
+        "reverted": false,
+        "nft": {
+          "type": {
+            "@type": "ERC721",
+            "contract": "POLYGON:0x636045ab763b493a80350bfbd08e038029056ae2",
+            "collection": "POLYGON:0x636045ab763b493a80350bfbd08e038029056ae2",
+            "tokenId": "36"
+          },
+          "value": "1"
+        },
+        "payment": {
+          "type": {
+            "@type": "ETH",
+            "blockchain": "POLYGON"
+          },
+          "value": "130"
+        },
+        "buyer": "ETHEREUM:0xd3185fdc413274e6f1f42be530f8a625fd583090",
+        "seller": "ETHEREUM:0xd32c86a2db5e324c450d6e1d0da06d57e3d3e1cf",
+        "buyerOrderHash": "0xcb78e97e10c54330f846a66ac3f879e7614bbcf3b4a4a1cd13cd548a2bbf10f7",
+        "sellerOrderHash": "0x93917ff610fb992a2c92ffb9f0253c2fe9cba8dfbd616e6b6ecc8a68108c6a74",
+        "price": "130",
+        "priceUsd": "14.0200174845405402",
+        "amountUsd": "14.0200174845405402",
+        "type": "SELL",
+        "buyMarketplaceMarker": "0x00000000000000000000000000000000000000000000000209616c6c64617461",
+        "raribleSellerFees": {
+          "value": "2.6",
+          "valueUsd": "0.280400349690810804"
+        },
+        "collection": "POLYGON:0x636045ab763b493a80350bfbd08e038029056ae2",
+        "item_name": "Doctor Fate - Gold #2569",
+        "rarity": "Legendary",
+        "rarity_source": "Rarible item metadata attribute Rarity",
+        "quantity": "1",
+        "activity_id": "POLYGON:6a91a5fbe7303c5185f89587",
+        "token_id": "36"
+      },
       "added_at": "2026-08-26T17:07:44.280198Z",
       "metadata_status": "pending (Rarible metadata HTTP 429)"
     },
@@ -702,23 +754,57 @@
   "baseline": {
     "observed_at": "2026-08-26T17:07:44.280198Z",
     "newest_sale": {
-      "activity_id": "POLYGON:6a8f1a15e7303c5185f86fc4",
-      "date": "2026-08-26T16:53:40Z",
-      "collection": "POLYGON:0x065f62e2d98f6ee8ddf3d6899c4b3a2a9b9b3ea2",
-      "token_id": "780",
-      "quantity": "1",
-      "settlement_type": "SELL",
-      "price": "180",
-      "payment": {
-        "@type": "ETH",
-        "blockchain": "POLYGON"
+      "@type": "SELL",
+      "orderId": "POLYGON:0x93917ff610fb992a2c92ffb9f0253c2fe9cba8dfbd616e6b6ecc8a68108c6a74",
+      "source": "RARIBLE",
+      "transactionHash": "0x178879648289e16575bd59a22935c88ebbbb829e5b48d2575c3e10c57a0a9560",
+      "blockchainInfo": {
+        "transactionHash": "0x178879648289e16575bd59a22935c88ebbbb829e5b48d2575c3e10c57a0a9560",
+        "blockHash": "0x8a30f034180c3d408e0ddb25750e9c1aa67a5af7049df00e0d72a7fe3dd2a243",
+        "blockNumber": 92816719,
+        "logIndex": 2723
       },
-      "amount_usd": "20.2126839559899732",
-      "transaction_hash": "0x12fb360739d52a3af1e02f5a2dbda6619476b64b11f6b08fd0fca92840e246fd",
+      "id": "POLYGON:6a91a5fbe7303c5185f89587",
+      "date": "2026-08-28T15:15:06Z",
+      "lastUpdatedAt": "2026-08-28T15:15:07.866Z",
+      "cursor": "[1787930106000,92816719,2723,1741858334128667899]",
       "reverted": false,
-      "item_name": "Reverse Flash #111",
+      "nft": {
+        "type": {
+          "@type": "ERC721",
+          "contract": "POLYGON:0x636045ab763b493a80350bfbd08e038029056ae2",
+          "collection": "POLYGON:0x636045ab763b493a80350bfbd08e038029056ae2",
+          "tokenId": "36"
+        },
+        "value": "1"
+      },
+      "payment": {
+        "type": {
+          "@type": "ETH",
+          "blockchain": "POLYGON"
+        },
+        "value": "130"
+      },
+      "buyer": "ETHEREUM:0xd3185fdc413274e6f1f42be530f8a625fd583090",
+      "seller": "ETHEREUM:0xd32c86a2db5e324c450d6e1d0da06d57e3d3e1cf",
+      "buyerOrderHash": "0xcb78e97e10c54330f846a66ac3f879e7614bbcf3b4a4a1cd13cd548a2bbf10f7",
+      "sellerOrderHash": "0x93917ff610fb992a2c92ffb9f0253c2fe9cba8dfbd616e6b6ecc8a68108c6a74",
+      "price": "130",
+      "priceUsd": "14.0200174845405402",
+      "amountUsd": "14.0200174845405402",
+      "type": "SELL",
+      "buyMarketplaceMarker": "0x00000000000000000000000000000000000000000000000209616c6c64617461",
+      "raribleSellerFees": {
+        "value": "2.6",
+        "valueUsd": "0.280400349690810804"
+      },
+      "collection": "POLYGON:0x636045ab763b493a80350bfbd08e038029056ae2",
+      "item_name": "Doctor Fate - Gold #2569",
       "rarity": "Legendary",
-      "rarity_source": "Rarible item metadata attribute Rarity"
+      "rarity_source": "Rarible item metadata attribute Rarity",
+      "quantity": "1",
+      "activity_id": "POLYGON:6a91a5fbe7303c5185f89587",
+      "token_id": "36"
     },
     "collections_with_historical_sale": null,
     "search_status": "Initial combined SALE query returned 20 newest sales; full per-collection baseline pending paginated scan."
@@ -1007,5 +1093,68 @@
     ],
     "rarity_rule": "fetch Rarible item metadata for each sale; use the attribute whose key is Rarity; emit Unknown when absent or unavailable, never infer"
   },
-  "last_successful_check_at": "2026-08-27T00:01:17.264414Z"
+  "last_successful_check_at": "2026-08-29T00:01:12.759717Z",
+  "recent_sales": [
+    {
+      "@type": "SELL",
+      "orderId": "POLYGON:0x93917ff610fb992a2c92ffb9f0253c2fe9cba8dfbd616e6b6ecc8a68108c6a74",
+      "source": "RARIBLE",
+      "transactionHash": "0x178879648289e16575bd59a22935c88ebbbb829e5b48d2575c3e10c57a0a9560",
+      "blockchainInfo": {
+        "transactionHash": "0x178879648289e16575bd59a22935c88ebbbb829e5b48d2575c3e10c57a0a9560",
+        "blockHash": "0x8a30f034180c3d408e0ddb25750e9c1aa67a5af7049df00e0d72a7fe3dd2a243",
+        "blockNumber": 92816719,
+        "logIndex": 2723
+      },
+      "id": "POLYGON:6a91a5fbe7303c5185f89587",
+      "date": "2026-08-28T15:15:06Z",
+      "lastUpdatedAt": "2026-08-28T15:15:07.866Z",
+      "cursor": "[1787930106000,92816719,2723,1741858334128667899]",
+      "reverted": false,
+      "nft": {
+        "type": {
+          "@type": "ERC721",
+          "contract": "POLYGON:0x636045ab763b493a80350bfbd08e038029056ae2",
+          "collection": "POLYGON:0x636045ab763b493a80350bfbd08e038029056ae2",
+          "tokenId": "36"
+        },
+        "value": "1"
+      },
+      "payment": {
+        "type": {
+          "@type": "ETH",
+          "blockchain": "POLYGON"
+        },
+        "value": "130"
+      },
+      "buyer": "ETHEREUM:0xd3185fdc413274e6f1f42be530f8a625fd583090",
+      "seller": "ETHEREUM:0xd32c86a2db5e324c450d6e1d0da06d57e3d3e1cf",
+      "buyerOrderHash": "0xcb78e97e10c54330f846a66ac3f879e7614bbcf3b4a4a1cd13cd548a2bbf10f7",
+      "sellerOrderHash": "0x93917ff610fb992a2c92ffb9f0253c2fe9cba8dfbd616e6b6ecc8a68108c6a74",
+      "price": "130",
+      "priceUsd": "14.0200174845405402",
+      "amountUsd": "14.0200174845405402",
+      "type": "SELL",
+      "buyMarketplaceMarker": "0x00000000000000000000000000000000000000000000000209616c6c64617461",
+      "raribleSellerFees": {
+        "value": "2.6",
+        "valueUsd": "0.280400349690810804"
+      },
+      "collection": "POLYGON:0x636045ab763b493a80350bfbd08e038029056ae2",
+      "item_name": "Doctor Fate - Gold #2569",
+      "rarity": "Legendary",
+      "rarity_source": "Rarible item metadata attribute Rarity",
+      "quantity": "1",
+      "activity_id": "POLYGON:6a91a5fbe7303c5185f89587",
+      "token_id": "36"
+    }
+  ],
+  "pending_whatsapp_sale_alert": {
+    "activity_ids": [
+      "POLYGON:6a91a5fbe7303c5185f89587"
+    ],
+    "alert_text": "• **Pending name lookup** — Item: **Doctor Fate - Gold #2569**; Rarity: **Legendary**; Price: **130 POLYGON**; Qty: 1; Sold: 2026-08-28T15:15:06Z\r\n",
+    "delivered": true,
+    "delivered_at": "2026-08-28T20:16:21Z"
+  }
 }
