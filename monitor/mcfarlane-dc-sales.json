@@ -737,7 +737,59 @@
       "contract": "0x34d412f69c428dd1bc781f8bc3371b613b8ff5ab",
       "display_name": null,
       "name_source": null,
-      "last_sale": null,
+      "last_sale": {
+        "@type": "SELL",
+        "orderId": "POLYGON:0xfeb19c094d644ae4245bd1bd43f9ee44c2fa3fdcbcae028266441c6b331fbe36",
+        "source": "RARIBLE",
+        "transactionHash": "0x78fc9fb38c351263d3e4162ec4de75e3867fea00b022809958f5586c0b13af4e",
+        "blockchainInfo": {
+          "transactionHash": "0x78fc9fb38c351263d3e4162ec4de75e3867fea00b022809958f5586c0b13af4e",
+          "blockHash": "0x47e2314a6cad69d898d87fdb53e4d6b96f159284817fe15a0c128cc7d6282181",
+          "blockNumber": 92841072,
+          "logIndex": 766
+        },
+        "id": "POLYGON:6a9234ade7303c5185f898b4",
+        "date": "2026-08-29T01:23:55Z",
+        "lastUpdatedAt": "2026-08-29T01:23:57.316Z",
+        "cursor": "[1787966635000,92841072,766,7284592404857248798]",
+        "reverted": false,
+        "nft": {
+          "type": {
+            "@type": "ERC721",
+            "contract": "POLYGON:0x34d412f69c428dd1bc781f8bc3371b613b8ff5ab",
+            "collection": "POLYGON:0x34d412f69c428dd1bc781f8bc3371b613b8ff5ab",
+            "tokenId": "211"
+          },
+          "value": "1"
+        },
+        "payment": {
+          "type": {
+            "@type": "ETH",
+            "blockchain": "POLYGON"
+          },
+          "value": "100"
+        },
+        "buyer": "ETHEREUM:0xc954579b288180c99a7c45536cd304afaadb9099",
+        "seller": "ETHEREUM:0xd03570e13091150e1ca83dc6d32c7309a9c5d2a5",
+        "buyerOrderHash": "0x5961fec48b8d7e328a83379c3abd00246b04aed7acd5757ec2059c8e7918f4b2",
+        "sellerOrderHash": "0xfeb19c094d644ae4245bd1bd43f9ee44c2fa3fdcbcae028266441c6b331fbe36",
+        "price": "100",
+        "priceUsd": "10.888474198694122",
+        "amountUsd": "10.888474198694122",
+        "type": "SELL",
+        "buyMarketplaceMarker": "0x00000000000000000000000000000000000000000000000209616c6c64617461",
+        "raribleSellerFees": {
+          "value": "2",
+          "valueUsd": "0.21776948397388244"
+        },
+        "activity_id": "POLYGON:6a9234ade7303c5185f898b4",
+        "collection": "POLYGON:0x34d412f69c428dd1bc781f8bc3371b613b8ff5ab",
+        "token_id": "211",
+        "quantity": "1",
+        "item_name": "The Penguin - Purple #70",
+        "rarity": "Epic",
+        "rarity_source": "Rarible item metadata attribute Rarity"
+      },
       "added_at": "2026-08-26T17:07:44.280198Z",
       "metadata_status": "pending (Rarible metadata HTTP 429)"
     },
@@ -755,26 +807,26 @@
     "observed_at": "2026-08-26T17:07:44.280198Z",
     "newest_sale": {
       "@type": "SELL",
-      "orderId": "POLYGON:0x93917ff610fb992a2c92ffb9f0253c2fe9cba8dfbd616e6b6ecc8a68108c6a74",
+      "orderId": "POLYGON:0xfeb19c094d644ae4245bd1bd43f9ee44c2fa3fdcbcae028266441c6b331fbe36",
       "source": "RARIBLE",
-      "transactionHash": "0x178879648289e16575bd59a22935c88ebbbb829e5b48d2575c3e10c57a0a9560",
+      "transactionHash": "0x78fc9fb38c351263d3e4162ec4de75e3867fea00b022809958f5586c0b13af4e",
       "blockchainInfo": {
-        "transactionHash": "0x178879648289e16575bd59a22935c88ebbbb829e5b48d2575c3e10c57a0a9560",
-        "blockHash": "0x8a30f034180c3d408e0ddb25750e9c1aa67a5af7049df00e0d72a7fe3dd2a243",
-        "blockNumber": 92816719,
-        "logIndex": 2723
+        "transactionHash": "0x78fc9fb38c351263d3e4162ec4de75e3867fea00b022809958f5586c0b13af4e",
+        "blockHash": "0x47e2314a6cad69d898d87fdb53e4d6b96f159284817fe15a0c128cc7d6282181",
+        "blockNumber": 92841072,
+        "logIndex": 766
       },
-      "id": "POLYGON:6a91a5fbe7303c5185f89587",
-      "date": "2026-08-28T15:15:06Z",
-      "lastUpdatedAt": "2026-08-28T15:15:07.866Z",
-      "cursor": "[1787930106000,92816719,2723,1741858334128667899]",
+      "id": "POLYGON:6a9234ade7303c5185f898b4",
+      "date": "2026-08-29T01:23:55Z",
+      "lastUpdatedAt": "2026-08-29T01:23:57.316Z",
+      "cursor": "[1787966635000,92841072,766,7284592404857248798]",
       "reverted": false,
       "nft": {
         "type": {
           "@type": "ERC721",
-          "contract": "POLYGON:0x636045ab763b493a80350bfbd08e038029056ae2",
-          "collection": "POLYGON:0x636045ab763b493a80350bfbd08e038029056ae2",
-          "tokenId": "36"
+          "contract": "POLYGON:0x34d412f69c428dd1bc781f8bc3371b613b8ff5ab",
+          "collection": "POLYGON:0x34d412f69c428dd1bc781f8bc3371b613b8ff5ab",
+          "tokenId": "211"
         },
         "value": "1"
       },
@@ -783,28 +835,28 @@
           "@type": "ETH",
           "blockchain": "POLYGON"
         },
-        "value": "130"
+        "value": "100"
       },
-      "buyer": "ETHEREUM:0xd3185fdc413274e6f1f42be530f8a625fd583090",
-      "seller": "ETHEREUM:0xd32c86a2db5e324c450d6e1d0da06d57e3d3e1cf",
-      "buyerOrderHash": "0xcb78e97e10c54330f846a66ac3f879e7614bbcf3b4a4a1cd13cd548a2bbf10f7",
-      "sellerOrderHash": "0x93917ff610fb992a2c92ffb9f0253c2fe9cba8dfbd616e6b6ecc8a68108c6a74",
-      "price": "130",
-      "priceUsd": "14.0200174845405402",
-      "amountUsd": "14.0200174845405402",
+      "buyer": "ETHEREUM:0xc954579b288180c99a7c45536cd304afaadb9099",
+      "seller": "ETHEREUM:0xd03570e13091150e1ca83dc6d32c7309a9c5d2a5",
+      "buyerOrderHash": "0x5961fec48b8d7e328a83379c3abd00246b04aed7acd5757ec2059c8e7918f4b2",
+      "sellerOrderHash": "0xfeb19c094d644ae4245bd1bd43f9ee44c2fa3fdcbcae028266441c6b331fbe36",
+      "price": "100",
+      "priceUsd": "10.888474198694122",
+      "amountUsd": "10.888474198694122",
       "type": "SELL",
       "buyMarketplaceMarker": "0x00000000000000000000000000000000000000000000000209616c6c64617461",
       "raribleSellerFees": {
-        "value": "2.6",
-        "valueUsd": "0.280400349690810804"
+        "value": "2",
+        "valueUsd": "0.21776948397388244"
       },
-      "collection": "POLYGON:0x636045ab763b493a80350bfbd08e038029056ae2",
-      "item_name": "Doctor Fate - Gold #2569",
-      "rarity": "Legendary",
-      "rarity_source": "Rarible item metadata attribute Rarity",
+      "activity_id": "POLYGON:6a9234ade7303c5185f898b4",
+      "collection": "POLYGON:0x34d412f69c428dd1bc781f8bc3371b613b8ff5ab",
+      "token_id": "211",
       "quantity": "1",
-      "activity_id": "POLYGON:6a91a5fbe7303c5185f89587",
-      "token_id": "36"
+      "item_name": "The Penguin - Purple #70",
+      "rarity": "Epic",
+      "rarity_source": "Rarible item metadata attribute Rarity"
     },
     "collections_with_historical_sale": null,
     "search_status": "Initial combined SALE query returned 20 newest sales; full per-collection baseline pending paginated scan."
@@ -1093,7 +1145,7 @@
     ],
     "rarity_rule": "fetch Rarible item metadata for each sale; use the attribute whose key is Rarity; emit Unknown when absent or unavailable, never infer"
   },
-  "last_successful_check_at": "2026-08-29T00:01:12.759717Z",
+  "last_successful_check_at": "2026-08-30T00:02:05.839029Z",
   "recent_sales": [
     {
       "@type": "SELL",
@@ -1147,14 +1199,67 @@
       "quantity": "1",
       "activity_id": "POLYGON:6a91a5fbe7303c5185f89587",
       "token_id": "36"
+    },
+    {
+      "@type": "SELL",
+      "orderId": "POLYGON:0xfeb19c094d644ae4245bd1bd43f9ee44c2fa3fdcbcae028266441c6b331fbe36",
+      "source": "RARIBLE",
+      "transactionHash": "0x78fc9fb38c351263d3e4162ec4de75e3867fea00b022809958f5586c0b13af4e",
+      "blockchainInfo": {
+        "transactionHash": "0x78fc9fb38c351263d3e4162ec4de75e3867fea00b022809958f5586c0b13af4e",
+        "blockHash": "0x47e2314a6cad69d898d87fdb53e4d6b96f159284817fe15a0c128cc7d6282181",
+        "blockNumber": 92841072,
+        "logIndex": 766
+      },
+      "id": "POLYGON:6a9234ade7303c5185f898b4",
+      "date": "2026-08-29T01:23:55Z",
+      "lastUpdatedAt": "2026-08-29T01:23:57.316Z",
+      "cursor": "[1787966635000,92841072,766,7284592404857248798]",
+      "reverted": false,
+      "nft": {
+        "type": {
+          "@type": "ERC721",
+          "contract": "POLYGON:0x34d412f69c428dd1bc781f8bc3371b613b8ff5ab",
+          "collection": "POLYGON:0x34d412f69c428dd1bc781f8bc3371b613b8ff5ab",
+          "tokenId": "211"
+        },
+        "value": "1"
+      },
+      "payment": {
+        "type": {
+          "@type": "ETH",
+          "blockchain": "POLYGON"
+        },
+        "value": "100"
+      },
+      "buyer": "ETHEREUM:0xc954579b288180c99a7c45536cd304afaadb9099",
+      "seller": "ETHEREUM:0xd03570e13091150e1ca83dc6d32c7309a9c5d2a5",
+      "buyerOrderHash": "0x5961fec48b8d7e328a83379c3abd00246b04aed7acd5757ec2059c8e7918f4b2",
+      "sellerOrderHash": "0xfeb19c094d644ae4245bd1bd43f9ee44c2fa3fdcbcae028266441c6b331fbe36",
+      "price": "100",
+      "priceUsd": "10.888474198694122",
+      "amountUsd": "10.888474198694122",
+      "type": "SELL",
+      "buyMarketplaceMarker": "0x00000000000000000000000000000000000000000000000209616c6c64617461",
+      "raribleSellerFees": {
+        "value": "2",
+        "valueUsd": "0.21776948397388244"
+      },
+      "activity_id": "POLYGON:6a9234ade7303c5185f898b4",
+      "collection": "POLYGON:0x34d412f69c428dd1bc781f8bc3371b613b8ff5ab",
+      "token_id": "211",
+      "quantity": "1",
+      "item_name": "The Penguin - Purple #70",
+      "rarity": "Epic",
+      "rarity_source": "Rarible item metadata attribute Rarity"
     }
   ],
   "pending_whatsapp_sale_alert": {
     "activity_ids": [
-      "POLYGON:6a91a5fbe7303c5185f89587"
+      "POLYGON:6a9234ade7303c5185f898b4"
     ],
-    "alert_text": "• **Pending name lookup** — Item: **Doctor Fate - Gold #2569**; Rarity: **Legendary**; Price: **130 POLYGON**; Qty: 1; Sold: 2026-08-28T15:15:06Z\r\n",
+    "alert_text": "• **Pending name lookup** — Item: **The Penguin - Purple #70**; Rarity: **Epic**; Price: **100 POLYGON**; Qty: 1; Sold: 2026-08-29T01:23:55Z",
     "delivered": true,
-    "delivered_at": "2026-08-28T20:16:21Z"
+    "delivered_at": "2026-08-29T20:16:27.358755Z"
   }
 }
