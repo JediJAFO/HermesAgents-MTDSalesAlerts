@@ -1145,7 +1145,7 @@
     ],
     "rarity_rule": "fetch Rarible item metadata for each sale; use the attribute whose key is Rarity; emit Unknown when absent or unavailable, never infer"
   },
-  "last_successful_check_at": "2026-08-30T00:02:05.839029Z",
+  "last_successful_check_at": "2026-09-01T00:02:06.371757Z",
   "recent_sales": [
     {
       "@type": "SELL",
