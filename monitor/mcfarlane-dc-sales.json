@@ -1145,7 +1145,7 @@
     ],
     "rarity_rule": "fetch Rarible item metadata for each sale; use the attribute whose key is Rarity; emit Unknown when absent or unavailable, never infer"
   },
-  "last_successful_check_at": "2026-09-01T00:02:06.371757Z",
+  "last_successful_check_at": "2026-09-01T04:03:59.113577Z",
   "recent_sales": [
     {
       "@type": "SELL",
@@ -1261,5 +1261,9 @@
     "alert_text": "• **Pending name lookup** — Item: **The Penguin - Purple #70**; Rarity: **Epic**; Price: **100 POLYGON**; Qty: 1; Sold: 2026-08-29T01:23:55Z",
     "delivered": true,
     "delivered_at": "2026-08-29T20:16:27.358755Z"
+  },
+  "last_fetch_failure": {
+    "at": "2026-09-01T12:01:43.886512Z",
+    "error": "RuntimeError: incomplete activities response"
   }
 }
