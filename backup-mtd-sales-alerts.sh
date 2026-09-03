@@ -14,9 +14,10 @@ cp "$SOURCE/mcfarlane-dc-contracts.txt" "$REPO/monitor/"
 cp "$SOURCE/mcfarlane-dc-sales.json" "$REPO/monitor/"
 cp "$SOURCE/mcfarlane-dc-sales-catalog.md" "$REPO/monitor/"
 cp "$SOURCE/mcfarlane-dc-sales-database.md" "$REPO/monitor/"
+cp "$SOURCE/mcfarlane-dc-metadata.md" "$REPO/monitor/"
 
 cd "$REPO"
-git add README.md .gitignore backup-mtd-sales-alerts.sh monitor/
+git add README.md .gitignore backup-mtd-sales-alerts.sh enrich_mtd_dc_metadata.py monitor/
 
 if git diff --cached --quiet; then
   printf 'No MTD monitor changes to back up.\n'

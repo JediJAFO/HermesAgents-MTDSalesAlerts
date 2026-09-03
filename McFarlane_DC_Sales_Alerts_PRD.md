@@ -1,8 +1,8 @@
 # Product Requirements Document — McFarlane DC Completed-Sale Alerts
 
-**Version:** 1.0  
-**Last updated:** 2026-09-01 EDT  
-**Implementation signature:** `decf9fb33a6c`  
+**Version:** 1.1  
+**Last updated:** 2026-09-02 EDT  
+**Implementation signature:** `b4db85cc9559`  
 **Status:** Active  
 **Private state:** `C:/Users/jltfo/AppData/Local/hermes/price-watches/mcfarlane-dc-sales.json`
 
@@ -27,7 +27,14 @@ Detect newly completed McFarlane DC marketplace sales across the configured stor
 5. Deduplicate new activity by activity ID and ignore reverted activity.
 6. For each new sale, fetch item metadata serially with a measured 10-second gap between metadata requests.
 7. Use the item metadata attribute whose key is exactly `Rarity`; report `Unknown` when unavailable rather than inferring rarity.
-8. Atomically update recent-sale history, collection last-sale data, baseline, and a pending WhatsApp sale event.
+8. Preserve the normalized buyer wallet from the Rarible activity, then resolve a buyer Name Tag only when exactly one local PolygonScan alias record matches the wallet.
+9. Atomically update recent-sale history, collection last-sale data, baseline, and a pending WhatsApp sale event.
+
+## Last-purchase history
+
+- Private sale history retains both `buyer_wallet` and, where a unique local match exists, `buyer_name_tag`.
+- A saved Name Tag is preferred in history displays; otherwise the saved buyer wallet is used. Missing historical buyer data is rendered as `Buyer not recorded` rather than inferred.
+- Alias resolution is local-only: exact wallet aliases take precedence, then a unique case-insensitive masked-address prefix/suffix match. Ambiguous or unmatched records are never assigned a Name Tag.
 
 ## Failure handling
 
@@ -44,7 +51,7 @@ A successful primary run always reports either:
 - one line confirming no new completed sales; or
 - one aggregate message containing every newly found sale, one CRLF-terminated physical line per sale.
 
-A sale line includes collection display name, item name, verified rarity or `Unknown`, price/payment asset, quantity, and sale time.
+A sale line includes collection display name, item name, verified rarity or `Unknown`, price/payment asset, sale time, and buyer identity. A uniquely resolved Name Tag is preferred; an unmatched wallet is privacy-masked in outbound alerts.
 
 ### WhatsApp
 
@@ -54,7 +61,7 @@ The downstream job reads only the pending state event. It sends one aggregated a
 
 - Rarible credentials stay in runtime secret configuration only.
 - State and backup handling exclude credentials and delivery identities.
-- Public reports do not expose internal baseline IDs, API credentials, or diagnostic logs.
+- Public reports do not expose internal baseline IDs, API credentials, or diagnostic logs. Raw buyer wallets remain private-state data; outbound alerts use a verified Name Tag where available or a privacy-masked wallet suffix.
 
 ## Backup and review
 

@@ -141,128 +141,577 @@
     {
       "id": "POLYGON:0x3ca89fcea0934efaadf2381906ca1cb004f8989d",
       "contract": "0x3ca89fcea0934efaadf2381906ca1cb004f8989d",
-      "display_name": null,
-      "name_source": null,
+      "display_name": "Green Lantern - Build-a-wave",
+      "name_source": "Rarible collection metadata",
       "last_sale": null,
       "added_at": "2026-08-26T17:07:44.280198Z",
-      "metadata_status": "pending (Rarible metadata HTTP 429)"
+      "metadata_status": "verified",
+      "metadata": {
+        "id": "POLYGON:0x3ca89fcea0934efaadf2381906ca1cb004f8989d",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-10-03T19:54:18.514Z",
+        "meta": {
+          "name": "Green Lantern - Build-a-wave",
+          "tags": [],
+          "genres": [],
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://s3.us-west-2.amazonaws.com/public-assets.mcfarlane.digital/1711651056855_ace84d17725b585342c050e8.jpg",
+              "representation": "ORIGINAL",
+              "mimeType": "image/jpeg",
+              "size": 170835,
+              "available": true,
+              "width": 2048,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      "symbol": "TOKEN",
+      "last_metadata_update_at": "2025-10-03T19:54:18.514Z"
     },
     {
       "id": "POLYGON:0xfcc2919a153785d8b0181b05212d54eb5b313a3e",
       "contract": "0xfcc2919a153785d8b0181b05212d54eb5b313a3e",
-      "display_name": null,
-      "name_source": null,
+      "display_name": "Catwoman: Knightfall Black Suit",
+      "name_source": "Rarible collection metadata",
       "last_sale": null,
       "added_at": "2026-08-26T17:07:44.280198Z",
-      "metadata_status": "pending (Rarible metadata HTTP 429)"
+      "metadata_status": "verified",
+      "metadata": {
+        "id": "POLYGON:0xfcc2919a153785d8b0181b05212d54eb5b313a3e",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-10-03T19:54:17.421Z",
+        "meta": {
+          "name": "Catwoman: Knightfall Black Suit",
+          "tags": [],
+          "genres": [],
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/bafybeigwpkssqp5ql3w3qjujwe2mq5xyd6fnqqq7um7qwphy5325wsv22q/MTD-ART-CARD0.25x-1.png",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 810987,
+              "available": true,
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        }
+      },
+      "symbol": "MTD-CKBS",
+      "last_metadata_update_at": "2025-10-03T19:54:17.421Z"
     },
     {
       "id": "POLYGON:0x3eba9e3a6c4cc4883da6cbc0792b4ba62f658da1",
       "contract": "0x3eba9e3a6c4cc4883da6cbc0792b4ba62f658da1",
-      "display_name": null,
-      "name_source": null,
+      "display_name": "Catwoman",
+      "name_source": "Rarible collection metadata",
       "last_sale": null,
       "added_at": "2026-08-26T17:07:44.280198Z",
-      "metadata_status": "pending (Rarible metadata HTTP 429)"
+      "metadata_status": "verified",
+      "metadata": {
+        "id": "POLYGON:0x3eba9e3a6c4cc4883da6cbc0792b4ba62f658da1",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-10-03T19:54:17.269Z",
+        "meta": {
+          "name": "Catwoman",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmPLod8g26qtaijcavyqhNTcT3RAGKLKttoJ2xLAdJQ95V/0",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/bafybeic4y4fvmcavxap35elavjrvadcpv56u4ibq72fr7qx4mgcwp6j2wy",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 356370,
+              "available": true,
+              "width": 1018,
+              "height": 1032
+            }
+          ],
+          "sellerFeeBasisPoints": 1000,
+          "feeRecipient": "ETHEREUM:0xf7e5b65880b0e66ad272fb7980c888c3001b2254"
+        }
+      },
+      "symbol": "MTD-CWMKF",
+      "last_metadata_update_at": "2025-10-03T19:54:17.269Z"
     },
     {
       "id": "POLYGON:0xe3c14a10f4398653569ab8eb2f86070565e22206",
       "contract": "0xe3c14a10f4398653569ab8eb2f86070565e22206",
-      "display_name": null,
-      "name_source": null,
+      "display_name": "Green Lantern - Hal Jordan",
+      "name_source": "Rarible collection metadata",
       "last_sale": null,
       "added_at": "2026-08-26T17:07:44.280198Z",
-      "metadata_status": "pending (Rarible metadata HTTP 429)"
+      "metadata_status": "verified",
+      "metadata": {
+        "id": "POLYGON:0xe3c14a10f4398653569ab8eb2f86070565e22206",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-10-03T19:54:18.899Z",
+        "meta": {
+          "name": "Green Lantern - Hal Jordan",
+          "description": "Hal Jordan’s life was changed twice by crashing aircraft. The first time was when he witnessed the death of his father, pilot Martin Jordan. The second was when, as an adult and trained pilot himself, he was summoned to the crashed wreckage of a spaceship belonging to Abin Sur. Abin explained that he was a member of the Green Lantern Corps, an organization of beings from across the cosmos, armed with power rings fueled by the green energy of all the willpower in the universe. Upon his death, Abin entrusted his ring and duties as the Green Lantern of Earth’s space sector to Hal Jordan.",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmUzcWeNLSKNa7TyUPFKzo7AwZsDeHZpkbWCau59ypo6vW/0",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/bafybeicbk54uq6vkmv56kdil7olzrv7dwruhgpngkypmep2vky4ekguvou/ART%20CARD%20TEMPLATE0_3.png",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 971432,
+              "available": true,
+              "width": 1229,
+              "height": 1229
+            }
+          ],
+          "sellerFeeBasisPoints": 1000,
+          "feeRecipient": "ETHEREUM:0xf7e5b65880b0e66ad272fb7980c888c3001b2254"
+        }
+      },
+      "symbol": "MTD-GREEN",
+      "last_metadata_update_at": "2025-10-03T19:54:18.899Z"
     },
     {
       "id": "POLYGON:0x398acb7ea6a9602a57d3eaec89588923b5235bc5",
       "contract": "0x398acb7ea6a9602a57d3eaec89588923b5235bc5",
-      "display_name": null,
-      "name_source": null,
+      "display_name": "Batwing (The Flash)",
+      "name_source": "Rarible collection metadata",
       "last_sale": null,
       "added_at": "2026-08-26T17:07:44.280198Z",
-      "metadata_status": "pending (Rarible metadata HTTP 429)"
+      "metadata_status": "verified",
+      "metadata": {
+        "id": "POLYGON:0x398acb7ea6a9602a57d3eaec89588923b5235bc5",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-10-03T18:54:17.052Z",
+        "meta": {
+          "name": "Batwing (The Flash)",
+          "description": "When Bruce Wayne is coaxed out of retirement by The Flash for an urgent mission, not only does he suit up as Batman once more, but he deploys one of his most famous vehicles: the Batwing. Updated for the times, the sleek design is inspired by the original 1989 version.",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmSCc3inmoBaVjzigjekMWCnUNUcU7xBpMyj8gtRC7buGe/0",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/bafybeidoji4hq4sucakhgdkse3b3qjrffy3ptqhy4vp5hfd5yx2eksovcq/batwing-artcard0_3.png",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 1020364,
+              "available": true,
+              "width": 1229,
+              "height": 1229
+            }
+          ],
+          "sellerFeeBasisPoints": 0,
+          "feeRecipient": "ETHEREUM:0x0b02ca2bc0c9e40171e0b3b09908729ebc934434"
+        }
+      },
+      "symbol": "MTD-BTWFLSH",
+      "last_metadata_update_at": "2025-10-03T18:54:17.052Z"
     },
     {
       "id": "POLYGON:0x2eea5c7d812e30f2940f6ecdb3dbaddc467a2ee3",
       "contract": "0x2eea5c7d812e30f2940f6ecdb3dbaddc467a2ee3",
-      "display_name": null,
-      "name_source": null,
+      "display_name": "Superman Action Comics 1",
+      "name_source": "Rarible collection metadata",
       "last_sale": null,
       "added_at": "2026-08-26T17:07:44.280198Z",
-      "metadata_status": "pending (Rarible metadata HTTP 429)"
+      "metadata_status": "verified",
+      "metadata": {
+        "id": "POLYGON:0x2eea5c7d812e30f2940f6ecdb3dbaddc467a2ee3",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-10-18T22:55:40.298Z",
+        "meta": {
+          "name": "Superman Action Comics 1",
+          "description": "The most famous comic book cover of all-time is now the ultimate statue for any DC collector. Celebrate Superman’s 85th anniversary with this timeless and stunning tribute to Action Comics #1 and the first appearance of Superman.",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmTQ5pnf9HZQKF3u3vyqAA96Cn1xVzJxg8EY16L22hGdTg/0",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/bafybeihwgbpnpuvrbwqnxcm6h5ybiejpmr7rdbwlmchw6kqtlmh4dt4rri/ART-CARD-superman-ac10.25x-1-980x980.png",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 826535,
+              "available": true,
+              "width": 980,
+              "height": 980
+            }
+          ],
+          "sellerFeeBasisPoints": 1000,
+          "feeRecipient": "ETHEREUM:0xf7e5b65880b0e66ad272fb7980c888c3001b2254"
+        }
+      },
+      "symbol": "MTD-SAC1",
+      "last_metadata_update_at": "2025-10-18T22:55:40.298Z"
     },
     {
       "id": "POLYGON:0x7180b24b73495968acd96f700f0860599a75dc9e",
       "contract": "0x7180b24b73495968acd96f700f0860599a75dc9e",
-      "display_name": null,
-      "name_source": null,
+      "display_name": "Doomsday",
+      "name_source": "Rarible collection metadata",
       "last_sale": null,
       "added_at": "2026-08-26T17:07:44.280198Z",
-      "metadata_status": "pending (Rarible metadata HTTP 429)"
+      "metadata_status": "verified",
+      "metadata": {
+        "id": "POLYGON:0x7180b24b73495968acd96f700f0860599a75dc9e",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-10-03T19:54:18.199Z",
+        "meta": {
+          "name": "Doomsday",
+          "description": "Long ago, scientists on the planet Krypton engineered a creature to be the ultimate weapon. This creature, the Ultimate, had no purpose except destruction, and made his way across other planets before finally being defeated. Buried on the primitive planet Earth, he stirred awake after many centuries and unleashed death, earning himself the name Doomsday. The monster was finally stopped by Superman, who seemingly lost his own life in the process. Driven by an instinct to hunt the inhabitants of his own homeworld, Doomsday has resurfaced time and time again to threaten Superman and his adopted planet—no matter what gets in his way",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmVKkuoKXrnUvgvqNmgpxfKMSn5DqTCN1C5kGu2qLc1qn3/0",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/bafybeihffdaa2hue3ge4xgqwlaqm3ffuhpd7q237fj3ouqbshdoxcyeq4a/doomsday_grey_1x1_logos.png",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 12685546,
+              "available": true,
+              "width": 4096,
+              "height": 4096
+            }
+          ],
+          "sellerFeeBasisPoints": 1000,
+          "feeRecipient": "ETHEREUM:0xf7e5b65880b0e66ad272fb7980c888c3001b2254"
+        }
+      },
+      "symbol": "MTD-DOOM",
+      "last_metadata_update_at": "2025-10-03T19:54:18.199Z"
     },
     {
       "id": "POLYGON:0xcd17d2036e0cd836a95c9df33a1b161cd3eebc21",
       "contract": "0xcd17d2036e0cd836a95c9df33a1b161cd3eebc21",
-      "display_name": null,
-      "name_source": null,
+      "display_name": "Batman by Todd McFarlane",
+      "name_source": "Rarible collection metadata",
       "last_sale": null,
       "added_at": "2026-08-26T17:07:44.280198Z",
-      "metadata_status": "pending (Rarible metadata HTTP 429)"
+      "metadata_status": "verified",
+      "metadata": {
+        "id": "POLYGON:0xcd17d2036e0cd836a95c9df33a1b161cd3eebc21",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2026-08-12T00:12:35.719Z",
+        "meta": {
+          "name": "Batman by Todd McFarlane",
+          "tags": [],
+          "genres": [],
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/QmW62kTapHB3DFoPKA26RGVfg3oLwromkZ4JdaL2HZEcMd",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 1137417,
+              "available": true,
+              "width": 1229,
+              "height": 1229
+            }
+          ]
+        }
+      },
+      "symbol": "MTD-BTM12",
+      "last_metadata_update_at": "2026-08-12T00:12:35.719Z"
     },
     {
       "id": "POLYGON:0x4867349931a547c47e3f4b4dffe7afa5c59b6174",
       "contract": "0x4867349931a547c47e3f4b4dffe7afa5c59b6174",
-      "display_name": null,
-      "name_source": null,
+      "display_name": "Mr Freeze",
+      "name_source": "Rarible collection metadata",
       "last_sale": null,
       "added_at": "2026-08-26T17:07:44.280198Z",
-      "metadata_status": "pending (Rarible metadata HTTP 429)"
+      "metadata_status": "verified",
+      "metadata": {
+        "id": "POLYGON:0x4867349931a547c47e3f4b4dffe7afa5c59b6174",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-10-30T15:45:22.792Z",
+        "meta": {
+          "name": "Mr Freeze",
+          "description": "An expert in the field of cryogenics, Victor led a relatively normal existence. He worked diligently, but also fell in love with and eventually married a woman named Nora. Sadly, things took an unfortunate turn soon after. Nora became terminally ill, and to stop her degenerative disease from taking her life, Victor put her into suspended animation. The corporation funding Victor’s work shut down his experiments and, in the process, caused a horrible accident. The coolants did irreparable harm and made it impossible for him to survive above freezing temperatures. To counteract this, Victor constructed a special, ultra-durable suit to keep his body alive and at the right temperature. He embraced his new persona and became Mr. Freeze.",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmTQCMrocpP3MrGaadB5frn1Gx2YY3C1FS5Rsxi8DgyQn8/0",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/bafybeiftncmzqufuvmcj4dkz5tpo2zld36qzvenknrw7azqgx57yrwgio4/collection-logo.png",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 629652,
+              "available": true,
+              "width": 840,
+              "height": 840
+            }
+          ],
+          "sellerFeeBasisPoints": 1000,
+          "feeRecipient": "ETHEREUM:0xf7e5b65880b0e66ad272fb7980c888c3001b2254"
+        }
+      },
+      "symbol": "MTD-MFZ",
+      "last_metadata_update_at": "2025-10-30T15:45:22.792Z"
     },
     {
       "id": "POLYGON:0x6b75497bd0a94b03353c69cd93317e2a3b9ac803",
       "contract": "0x6b75497bd0a94b03353c69cd93317e2a3b9ac803",
-      "display_name": null,
-      "name_source": null,
+      "display_name": "Martian Manhunter",
+      "name_source": "Rarible collection metadata",
       "last_sale": null,
       "added_at": "2026-08-26T17:07:44.280198Z",
-      "metadata_status": "pending (Rarible metadata HTTP 429)"
+      "metadata_status": "verified",
+      "metadata": {
+        "id": "POLYGON:0x6b75497bd0a94b03353c69cd93317e2a3b9ac803",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-10-03T22:54:20.461Z",
+        "meta": {
+          "name": "Martian Manhunter",
+          "description": "J’onn J’onzz, the mysterious Martian Manhunter, is one of the last survivors of the planet Mars, and was accidentally transported to Earth not long after the majority of his people were wiped out. Martian Manhunter is thought to be as strong as, or possibly stronger than, Superman, and has a variety of powers including super-strength, super-speed, flight, telepathy, telekinesis, shape-shifting, phase-shifting, regenerative abilities, and near-invulnerability. Manhunter also has genius-level intellect and strong leadership skills. Using his vast powers and skills, Martian Manhunter strives to protect the citizens of his new home, Earth.",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmembTNaehGRRqqrWYicXmH1ba9mGoB7aLwuyHt2bsAoWk/0",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/bafybeiaqh2nc3lonab3h6h3sen4qsgdtotn3angypsyxydu47kgnv7qj2u/mm%20key%20art%201x1.png",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 11641977,
+              "available": true,
+              "width": 4096,
+              "height": 4096
+            }
+          ],
+          "sellerFeeBasisPoints": 1000,
+          "feeRecipient": "ETHEREUM:0xf7e5b65880b0e66ad272fb7980c888c3001b2254"
+        }
+      },
+      "symbol": "MTD-MMH",
+      "last_metadata_update_at": "2025-10-03T22:54:20.461Z"
     },
     {
       "id": "POLYGON:0xd42dd7a255a7c3067ab57f66484bd65287fb6de8",
       "contract": "0xd42dd7a255a7c3067ab57f66484bd65287fb6de8",
-      "display_name": null,
-      "name_source": null,
+      "display_name": "Knightfall",
+      "name_source": "Rarible collection metadata",
       "last_sale": null,
       "added_at": "2026-08-26T17:07:44.280198Z",
-      "metadata_status": "pending (Rarible metadata HTTP 429)"
+      "metadata_status": "verified",
+      "metadata": {
+        "id": "POLYGON:0xd42dd7a255a7c3067ab57f66484bd65287fb6de8",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-11-15T08:23:05.999Z",
+        "meta": {
+          "name": "Knightfall",
+          "description": "As a child, Bruce Wayne watched as his parents were brutally killed in Gotham City's Crime Alley. Traumatized by their deaths, he devoted his life to becoming the worlds greatest weapon against crime - the Batman! To become the ultimate vigilante, the Dark Knight disciplined his mind and body to reach the pinnacle of mental and physical superiority in his relentless pursuit of justice!",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmS7isHwsKQzxfPsNvfkR6p161aurFpU247sPZhxRTXy1T/0",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/bafybeigho7ue4wbdfxpbcjdovujenwgjr6oyn4yggfgqbndtorsy4uso6e/knightfall-batman_n_bane.png",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 14461848,
+              "available": true,
+              "width": 4096,
+              "height": 4096
+            }
+          ],
+          "sellerFeeBasisPoints": 1000,
+          "feeRecipient": "ETHEREUM:0xf7e5b65880b0e66ad272fb7980c888c3001b2254"
+        }
+      },
+      "symbol": "MTD-KFL",
+      "last_metadata_update_at": "2025-11-15T08:23:05.999Z"
     },
     {
       "id": "POLYGON:0xd03c73c8f3e8c7e7957b43df402ecb7640d89f62",
       "contract": "0xd03c73c8f3e8c7e7957b43df402ecb7640d89f62",
-      "display_name": null,
-      "name_source": null,
+      "display_name": "Batman: Knightfall",
+      "name_source": "Rarible collection metadata",
       "last_sale": null,
       "added_at": "2026-08-26T17:07:44.280198Z",
-      "metadata_status": "pending (Rarible metadata HTTP 429)"
+      "metadata_status": "verified",
+      "metadata": {
+        "id": "POLYGON:0xd03c73c8f3e8c7e7957b43df402ecb7640d89f62",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-10-03T17:54:16.644Z",
+        "meta": {
+          "name": "Batman: Knightfall",
+          "description": "As a child, Bruce Wayne watched as his parents were brutally killed in Gotham City’s Crime Alley. Traumatized by their deaths, he devoted his life to becoming the world’s greatest weapon against crime – the Batman! To become the ultimate vigilante, the Dark Knight disciplined his mind and body to reach the pinnacle of lental and physical superiority in his relentless pursuit of justice!",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmP9K6dwkMUu8KnWSZTZ8kyBxXm9GkE2PjaXdhfwewPa8J/0",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/bafybeig5hvulh3dtfvpkor2jnicyv5kygw7z5duvfc6sg56kgz3lqyjw64/blue-cape-batman.png",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 1509277,
+              "available": true,
+              "width": 1384,
+              "height": 1384
+            }
+          ],
+          "sellerFeeBasisPoints": 1000,
+          "feeRecipient": "ETHEREUM:0xf7e5b65880b0e66ad272fb7980c888c3001b2254"
+        }
+      },
+      "symbol": "MTD-BKF",
+      "last_metadata_update_at": "2025-10-03T17:54:16.644Z"
     },
     {
       "id": "POLYGON:0x240a1d938d78c76ad8af1ce080858614da311636",
       "contract": "0x240a1d938d78c76ad8af1ce080858614da311636",
-      "display_name": null,
-      "name_source": null,
+      "display_name": "Deathstroke",
+      "name_source": "Rarible collection metadata",
       "last_sale": null,
       "added_at": "2026-08-26T17:07:44.280198Z",
-      "metadata_status": "pending (Rarible metadata HTTP 429)"
+      "metadata_status": "verified",
+      "metadata": {
+        "id": "POLYGON:0x240a1d938d78c76ad8af1ce080858614da311636",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-10-03T19:54:17.942Z",
+        "meta": {
+          "name": "Deathstroke",
+          "description": "Slade Wilson is a mercenary and assassin for hire with no qualms about crossing lines to get the job done, no matter where those lines are drawn. A formidable operative for the U.S. military, Col. Slade Wilson agreed to undergo an experimental process that increased his mental and physical abilities to superhuman levels. Rather than continue his career as a soldier, Slade became the masked mercenary Deathstroke. This decision resulted in his wife leaving him and his son Joseph being permanently injured, as well as the death of his son Grant, who sought to emulate Slade.",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmPFNqN4cnUPMxMPHT6noZbBR4o84uNatVSoQHJovCzZFi/0",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/bafybeidxyiocst4lcs626x4d4a4hmypcvfkg5n4byw5r74mpqvymhczewy/Deathstroke%201x1.png",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 3429413,
+              "available": true,
+              "width": 4096,
+              "height": 4096
+            }
+          ],
+          "sellerFeeBasisPoints": 1000,
+          "feeRecipient": "ETHEREUM:0xf7e5b65880b0e66ad272fb7980c888c3001b2254"
+        }
+      },
+      "symbol": "MTD-DTH",
+      "last_metadata_update_at": "2025-10-03T19:54:17.942Z"
     },
     {
       "id": "POLYGON:0xab575d5961a4929386288ccb4cd6ff88cdf253d2",
       "contract": "0xab575d5961a4929386288ccb4cd6ff88cdf253d2",
-      "display_name": null,
-      "name_source": null,
+      "display_name": "Batman Poster",
+      "name_source": "Rarible collection metadata",
       "last_sale": null,
       "added_at": "2026-08-26T17:07:44.280198Z",
-      "metadata_status": "pending (Rarible metadata HTTP 429)"
+      "metadata_status": "verified",
+      "metadata": {
+        "id": "POLYGON:0xab575d5961a4929386288ccb4cd6ff88cdf253d2",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-10-03T17:54:16.198Z",
+        "meta": {
+          "name": "Batman Poster",
+          "description": "Collection of Batman Posters to celebrate Batman Day 2023.",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmTuEEkRKQMT95vjd8W2ZhypaKQvcmqzcAUFHYyAzrrjuE/0",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/bafybeidmaniiyn24om4a7ytlxjpnwbdozjuyvk2iqx2a4hnr3ulrizcgti/BY2%20POAP%20NAVY.png",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 4231191,
+              "available": true,
+              "width": 17067,
+              "height": 17068
+            }
+          ],
+          "sellerFeeBasisPoints": 1000,
+          "feeRecipient": "ETHEREUM:0xf7e5b65880b0e66ad272fb7980c888c3001b2254"
+        }
+      },
+      "symbol": "MTD-BPO",
+      "last_metadata_update_at": "2025-10-03T17:54:16.198Z"
     },
     {
       "id": "POLYGON:0x0fd66c55e5861122376f207b59d71aacb1b0cc4f",
@@ -271,52 +720,215 @@
       "name_source": null,
       "last_sale": null,
       "added_at": "2026-08-26T17:07:44.280198Z",
-      "metadata_status": "pending (Rarible metadata HTTP 429)"
+      "metadata_status": "pending (Rarible metadata request failed HTTP 404)",
+      "last_metadata_error": "Rarible metadata request failed HTTP 404",
+      "next_metadata_retry_at": "2026-09-03T04:05:22.722635Z"
     },
     {
       "id": "POLYGON:0x4bdaf58712cf8c69fe619f32f373d541ea87a51a",
       "contract": "0x4bdaf58712cf8c69fe619f32f373d541ea87a51a",
-      "display_name": null,
-      "name_source": null,
+      "display_name": "Batman: Year Two, Designed by Todd McFarlane",
+      "name_source": "Rarible collection metadata",
       "last_sale": null,
       "added_at": "2026-08-26T17:07:44.280198Z",
-      "metadata_status": "pending (Rarible metadata HTTP 429)"
+      "metadata_status": "verified",
+      "metadata": {
+        "id": "POLYGON:0x4bdaf58712cf8c69fe619f32f373d541ea87a51a",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2026-08-12T00:12:35.733Z",
+        "meta": {
+          "name": "Batman: Year Two, Designed by Todd McFarlane",
+          "description": "Based on the iconic look from the Batman Year Two comic, this is the first ever digital collectible designed by Todd McFarlane himself. The digital collectible is fully animated, and a few have been digitally signed by Todd McFarlane. In the comic, after failing miserably to defeat the Reaper, Batman must consider fighting fire with fire, which unfortunately puts him at deadly odds with the Gotham City Police Department. Forced to then work with Joe Chill as a result, the man responsible for killing his parents, Batman must do what he can to put an end to the Reaper’s tyranny, even if it goes against his best interest.",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmRXykwRSm4ZmnfRPJRnshKxczo57QJGb9qpJDzWgFhtux/0",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/bafybeigdhnsnvlwvvg7jgspji4pz7vcfsmo5wkw4n4glsnel6yfw2gss3m/BY2-01.jpg",
+              "representation": "ORIGINAL",
+              "mimeType": "image/jpeg",
+              "size": 1765844,
+              "available": true,
+              "width": 4096,
+              "height": 4096
+            }
+          ],
+          "sellerFeeBasisPoints": 1000,
+          "feeRecipient": "ETHEREUM:0xf7e5b65880b0e66ad272fb7980c888c3001b2254"
+        }
+      },
+      "symbol": "BY2",
+      "last_metadata_update_at": "2026-08-12T00:12:35.733Z"
     },
     {
       "id": "POLYGON:0x2b3d922b71d5bb1d745859f8c2cfa00951bd382a",
       "contract": "0x2b3d922b71d5bb1d745859f8c2cfa00951bd382a",
-      "display_name": null,
-      "name_source": null,
+      "display_name": "Black Adam Bust",
+      "name_source": "Rarible collection metadata",
       "last_sale": null,
       "added_at": "2026-08-26T17:07:44.280198Z",
-      "metadata_status": "pending (Rarible metadata HTTP 429)"
+      "metadata_status": "verified",
+      "metadata": {
+        "id": "POLYGON:0x2b3d922b71d5bb1d745859f8c2cfa00951bd382a",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-04-17T16:45:00.387Z",
+        "meta": {
+          "name": "Black Adam Bust",
+          "tags": [],
+          "genres": [],
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/bafybeic4qtflxnrjczqvfj7yju4wp24zdeunrm7wug22c6pd2davsr3fea",
+              "representation": "ORIGINAL",
+              "mimeType": "image/jpeg",
+              "size": 2014298,
+              "available": true,
+              "width": 4096,
+              "height": 4096
+            }
+          ]
+        }
+      },
+      "symbol": "MTD-BAB",
+      "last_metadata_update_at": "2025-04-17T16:45:00.387Z"
     },
     {
       "id": "POLYGON:0x0039650dc457f9b5002112fe1ee4c7895f5c14e2",
       "contract": "0x0039650dc457f9b5002112fe1ee4c7895f5c14e2",
-      "display_name": null,
-      "name_source": null,
+      "display_name": "Superman Action Comics #1000",
+      "name_source": "Rarible collection metadata",
       "last_sale": null,
       "added_at": "2026-08-26T17:07:44.280198Z",
-      "metadata_status": "pending (Rarible metadata HTTP 429)"
+      "metadata_status": "verified",
+      "metadata": {
+        "id": "POLYGON:0x0039650dc457f9b5002112fe1ee4c7895f5c14e2",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-11-15T08:23:04.580Z",
+        "meta": {
+          "name": "Superman Action Comics #1000",
+          "description": "Sent to Earth from the dying planet of Krypton as a baby, Kal-El was found by farmers Martha and Jonathan Kent and raised as their son, Clark. As Clark grew up, the radiation from Earth’s yellow sun gave him extraordinary powers, which he kept hidden. Now fully grown, he uses his powers to protect his adopted world as Superman. The Man of Steel is virtually invulnerable and has the powers of super-strength, super-speed, and flight. He also has enhanced senses, including heat vision, X-ray vision, super-hearing, and super-breath.",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmbEmfrpAXVan7mHknPYQUQMTM25iXmuFGYpLT7EY7HfKu/0",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/bafybeifoogrlqnm2hbtsax32sv7ylxnul337mf6jid5l5yz5r2q5owfcl4/Superman%201x1.png",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 3707345,
+              "available": true,
+              "width": 4096,
+              "height": 4096
+            }
+          ],
+          "sellerFeeBasisPoints": 1000,
+          "feeRecipient": "ETHEREUM:0xf7e5b65880b0e66ad272fb7980c888c3001b2254"
+        }
+      },
+      "symbol": "MTD-SAC",
+      "last_metadata_update_at": "2025-11-15T08:23:04.580Z"
     },
     {
       "id": "POLYGON:0x2595b68c39f9f42f6d533f85fca4cdc6fff29a09",
       "contract": "0x2595b68c39f9f42f6d533f85fca4cdc6fff29a09",
-      "display_name": null,
-      "name_source": null,
+      "display_name": "Superman 85th Anniversary, SDCC 2023 Exclusive",
+      "name_source": "Rarible collection metadata",
       "last_sale": null,
       "added_at": "2026-08-26T17:07:44.280198Z",
-      "metadata_status": "pending (Rarible metadata HTTP 429)"
+      "metadata_status": "verified",
+      "metadata": {
+        "id": "POLYGON:0x2595b68c39f9f42f6d533f85fca4cdc6fff29a09",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-08-14T03:12:23.366Z",
+        "meta": {
+          "name": "Superman 85th Anniversary, SDCC 2023 Exclusive",
+          "description": "Sent to Earth from the dying planet of Krypton as a baby, Kal-El was found by farmers Martha and Jonathan Kent and raised as their son, Clark. As Clark grew up, the radiation from Earth’s yellow sun gave him extraordinary powers, which he kept hidden. Now fully grown, he uses his powers to protect his adopted world as Superman. The Man of Steel is virtually invulnerable and has the powers of super-strength, super-speed, and flight. He also has enhanced senses, including heat vision, X-ray vision, super-hearing, and super-breath.",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmWbxnSSujXuZcjCNkQGMTiyroPHPSSfRfSTHTQTLqzbxQ/0",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/bafybeidqjjrydnw3pybqfmwmrruygfe4avno2tcsxbag6zc7or7wex5eom/Superman%2085%201x1.jpg",
+              "representation": "ORIGINAL",
+              "mimeType": "image/jpeg",
+              "size": 1984409,
+              "available": true,
+              "width": 4096,
+              "height": 4096
+            }
+          ],
+          "sellerFeeBasisPoints": 1000,
+          "feeRecipient": "ETHEREUM:0xf7e5b65880b0e66ad272fb7980c888c3001b2254"
+        }
+      },
+      "symbol": "MTD-SM85",
+      "last_metadata_update_at": "2025-08-14T03:12:23.366Z"
     },
     {
       "id": "POLYGON:0x229f58f93d2607c54d0abcf899c807f1f3b40ab8",
       "contract": "0x229f58f93d2607c54d0abcf899c807f1f3b40ab8",
-      "display_name": null,
-      "name_source": null,
+      "display_name": "Blue Beetle",
+      "name_source": "Rarible collection metadata",
       "last_sale": null,
       "added_at": "2026-08-26T17:07:44.280198Z",
-      "metadata_status": "pending (Rarible metadata HTTP 429)"
+      "metadata_status": "verified",
+      "metadata": {
+        "id": "POLYGON:0x229f58f93d2607c54d0abcf899c807f1f3b40ab8",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-10-03T18:54:17.052Z",
+        "meta": {
+          "name": "Blue Beetle",
+          "description": "The first in his family to graduate college, Jaime Reyes harbors dreams of law school, but instead is conflicted in the face of threats to his home and misfortunes befalling his family. When he becomes symbiotically connected to an ancient alien biotechnology, Jaime is bestowed with almighty but unpredictable powers, leading him to fulfill his destiny and become a new generation of the Super Hero: Blue Beetle.",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmUj35GD72NSpErhv1v1W3Q8u8hrpJ6FK76Rqyb2qX2F5V/0",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/bafybeidnrza5cjftzicjki7nlkwtv3r5z6hurrel6t4vywakr3hovqfkni/Key%20Art%201x1.jpg",
+              "representation": "ORIGINAL",
+              "mimeType": "image/jpeg",
+              "size": 2274441,
+              "available": true,
+              "width": 4096,
+              "height": 4096
+            }
+          ],
+          "sellerFeeBasisPoints": 1000,
+          "feeRecipient": "ETHEREUM:0xf7e5b65880b0e66ad272fb7980c888c3001b2254"
+        }
+      },
+      "symbol": "MTD-BLUE",
+      "last_metadata_update_at": "2025-10-03T18:54:17.052Z"
     },
     {
       "id": "POLYGON:0x9a4767252f3b40929bc579a9c6f3d140c0901af2",
@@ -343,29 +955,124 @@
     {
       "id": "POLYGON:0x8bcb47ba475fd7d52975a5c660750ad5e60a6281",
       "contract": "0x8bcb47ba475fd7d52975a5c660750ad5e60a6281",
-      "display_name": null,
-      "name_source": null,
+      "display_name": "Batman Beyond - Kryptonite Suit",
+      "name_source": "Rarible collection metadata",
       "last_sale": null,
       "added_at": "2026-08-26T17:07:44.280198Z",
-      "metadata_status": "pending (Rarible metadata HTTP 429)"
+      "metadata_status": "verified",
+      "metadata": {
+        "id": "POLYGON:0x8bcb47ba475fd7d52975a5c660750ad5e60a6281",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-10-03T17:54:15.823Z",
+        "meta": {
+          "name": "Batman Beyond - Kryptonite Suit",
+          "description": "Terry McGinnis was just an ordinary teenager, until his father was mysteriously killed. Suspecting foul play, Terry meets an older, bitter Bruce Wayne and learns a secret hidden for decades. When Bruce refuses to help, Terry steals and dons a high-tech, tricked out Batsuit in a quest to avenge his father’s death as Batman.",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmWk1pFHcafD9bCHdpr9r8Bsa8nWzSRbA7C6aZNC3bRND4/0",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/QmPQX63hiCS4HJK75PK67jic8QzR6dnXwmAJntRTLXKtsy/MTD-ART-CARD0.25x.png",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 825313,
+              "available": true,
+              "width": 1024,
+              "height": 1024
+            }
+          ],
+          "sellerFeeBasisPoints": 1000,
+          "feeRecipient": "ETHEREUM:0xf7e5b65880b0e66ad272fb7980c888c3001b2254"
+        }
+      },
+      "symbol": "MTD-BBYDK",
+      "last_metadata_update_at": "2025-10-03T17:54:15.823Z"
     },
     {
       "id": "POLYGON:0x0866e58f7faaa78b7bf709398c131586cedf0833",
       "contract": "0x0866e58f7faaa78b7bf709398c131586cedf0833",
-      "display_name": null,
-      "name_source": null,
+      "display_name": "Jim Lee's Superman",
+      "name_source": "Rarible collection metadata",
       "last_sale": null,
       "added_at": "2026-08-26T17:07:44.280198Z",
-      "metadata_status": "pending (Rarible metadata HTTP 429)"
+      "metadata_status": "verified",
+      "metadata": {
+        "id": "POLYGON:0x0866e58f7faaa78b7bf709398c131586cedf0833",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-10-03T22:54:19.490Z",
+        "meta": {
+          "name": "Jim Lee's Superman",
+          "description": "Faster than a speeding bullet, more powerful than a locomotive...The Man of Steel fights a never ending battle for truth, justice and the American way. Based on the design by Jim Lee.",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmapRSUfjaJNaJHQK1j4C52y8ryiA1H8EBoZxWSvy1yFXa",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/QmdPxorCBuarCuWnVvRSSbCeC6yw4nXo3PqbZVAcsEXwCa",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 947079,
+              "available": true,
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        }
+      },
+      "symbol": "TOKEN",
+      "last_metadata_update_at": "2025-10-03T22:54:19.490Z"
     },
     {
       "id": "POLYGON:0xef0f05593a3ca8a8bb3c5f4ac86ac4af9bfeb346",
       "contract": "0xef0f05593a3ca8a8bb3c5f4ac86ac4af9bfeb346",
-      "display_name": null,
-      "name_source": null,
+      "display_name": "Superman (Our Worlds At War)",
+      "name_source": "Rarible collection metadata",
       "last_sale": null,
       "added_at": "2026-08-26T17:07:44.280198Z",
-      "metadata_status": "pending (Rarible metadata HTTP 429)"
+      "metadata_status": "verified",
+      "metadata": {
+        "id": "POLYGON:0xef0f05593a3ca8a8bb3c5f4ac86ac4af9bfeb346",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-09-12T01:04:19.833Z",
+        "meta": {
+          "name": "Superman (Our Worlds At War)",
+          "description": "The Man of Steel is not impervious to harm. He is weakened and will eventually die if exposed to Kryptonite, radioactive remnants of his old homeworld.",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmVxzduAuTSxWTxjaDMgL8ScRaFremZvkjUSnvWtPjfBXb",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/QmSxLGWK6FmtYpTR87yro7SwjsTm8Q7HihNb4PAM6LkXX5",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 705417,
+              "available": true,
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        }
+      },
+      "symbol": "TOKEN",
+      "last_metadata_update_at": "2025-09-12T01:04:19.833Z"
     },
     {
       "id": "POLYGON:0x7a768033aae19e13345686618bdcbf735e9b9a74",
@@ -392,11 +1099,42 @@
     {
       "id": "POLYGON:0x53247d58b7e1731a730773f5370f712867a22b5f",
       "contract": "0x53247d58b7e1731a730773f5370f712867a22b5f",
-      "display_name": null,
-      "name_source": null,
+      "display_name": "Jim Lee's Wonder Woman",
+      "name_source": "Rarible collection metadata",
       "last_sale": null,
       "added_at": "2026-08-26T17:07:44.280198Z",
-      "metadata_status": "pending (Rarible metadata HTTP 429)"
+      "metadata_status": "verified",
+      "metadata": {
+        "id": "POLYGON:0x53247d58b7e1731a730773f5370f712867a22b5f",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-10-03T22:54:19.697Z",
+        "meta": {
+          "name": "Jim Lee's Wonder Woman",
+          "description": "Raised on the hidden island of Themyscira, Princess Diana is an Amazon, like the figures of Greek legend, and her people’s gift to humanity. As Themyscira’s emissary to Man’s World, Diana has made it her duty to lead by example.",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmcyScH9Gq9L6h5Z9ugXhCSP9qDp4QoRPdoaqet5S1Kf5a",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/QmNQzspxQb2MsnCczfaY9xq5MYxbkdVTfHgj5nWUZZur7w",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 905756,
+              "available": true,
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        }
+      },
+      "symbol": "TOKEN",
+      "last_metadata_update_at": "2025-10-03T22:54:19.697Z"
     },
     {
       "id": "POLYGON:0xdab073c72ccaea3d5a6571cf1dd98cfa77f01b05",
@@ -412,116 +1150,483 @@
     {
       "id": "POLYGON:0xa3ff7a4c4aa5369b73447e71ab3ac6dda69af07f",
       "contract": "0xa3ff7a4c4aa5369b73447e71ab3ac6dda69af07f",
-      "display_name": null,
-      "name_source": null,
+      "display_name": "The Flash - Speed Force",
+      "name_source": "Rarible collection metadata",
       "last_sale": null,
       "added_at": "2026-08-26T17:07:44.280198Z",
-      "metadata_status": "pending (Rarible metadata HTTP 429)"
+      "metadata_status": "verified",
+      "metadata": {
+        "id": "POLYGON:0xa3ff7a4c4aa5369b73447e71ab3ac6dda69af07f",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-09-12T01:04:19.971Z",
+        "meta": {
+          "name": "The Flash - Speed Force",
+          "description": "After an accident empowered Barry Allen with the gift of superhuman speed, the young scientist quickly became one of Earth's most heroic defenders: The Flash. ",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmcnkNgTjNgZEgZ3BoUnFzRaYEC6UdQzd5tcoVuYpWCikm",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/QmTgY7LVu6HsL9ZjCLscuRp3D8ABrEjy2tUKRoiG6r3rus",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 706925,
+              "available": true,
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        }
+      },
+      "symbol": "TOKEN",
+      "last_metadata_update_at": "2025-09-12T01:04:19.971Z"
     },
     {
       "id": "POLYGON:0x186b4d896d3be406ba4868541f866eb58ad6373e",
       "contract": "0x186b4d896d3be406ba4868541f866eb58ad6373e",
-      "display_name": null,
-      "name_source": null,
+      "display_name": "Joker Silver Age",
+      "name_source": "Rarible collection metadata",
       "last_sale": null,
       "added_at": "2026-08-26T17:07:44.280198Z",
-      "metadata_status": "pending (Rarible metadata HTTP 429)"
+      "metadata_status": "verified",
+      "metadata": {
+        "id": "POLYGON:0x186b4d896d3be406ba4868541f866eb58ad6373e",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-10-03T22:54:19.836Z",
+        "meta": {
+          "name": "Joker Silver Age",
+          "description": "Once a small-time crook, The Joker fell into a vat of chemicals that turned his skin white, his hair green, and his lips red-like a crazed clown. ",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmfEgzM25K2tsAj3zJLVQFuA65RzcXTpcHuoo28zqrT662",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/QmQjcnSKC3kN9zuTS5SRiWsf8bqcVDWJk8JA5G6o6Teos4",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 671714,
+              "available": true,
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        }
+      },
+      "symbol": "TOKEN",
+      "last_metadata_update_at": "2025-10-03T22:54:19.836Z"
     },
     {
       "id": "POLYGON:0x79f1437646c048815a4187f598b877595f184592",
       "contract": "0x79f1437646c048815a4187f598b877595f184592",
-      "display_name": null,
-      "name_source": null,
+      "display_name": "The Joker by Fason Fabok",
+      "name_source": "Rarible collection metadata",
       "last_sale": null,
       "added_at": "2026-08-26T17:07:44.280198Z",
-      "metadata_status": "pending (Rarible metadata HTTP 429)"
+      "metadata_status": "verified",
+      "metadata": {
+        "id": "POLYGON:0x79f1437646c048815a4187f598b877595f184592",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-08-13T22:12:17.213Z",
+        "meta": {
+          "name": "The Joker by Fason Fabok",
+          "description": "McFARLANE TOYS is proud to present this incredibly detailed Posed Figure based on the best-selling mini-series THE THREE JOKERS by Eisner award-winning artist Jason Fabok.",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmQmFFFHEXEHijv9ZuKfdZacPGHQLJsqvmqXL1vhmEDisp",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/QmQg457jf33ZXXoEBKZTsNLsBUU4kqBJUfJvLU7yDA1m9z",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 665943,
+              "available": true,
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        }
+      },
+      "symbol": "TOKEN",
+      "last_metadata_update_at": "2025-08-13T22:12:17.213Z"
     },
     {
       "id": "POLYGON:0x049474b730f15d863e4b87c352fae7d5acc1197f",
       "contract": "0x049474b730f15d863e4b87c352fae7d5acc1197f",
-      "display_name": null,
-      "name_source": null,
+      "display_name": "The Tumbler - Joker Face",
+      "name_source": "Rarible collection metadata",
       "last_sale": null,
       "added_at": "2026-08-26T17:07:44.280198Z",
-      "metadata_status": "pending (Rarible metadata HTTP 429)"
+      "metadata_status": "verified",
+      "metadata": {
+        "id": "POLYGON:0x049474b730f15d863e4b87c352fae7d5acc1197f",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-08-13T22:12:15.577Z",
+        "meta": {
+          "name": "The Tumbler - Joker Face",
+          "description": "Batman sets out to destroy organized crime in Gotham City for good in his durable Tumbler!",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmRgC2bGynF65PwyqkWAExRUy4eaWxDQY8EbUVYsrpigJk/0",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/QmVpLJfmUH2fmJiCdg8Jt21hbsKCyLDde9KnEPdqSRTmc5/MTD-ART-CARD%400.25x%201.png",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 1013367,
+              "available": true,
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        }
+      },
+      "symbol": "MTD-TBLR-JK",
+      "last_metadata_update_at": "2025-08-13T22:12:15.577Z"
     },
     {
       "id": "POLYGON:0x1b15a670992d7b2475ed9578ef962bdc22f753a6",
       "contract": "0x1b15a670992d7b2475ed9578ef962bdc22f753a6",
-      "display_name": null,
-      "name_source": null,
+      "display_name": "Wonder Woman Gold",
+      "name_source": "Rarible collection metadata",
       "last_sale": null,
       "added_at": "2026-08-26T17:07:44.280198Z",
-      "metadata_status": "pending (Rarible metadata HTTP 429)"
+      "metadata_status": "verified",
+      "metadata": {
+        "id": "POLYGON:0x1b15a670992d7b2475ed9578ef962bdc22f753a6",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-10-07T00:54:32.951Z",
+        "meta": {
+          "name": "Wonder Woman Gold",
+          "description": "Raised on the hidden island of Themyscira, Princess Diana is an Amazon, like the figures of Greek legend, and her people's gift to humanity. As Themyscira's emissary to Man's World, Diana has made it her duty to lead by example, even if the differences between her birthplace and new home sometimes present hurdles for her to jump.",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://Qmeawam4s9ATdinysSW3thStW7vhCqqh4Dr1efbNaQZBss/0",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/QmNM7m1KqNB46gscPtZJgwbTJnonBs31GZmu1wUnjwxsBe/MTD-ART-CARD0.25x%207.png",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 694931,
+              "available": true,
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        }
+      },
+      "symbol": "MTD-WW_GD",
+      "last_metadata_update_at": "2025-10-07T00:54:32.951Z"
     },
     {
       "id": "POLYGON:0xc0e360dae3bdcb967b16806a14e9621ece8b479a",
       "contract": "0xc0e360dae3bdcb967b16806a14e9621ece8b479a",
-      "display_name": null,
-      "name_source": null,
+      "display_name": "Batman Santa",
+      "name_source": "Rarible collection metadata",
       "last_sale": null,
       "added_at": "2026-08-26T17:07:44.280198Z",
-      "metadata_status": "pending (Rarible metadata HTTP 429)"
+      "metadata_status": "verified",
+      "metadata": {
+        "id": "POLYGON:0xc0e360dae3bdcb967b16806a14e9621ece8b479a",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-09-03T18:47:41.918Z",
+        "meta": {
+          "name": "Batman Santa",
+          "description": "As a child, BRUCE WAYNE watched as his parents were brutally killed in GOTHAM CITY'S Crime Alley. Traumatized by their deaths, he devoted his life to becoming the world's greatest weapon against crime, the BATMAN! To become the ultimate vigilante, the Dark Knight disciplined his mind and body to reach the pinnacle of mental and physical superiority in his relentless pursuit of justice!",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmNrCshcNyGVFyQAyGBvMfm96jjktYnw5P2WwtPo4jzSoW/0",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/Qmdx6PncnrGtcLJjPwp5oTp8r74Z6wNjvn7JHqnNNzVcNC/MTD-ART-CARD0.25x%2013.png",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 1976713,
+              "available": true,
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        }
+      },
+      "symbol": "MTD-BAT-ST",
+      "last_metadata_update_at": "2025-09-03T18:47:41.918Z"
     },
     {
       "id": "POLYGON:0xea52d6ea1743bc5cb69cf63cd8bc5e53e03b2ed9",
       "contract": "0xea52d6ea1743bc5cb69cf63cd8bc5e53e03b2ed9",
-      "display_name": null,
-      "name_source": null,
+      "display_name": "NightWing",
+      "name_source": "Rarible collection metadata",
       "last_sale": null,
       "added_at": "2026-08-26T17:07:44.280198Z",
-      "metadata_status": "pending (Rarible metadata HTTP 429)"
+      "metadata_status": "verified",
+      "metadata": {
+        "id": "POLYGON:0xea52d6ea1743bc5cb69cf63cd8bc5e53e03b2ed9",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-10-04T00:54:22.532Z",
+        "meta": {
+          "name": "NightWing",
+          "description": "Dick Grayson began his crime-fighting career as the original Robin-Batman's protege and crime-fighting partner. An expert acrobat and skilled fighter, Dick eventually left the nest and ventured out on his own as a new hero called Nightwing.",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmQdPArMqpfZzBsHSLeZoXSretWcKZqeC7YMK6TXMADuaF/0",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/QmYtiE995sUPEKt7KQB9F8WLm1rFKvZ3Yrrzi69pVE6rnX/MTD-ART-CARD0.25x.png",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 640894,
+              "available": true,
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        }
+      },
+      "symbol": "MTD-N",
+      "last_metadata_update_at": "2025-10-04T00:54:22.532Z"
     },
     {
       "id": "POLYGON:0x43248fc0a82b96ee59f9a10d8eabbde700b006f9",
       "contract": "0x43248fc0a82b96ee59f9a10d8eabbde700b006f9",
-      "display_name": null,
-      "name_source": null,
+      "display_name": "NightWing Poster",
+      "name_source": "Rarible collection metadata",
       "last_sale": null,
       "added_at": "2026-08-26T17:07:44.280198Z",
-      "metadata_status": "pending (Rarible metadata HTTP 429)"
+      "metadata_status": "verified",
+      "metadata": {
+        "id": "POLYGON:0x43248fc0a82b96ee59f9a10d8eabbde700b006f9",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-10-04T00:54:22.449Z",
+        "meta": {
+          "name": "NightWing Poster",
+          "description": "Dick Grayson began his crime-fighting career as the original Robin-Batman's protege and crime-fighting partner. An expert acrobat and skilled fighter, Dick eventually left the nest and ventured out on his own as a new hero called Nightwing.",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmRdLYkSmsVicHYV3uGnPXKq7kjqywLDL7wJCLdeSVBfkA/0",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/QmefSgp2QJjJxhzAvsLvDukJdPrG2HUpfhLP6WcbaBPmXE/Nightwing_MTD_Poster_3b%20(1).jpg",
+              "representation": "ORIGINAL",
+              "mimeType": "image/jpeg",
+              "size": 1838380,
+              "available": true,
+              "width": 2000,
+              "height": 2000
+            }
+          ]
+        }
+      },
+      "symbol": "MTD-NW-PT",
+      "last_metadata_update_at": "2025-10-04T00:54:22.449Z"
     },
     {
       "id": "POLYGON:0x6b2c6f1dec14f00d14d6f8f56dd52e2edabeffff",
       "contract": "0x6b2c6f1dec14f00d14d6f8f56dd52e2edabeffff",
-      "display_name": null,
-      "name_source": null,
+      "display_name": "NightWing Poster 2",
+      "name_source": "Rarible collection metadata",
       "last_sale": null,
       "added_at": "2026-08-26T17:07:44.280198Z",
-      "metadata_status": "pending (Rarible metadata HTTP 429)"
+      "metadata_status": "verified",
+      "metadata": {
+        "id": "POLYGON:0x6b2c6f1dec14f00d14d6f8f56dd52e2edabeffff",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-10-04T00:54:22.724Z",
+        "meta": {
+          "name": "NightWing Poster 2",
+          "description": "Dick Grayson began his crime-fighting career as the original Robin-Batman's protege and crime-fighting partner. An expert acrobat and skilled fighter, Dick eventually left the nest and ventured out on his own as a new hero called Nightwing.",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmS1SN4KrDSnLebmLEFrzogHm5vkBPw37YchLReREzobEu/0",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/QmYgNd51RdYZ9ZWXsigGndzzA5VGPY5ZPzsC773xDT2opZ/Nightwing_MTD_Poster_2%20(1)%201.jpg",
+              "representation": "ORIGINAL",
+              "mimeType": "image/jpeg",
+              "size": 2134507,
+              "available": true,
+              "width": 2000,
+              "height": 2000
+            }
+          ]
+        }
+      },
+      "symbol": "MTD-NW-PT",
+      "last_metadata_update_at": "2025-10-04T00:54:22.724Z"
     },
     {
       "id": "POLYGON:0xbfcd6a3dab4b7ba32aae04312786cea9d12aa221",
       "contract": "0xbfcd6a3dab4b7ba32aae04312786cea9d12aa221",
-      "display_name": null,
-      "name_source": null,
+      "display_name": "Clayface - Build-A-Figure",
+      "name_source": "Rarible collection metadata",
       "last_sale": null,
       "added_at": "2026-08-26T17:07:44.280198Z",
-      "metadata_status": "pending (Rarible metadata HTTP 429)"
+      "metadata_status": "verified",
+      "metadata": {
+        "id": "POLYGON:0xbfcd6a3dab4b7ba32aae04312786cea9d12aa221",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2026-05-21T11:24:07.756Z",
+        "meta": {
+          "name": "Clayface - Build-A-Figure",
+          "description": "Basil Karlo was a famous actor, known primarily for his roles in horror films. However, when replaced as the lead in a movie, he went mad with rage. His life began to take a strange path when he injected himself with a formula that altered his body completely, making him a danger shape-shifter made of living clay who can change his physical form however he chooses. With the ability to adopt the appearance of anyone or anything, Clayface has become one of Batman’s most powerful enemies.",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmefoCqmdG8PxqM8J8vDXoaWXf8pDrXzAejAdiNbWVpobJ",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://i2c.seadn.io/polygon/1fc9942254194d1db9309dc3110ba747/135c99196e1a961740c13f5c7c0f18/27135c99196e1a961740c13f5c7c0f18.png",
+              "representation": "ORIGINAL"
+            }
+          ]
+        }
+      },
+      "symbol": "TOKEN",
+      "last_metadata_update_at": "2026-05-21T11:24:07.756Z"
     },
     {
       "id": "POLYGON:0xcf0a77830c9d5ef65325a0884998dea764b0873b",
       "contract": "0xcf0a77830c9d5ef65325a0884998dea764b0873b",
-      "display_name": null,
-      "name_source": null,
+      "display_name": "Superman Centennial",
+      "name_source": "Rarible collection metadata",
       "last_sale": null,
       "added_at": "2026-08-26T17:07:44.280198Z",
-      "metadata_status": "pending (Rarible metadata HTTP 429)"
+      "metadata_status": "verified",
+      "metadata": {
+        "id": "POLYGON:0xcf0a77830c9d5ef65325a0884998dea764b0873b",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-12-03T16:04:25.996Z",
+        "meta": {
+          "name": "Superman Centennial",
+          "description": "Faster than a speeding bullet, more powerful than a locomotive… The Man of Steel fights a never-ending battle for truth, justice, and the American way. ",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmPpYBFbAk4UggJ7twRJnXfnVFZp8tRuerVBAUADoXFT97/0",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/QmeM1BnFjEifvjMjBSdTPrvxUBLhfDoGEbEoDqGg9ejUYg/MTD-ART-CARD0.25x.png",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 779387,
+              "available": true,
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        }
+      },
+      "symbol": "MTD-DC-SPC",
+      "last_metadata_update_at": "2025-12-03T16:04:25.996Z"
     },
     {
       "id": "POLYGON:0xaf37e249b74b2cf57bfa1ab6cdfa88248e821cb7",
       "contract": "0xaf37e249b74b2cf57bfa1ab6cdfa88248e821cb7",
-      "display_name": null,
-      "name_source": null,
+      "display_name": "Red Robin",
+      "name_source": "Rarible collection metadata",
       "last_sale": null,
       "added_at": "2026-08-26T17:07:44.280198Z",
-      "metadata_status": "pending (Rarible metadata HTTP 429)"
+      "metadata_status": "verified",
+      "metadata": {
+        "id": "POLYGON:0xaf37e249b74b2cf57bfa1ab6cdfa88248e821cb7",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-04-12T16:00:14.976Z",
+        "meta": {
+          "name": "Red Robin",
+          "description": "Timothy “Tim” Drake is a self-made hero in every sense of the word. Tim Drake deduced the real identity of Batman, and auditioned for the role of his next partner. Batman had lost his most recent sidekick, Jason Todd, in a tragic turn of events, and in Tim’s mind, Batman needed a Robin to stay true to himself and his mission.",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmXQmsMqPU95DP28MnX91YfSkbjVrj5nPsN2qZmXCkAVS1",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/QmQy61JH7KXqDyiFhLkLpTXUW1EgXD741rms1QaVawg24G",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 808326,
+              "available": true,
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        }
+      },
+      "symbol": "TOKEN",
+      "last_metadata_update_at": "2025-04-12T16:00:14.976Z"
     },
     {
       "id": "POLYGON:0x636045ab763b493a80350bfbd08e038029056ae2",
       "contract": "0x636045ab763b493a80350bfbd08e038029056ae2",
-      "display_name": null,
-      "name_source": null,
+      "display_name": "Doctor Fate - The Silver Age",
+      "name_source": "Rarible collection metadata",
       "last_sale": {
         "@type": "SELL",
         "orderId": "POLYGON:0x93917ff610fb992a2c92ffb9f0253c2fe9cba8dfbd616e6b6ecc8a68108c6a74",
@@ -554,8 +1659,6 @@
           },
           "value": "130"
         },
-        "buyer": "ETHEREUM:0xd3185fdc413274e6f1f42be530f8a625fd583090",
-        "seller": "ETHEREUM:0xd32c86a2db5e324c450d6e1d0da06d57e3d3e1cf",
         "buyerOrderHash": "0xcb78e97e10c54330f846a66ac3f879e7614bbcf3b4a4a1cd13cd548a2bbf10f7",
         "sellerOrderHash": "0x93917ff610fb992a2c92ffb9f0253c2fe9cba8dfbd616e6b6ecc8a68108c6a74",
         "price": "130",
@@ -576,79 +1679,358 @@
         "token_id": "36"
       },
       "added_at": "2026-08-26T17:07:44.280198Z",
-      "metadata_status": "pending (Rarible metadata HTTP 429)"
+      "metadata_status": "verified",
+      "metadata": {
+        "id": "POLYGON:0x636045ab763b493a80350bfbd08e038029056ae2",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-10-03T19:54:18.095Z",
+        "meta": {
+          "name": "Doctor Fate - The Silver Age",
+          "description": "Upon wearing the ancient alien golden Helmet of Fate, Kent Nelson transforms from kindly academic into the sorcerer Doctor Fate. One of the founding members of The Justice Society, Doctor Fate is able to use his powers to wield magic, conjure illusions and see the future.\n",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmPSSkM8gJkiHE7gCZueEQ16ZEFFqH18agpRBcpMrdebXj",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/QmQEjPGKeQkrDurM85aUqU35avSAdVVjnN8RkFDU2Auvx9",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 593106,
+              "available": true,
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        }
+      },
+      "symbol": "TOKEN",
+      "last_metadata_update_at": "2025-10-03T19:54:18.095Z"
     },
     {
       "id": "POLYGON:0xb817501dbcdc39c87d7afab91f41eb3608f312be",
       "contract": "0xb817501dbcdc39c87d7afab91f41eb3608f312be",
-      "display_name": null,
-      "name_source": null,
+      "display_name": "Superman - The Silver Age",
+      "name_source": "Rarible collection metadata",
       "last_sale": null,
       "added_at": "2026-08-26T17:07:44.280198Z",
-      "metadata_status": "pending (Rarible metadata HTTP 429)"
+      "metadata_status": "verified",
+      "metadata": {
+        "id": "POLYGON:0xb817501dbcdc39c87d7afab91f41eb3608f312be",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-08-13T22:12:18.874Z",
+        "meta": {
+          "name": "Superman - The Silver Age",
+          "description": "Superman is the world’s greatest hero. He is a tireless champion dedicated to protecting life and battling injustice not only in his city of Metropolis, but also all over his adopted world and across the universe. With his fantastic powers and abilities, fueled by his alien cells—which hyper-efficiently process the solar energy of Earth’s yellow sun—Superman is an unstoppable force for good and a steadfast punisher of evil.\n",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmZuq7oFxCWp9JZCe6vAPLiw4Q9jjHBvEmrRpvRWek1P65",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/QmQ6pvXqHX6xKkCUiB2xqGgR2DrdxY63FHRsD1r473gr6o",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 638543,
+              "available": true,
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        }
+      },
+      "symbol": "TOKEN",
+      "last_metadata_update_at": "2025-08-13T22:12:18.874Z"
     },
     {
       "id": "POLYGON:0x89696ef507b55741dc311733b7658fba5c8eea91",
       "contract": "0x89696ef507b55741dc311733b7658fba5c8eea91",
-      "display_name": null,
-      "name_source": null,
+      "display_name": "Two-Face - The Silver Age",
+      "name_source": "Rarible collection metadata",
       "last_sale": null,
       "added_at": "2026-08-26T17:07:44.280198Z",
-      "metadata_status": "pending (Rarible metadata HTTP 429)"
+      "metadata_status": "verified",
+      "metadata": {
+        "id": "POLYGON:0x89696ef507b55741dc311733b7658fba5c8eea91",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-08-13T23:12:19.176Z",
+        "meta": {
+          "name": "Two-Face - The Silver Age",
+          "description": "Harvey Dent has led a deeply conflicted life. Possessing a split personality that veers between two extremes—good and evil— Dent goes by the name of Two-Face. It is an apt description of his physical appearance. Scarred by acid into outwardly becoming the monster he once hid away from the world, Two-Face has become a tragic figure and one of Batman’s most unpredictable and dangerous opponents.",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmRAHBPiGbBhYTmby3vUdqVzRvWvJ5THiJjWRTZR5DLWSZ",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/QmV9S4aSZPEVsCuyR5NqXT4z8bQH5gHyEysxx7a478dH6c",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 666095,
+              "available": true,
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        }
+      },
+      "symbol": "TOKEN",
+      "last_metadata_update_at": "2025-08-13T23:12:19.176Z"
     },
     {
       "id": "POLYGON:0x5847dd7002f1874bf55dd8c1db95b0bbfea84a08",
       "contract": "0x5847dd7002f1874bf55dd8c1db95b0bbfea84a08",
-      "display_name": null,
-      "name_source": null,
+      "display_name": "Superman - Corner Box",
+      "name_source": "Rarible collection metadata",
       "last_sale": null,
       "added_at": "2026-08-26T17:07:44.280198Z",
-      "metadata_status": "pending (Rarible metadata HTTP 429)"
+      "metadata_status": "verified",
+      "metadata": {
+        "id": "POLYGON:0x5847dd7002f1874bf55dd8c1db95b0bbfea84a08",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-08-22T16:20:49.280Z",
+        "meta": {
+          "name": "Superman - Corner Box",
+          "description": "Bringing comic books to life! Inspired by the iconic comic book staple, this three-dimensional poly-resin corner box wall art collectible features one of DC Comics most iconic characters - SUPERMAN™!. The corner box includes a comic book cover metal poster and comes ready to hang, and measures approximately 17.75\" tall.\n",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmTpuSc477GhMQWAbLck9Hg1CjMY8esDsETwyMbnJZzdV8",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/QmcmuKqNtXNdiu3CLQUL2kamWN6U7YxhyeRPrXxmS2zgTE",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 719142,
+              "available": true,
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        }
+      },
+      "symbol": "TOKEN",
+      "last_metadata_update_at": "2025-08-22T16:20:49.280Z"
     },
     {
       "id": "POLYGON:0x7cb3de1557bad446c25edb6fb519f2f186ed1589",
       "contract": "0x7cb3de1557bad446c25edb6fb519f2f186ed1589",
-      "display_name": null,
-      "name_source": null,
+      "display_name": "Power Girl - Reborn",
+      "name_source": "Rarible collection metadata",
       "last_sale": null,
       "added_at": "2026-08-26T17:07:44.280198Z",
-      "metadata_status": "pending (Rarible metadata HTTP 429)"
+      "metadata_status": "verified",
+      "metadata": {
+        "id": "POLYGON:0x7cb3de1557bad446c25edb6fb519f2f186ed1589",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-09-04T14:57:06.686Z",
+        "meta": {
+          "name": "Power Girl - Reborn",
+          "description": "Kara Zor-El escaped Krypton and gained astounding abilities under Earth-2’s yellow sun. Adopted by Clark Kent and Lois Lane, she was coached by Superman (her cousin, Kal-El) and yearned to become a Super Hero. When Superman, Batman, and Wonder Woman died after Earth-2 was invaded by Apokolips, Kara and her friend Robin were ejected from their universe. On Prime Earth, Kara rebranded herself as technology entrepreneur Karen Starr, building a company dedicated to bridging dimensions. As Power Girl, she covertly secured funds and confiscated useful technologies in a bid to return to Earth-2.",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmRABhJg8HWe37TSB25dFDyCjptgrKv6GeCVpnCm92xPx3/0",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/QmWNYnYD9MBU7niVTtdSF5SM1nyacTT9tSD7UAbVPfLacn/MTD-ART-CARD0.25x.png",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 655136,
+              "available": true,
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        }
+      },
+      "symbol": "MTD-DC-PGR",
+      "last_metadata_update_at": "2025-09-04T14:57:06.686Z"
     },
     {
       "id": "POLYGON:0xf53358fba52b6bd19d0b25f29e727c419f0ee9ea",
       "contract": "0xf53358fba52b6bd19d0b25f29e727c419f0ee9ea",
-      "display_name": null,
-      "name_source": null,
+      "display_name": "Batman-Superman Fusion",
+      "name_source": "Rarible collection metadata",
       "last_sale": null,
       "added_at": "2026-08-26T17:07:44.280198Z",
-      "metadata_status": "pending (Rarible metadata HTTP 429)"
+      "metadata_status": "verified",
+      "metadata": {
+        "id": "POLYGON:0xf53358fba52b6bd19d0b25f29e727c419f0ee9ea",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-10-07T00:54:32.767Z",
+        "meta": {
+          "name": "Batman-Superman Fusion",
+          "description": "As Robin and Supergirl race to retrieve the secrets of the Devil Nezha from ancient China, Batman and Superman get more than they bargained for in the present! To save humanity from the fires of the demon, the World’s Finest must go toe-to-toe with the protector of Sector 2814…Hal Jordan. Using their combined willpower, Batman and Superman wrest away Hal’s power ring, amalgamating into an invincible new super hero!",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmRAwPcjWW5agLTuZw3Jut2EasamgJrBkhefGgeydb1sKb/0",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/QmcbNgngDDzj1dzRqZeRX8ADvCYF8yhwG1ELd9P8oDNkHj/MTD-ART-CARD0.25x.png",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 672065,
+              "available": true,
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        }
+      },
+      "symbol": "MTD-BATSP-FU",
+      "last_metadata_update_at": "2025-10-07T00:54:32.767Z"
     },
     {
       "id": "POLYGON:0xe3ae4e46917540b7760bf7702be2f2c503f9bc4b",
       "contract": "0xe3ae4e46917540b7760bf7702be2f2c503f9bc4b",
-      "display_name": null,
-      "name_source": null,
+      "display_name": "Animal Man - Build-A-Figure",
+      "name_source": "Rarible collection metadata",
       "last_sale": null,
       "added_at": "2026-08-26T17:07:44.280198Z",
-      "metadata_status": "pending (Rarible metadata HTTP 429)"
+      "metadata_status": "verified",
+      "metadata": {
+        "id": "POLYGON:0xe3ae4e46917540b7760bf7702be2f2c503f9bc4b",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-08-22T16:20:49.280Z",
+        "meta": {
+          "name": "Animal Man - Build-A-Figure",
+          "description": "Debuting in the mid-1960s, Animal Man was born after an alien visitation. After a stint as a member of the Forgotten Heroes, Buddy became a founding member of Justice League Europe. In his own title, he discovered his true origins and even broke the fourth wall, meeting the writer of his exploits. Animal Man became an ambassador of the Red, at one point changing his look with long black-and-white hair.",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmWPiGebne2zaLsgczguAQLiosQaFkdmTBaKJSLdy2VePX",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/QmQgeMqBLbrPFHcSD6yjU2nYxhPNaQnS3AnkCDDmn643i2",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 711214,
+              "available": true,
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        }
+      },
+      "symbol": "TOKEN",
+      "last_metadata_update_at": "2025-08-22T16:20:49.280Z"
     },
     {
       "id": "POLYGON:0x19f5dd4d1315adfcda911dbb811f9f1d129cf6ca",
       "contract": "0x19f5dd4d1315adfcda911dbb811f9f1d129cf6ca",
-      "display_name": null,
-      "name_source": null,
+      "display_name": "Mongul - Build-A-Figure",
+      "name_source": "Rarible collection metadata",
       "last_sale": null,
       "added_at": "2026-08-26T17:07:44.280198Z",
-      "metadata_status": "pending (Rarible metadata HTTP 429)"
+      "metadata_status": "verified",
+      "metadata": {
+        "id": "POLYGON:0x19f5dd4d1315adfcda911dbb811f9f1d129cf6ca",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-08-22T16:20:49.280Z",
+        "meta": {
+          "name": "Mongul - Build-A-Figure",
+          "description": "Mongul is the brutal ruler of the planet-sized weapon of mass destruction called Warworld. Using Warworld to conquer planets across the cosmos, the tyrant enslaves the inhabitants and forces the strongest among them to serve in his horde army or suffer an uncertain fate in gladiator-style games for his amusement. Mongul’s immense size, rock-like body, and rapid regeneration make him nearly invincible. And his super-strength, speed, and agility make him almost unstoppable!\n",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmT9wfhFJB5en5oqFB9P45Fyw8iruriaU2jZ93ki6rCULD",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/QmVKoecuS7rQcmnfRbn2r8Yhay173vhx9ooNv2iFL5ZNVr",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 772915,
+              "available": true,
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        }
+      },
+      "symbol": "TOKEN",
+      "last_metadata_update_at": "2025-08-22T16:20:49.280Z"
     },
     {
       "id": "POLYGON:0x5051775029610e48d325e65d6c5d56fe607bcc0d",
       "contract": "0x5051775029610e48d325e65d6c5d56fe607bcc0d",
-      "display_name": null,
-      "name_source": null,
+      "display_name": "Nightwing - Bronze Age",
+      "name_source": "Rarible collection metadata",
       "last_sale": null,
       "added_at": "2026-08-26T17:07:44.280198Z",
-      "metadata_status": "pending (Rarible metadata HTTP 429)"
+      "metadata_status": "verified",
+      "metadata": {
+        "id": "POLYGON:0x5051775029610e48d325e65d6c5d56fe607bcc0d",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-10-14T20:55:14.616Z",
+        "meta": {
+          "name": "Nightwing - Bronze Age",
+          "description": "A youthful version of the Justice League™, the Teen Titans™ featured Robin™ as leader from the outset. In the 1980s, when the title was relaunched with new characters, Robin grew more independent than ever, living in Titan’s Tower and later changing his codename to Nightwing.\n",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmYmyzvY8PqaDGszqFbv7bkJxtnjRVXHJAyCZ5E16tBm9v",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/QmTsagD6ViDtMRvPzEpF1qgMJBKv4Ufuwem38A6miJgvJz",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 573298,
+              "available": true,
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        }
+      },
+      "symbol": "TOKEN",
+      "last_metadata_update_at": "2025-10-14T20:55:14.616Z"
     },
     {
       "id": "POLYGON:0x55e79461a5accca44f9a4744fe3215d593c79218",
@@ -697,20 +2079,80 @@
     {
       "id": "POLYGON:0x94cb46eda9c53119fb65f28138fea6940f174490",
       "contract": "0x94cb46eda9c53119fb65f28138fea6940f174490",
-      "display_name": null,
-      "name_source": null,
+      "display_name": "Batgirl",
+      "name_source": "Rarible collection metadata",
       "last_sale": null,
       "added_at": "2026-08-26T17:07:44.280198Z",
-      "metadata_status": "pending (Rarible metadata HTTP 429)"
+      "metadata_status": "verified",
+      "metadata": {
+        "id": "POLYGON:0x94cb46eda9c53119fb65f28138fea6940f174490",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-12-03T16:04:25.996Z",
+        "meta": {
+          "name": "Batgirl",
+          "description": "Barbara Gordon redefined what it meant to be a self-made hero when she crafted her own costume and joined Batman's crusade right under her father’s nose.",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmPwY4ovqLm3G2sTFtHd469taSqQtN8e6zFsvBpwCf51oM",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/QmYq8xwDWYRizxTDZw49c4Q16pUPraahaVaKMSgqe2RC92",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 631333,
+              "available": true,
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        }
+      },
+      "symbol": "TOKEN",
+      "last_metadata_update_at": "2025-12-03T16:04:25.996Z"
     },
     {
       "id": "POLYGON:0x89ee5c0bcc5ccba8643ea4b6c223e375eb11cf7d",
       "contract": "0x89ee5c0bcc5ccba8643ea4b6c223e375eb11cf7d",
-      "display_name": null,
-      "name_source": null,
+      "display_name": "Kalibak - Build-A-Figure",
+      "name_source": "Rarible collection metadata",
       "last_sale": null,
       "added_at": "2026-08-26T17:07:44.280198Z",
-      "metadata_status": "pending (Rarible metadata HTTP 429)"
+      "metadata_status": "verified",
+      "metadata": {
+        "id": "POLYGON:0x89ee5c0bcc5ccba8643ea4b6c223e375eb11cf7d",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-09-25T17:47:42.747Z",
+        "meta": {
+          "name": "Kalibak - Build-A-Figure",
+          "tags": [],
+          "genres": [],
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://public-assets.mcfarlanedigital.app/assets_images/warner_brothers/Kalibak/exotic/MTD-ART-CARD@0.25x.png",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 748005,
+              "available": true,
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        }
+      },
+      "symbol": "TOKEN",
+      "last_metadata_update_at": "2025-09-25T17:47:42.747Z"
     },
     {
       "id": "POLYGON:0x311031dcb8286e60b0889b169e618445d5cb0083",
@@ -726,39 +2168,70 @@
     {
       "id": "POLYGON:0xf08ee0927a9a20bcce7767a239907642f6ff08c9",
       "contract": "0xf08ee0927a9a20bcce7767a239907642f6ff08c9",
-      "display_name": null,
-      "name_source": null,
+      "display_name": "Red Tornado",
+      "name_source": "Rarible collection metadata",
       "last_sale": null,
       "added_at": "2026-08-26T17:07:44.280198Z",
-      "metadata_status": "pending (Rarible metadata HTTP 429)"
+      "metadata_status": "verified",
+      "metadata": {
+        "id": "POLYGON:0xf08ee0927a9a20bcce7767a239907642f6ff08c9",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-12-03T16:04:25.996Z",
+        "meta": {
+          "name": "Red Tornado",
+          "description": "Red Tornado was constructed by Thomas Oscar Morrow™ to counteract the Super Heroes who interfered in his schemes. However, the android’s frame was possessed by a wandering wind elemental, and achieved unanticipated power and sentience. Joining the Justice League™, “Reddy” enjoyed friendship and loyalty.",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmZHiWdF9TWdZpfMy8Bm6JuVo18FqEk2omhacbzui8xJkq",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/Qmb66C9dvCqirNi9XY3PeCTe8sttWfxsfG8kM5vhtVHKsL",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 564377,
+              "available": true,
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        }
+      },
+      "symbol": "TOKEN",
+      "last_metadata_update_at": "2025-12-03T16:04:25.996Z"
     },
     {
       "id": "POLYGON:0x34d412f69c428dd1bc781f8bc3371b613b8ff5ab",
       "contract": "0x34d412f69c428dd1bc781f8bc3371b613b8ff5ab",
-      "display_name": null,
-      "name_source": null,
+      "display_name": "The Penguin - DC Classic",
+      "name_source": "Rarible collection metadata",
       "last_sale": {
         "@type": "SELL",
-        "orderId": "POLYGON:0xfeb19c094d644ae4245bd1bd43f9ee44c2fa3fdcbcae028266441c6b331fbe36",
+        "orderId": "POLYGON:0xbe85deccd1102d65fce2e1a622252c9fde5d2c19e171894841f93ad1cecb4c36",
         "source": "RARIBLE",
-        "transactionHash": "0x78fc9fb38c351263d3e4162ec4de75e3867fea00b022809958f5586c0b13af4e",
+        "transactionHash": "0x1be2e0878ee818913a99010a152a148ddbc5b43a739b1014a43dc1b05e6f4e3c",
         "blockchainInfo": {
-          "transactionHash": "0x78fc9fb38c351263d3e4162ec4de75e3867fea00b022809958f5586c0b13af4e",
-          "blockHash": "0x47e2314a6cad69d898d87fdb53e4d6b96f159284817fe15a0c128cc7d6282181",
-          "blockNumber": 92841072,
-          "logIndex": 766
+          "transactionHash": "0x1be2e0878ee818913a99010a152a148ddbc5b43a739b1014a43dc1b05e6f4e3c",
+          "blockHash": "0xae520dfc9de68d5efbedf1803773fd5727cca95c924649d808b5d34c0be8881d",
+          "blockNumber": 93072405,
+          "logIndex": 529
         },
-        "id": "POLYGON:6a9234ade7303c5185f898b4",
-        "date": "2026-08-29T01:23:55Z",
-        "lastUpdatedAt": "2026-08-29T01:23:57.316Z",
-        "cursor": "[1787966635000,92841072,766,7284592404857248798]",
+        "id": "POLYGON:6a978029e7303c5185f8c0ce",
+        "date": "2026-09-02T01:47:21Z",
+        "lastUpdatedAt": "2026-09-02T01:47:21.337Z",
+        "cursor": "[1788313641000,93072405,529,5409627594304306498]",
         "reverted": false,
         "nft": {
           "type": {
             "@type": "ERC721",
             "contract": "POLYGON:0x34d412f69c428dd1bc781f8bc3371b613b8ff5ab",
             "collection": "POLYGON:0x34d412f69c428dd1bc781f8bc3371b613b8ff5ab",
-            "tokenId": "211"
+            "tokenId": "215"
           },
           "value": "1"
         },
@@ -767,66 +2240,121 @@
             "@type": "ETH",
             "blockchain": "POLYGON"
           },
-          "value": "100"
+          "value": "185"
         },
-        "buyer": "ETHEREUM:0xc954579b288180c99a7c45536cd304afaadb9099",
-        "seller": "ETHEREUM:0xd03570e13091150e1ca83dc6d32c7309a9c5d2a5",
-        "buyerOrderHash": "0x5961fec48b8d7e328a83379c3abd00246b04aed7acd5757ec2059c8e7918f4b2",
-        "sellerOrderHash": "0xfeb19c094d644ae4245bd1bd43f9ee44c2fa3fdcbcae028266441c6b331fbe36",
-        "price": "100",
-        "priceUsd": "10.888474198694122",
-        "amountUsd": "10.888474198694122",
+        "buyerOrderHash": "0x16655fb7beeb1793c881eca3176c1e9e26015a777e8845dfb45b4f93534da268",
+        "sellerOrderHash": "0xbe85deccd1102d65fce2e1a622252c9fde5d2c19e171894841f93ad1cecb4c36",
+        "price": "185",
+        "priceUsd": "16.6634137869315099",
+        "amountUsd": "16.6634137869315099",
         "type": "SELL",
         "buyMarketplaceMarker": "0x00000000000000000000000000000000000000000000000209616c6c64617461",
         "raribleSellerFees": {
-          "value": "2",
-          "valueUsd": "0.21776948397388244"
+          "value": "3.7",
+          "valueUsd": "0.333268275738630198"
         },
-        "activity_id": "POLYGON:6a9234ade7303c5185f898b4",
+        "activity_id": "POLYGON:6a978029e7303c5185f8c0ce",
         "collection": "POLYGON:0x34d412f69c428dd1bc781f8bc3371b613b8ff5ab",
-        "token_id": "211",
+        "token_id": "215",
         "quantity": "1",
-        "item_name": "The Penguin - Purple #70",
-        "rarity": "Epic",
+        "item_name": "The Penguin - Black #146",
+        "rarity": "Legendary",
         "rarity_source": "Rarible item metadata attribute Rarity"
       },
       "added_at": "2026-08-26T17:07:44.280198Z",
-      "metadata_status": "pending (Rarible metadata HTTP 429)"
+      "metadata_status": "verified",
+      "metadata": {
+        "id": "POLYGON:0x34d412f69c428dd1bc781f8bc3371b613b8ff5ab",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2026-02-17T11:29:29.652Z",
+        "meta": {
+          "name": "The Penguin - DC Classic",
+          "description": "They say you shouldn't judge a book by its cover, but they also say evil is as evil does. A master manipulator, the Penguin is usually surrounded by violent henchmen who do his bidding without question. But when it comes down to a face-to-face, expect him to unleash a deadly barrage from a variety of umbrella weapons and other ingenious devices - often taking the form of fowl. And when all else fails, the Penguin will fight as dirty as they come, hand to hand combat doesn't ruffle his feathers at all.\n",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmZkB5n81hFhnoFLnpA2Eqv2H8mFH1Csja2JNatHF8hAp7/0",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://i2c.seadn.io/polygon/2d103cb012d34998aeb388960fd64f0a/0ccb5900807e51cc7c829906e6005f/120ccb5900807e51cc7c829906e6005f.png",
+              "representation": "ORIGINAL"
+            }
+          ]
+        }
+      },
+      "symbol": "MTD-PGN-DC",
+      "last_metadata_update_at": "2026-02-17T11:29:29.652Z"
     },
     {
       "id": "POLYGON:0xe529803b1147bfded54d27dff8c2682d954e64a3",
       "contract": "0xe529803b1147bfded54d27dff8c2682d954e64a3",
-      "display_name": null,
-      "name_source": null,
+      "display_name": "Red Hood - Detective Comics",
+      "name_source": "Rarible collection metadata",
       "last_sale": null,
       "added_at": "2026-08-26T17:07:44.280198Z",
-      "metadata_status": "pending (Rarible metadata HTTP 429)"
+      "metadata_status": "verified",
+      "metadata": {
+        "id": "POLYGON:0xe529803b1147bfded54d27dff8c2682d954e64a3",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2026-03-09T11:01:01.382Z",
+        "meta": {
+          "name": "Red Hood - Detective Comics",
+          "description": "The Joker’s past remains a mystery, but Batman believes his nemesis was once the brilliant leader of the Red Hood Gang — a criminal outfit that plagued Gotham City early during Batman’s career. After a fall into a vat of chemicals stained his skin white and his hair green, this Red Hood seemed to opt for a career as The Joker, giving in to his every insane impulse.",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmPGBa16KZTQLfTqpZ3cDCPKSJQiZRrm3dnM5rZrnJBFzi/0",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/QmVD8HJenTCDkSQ2DVL6ce128epoAbp11uA7dzkwoLuV5w/MTD-ART-CARD0.25x%20copy.png",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 770777,
+              "available": true,
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        }
+      },
+      "symbol": "RD - DC",
+      "last_metadata_update_at": "2026-03-09T11:01:01.382Z"
     }
   ],
   "baseline": {
     "observed_at": "2026-08-26T17:07:44.280198Z",
     "newest_sale": {
       "@type": "SELL",
-      "orderId": "POLYGON:0xfeb19c094d644ae4245bd1bd43f9ee44c2fa3fdcbcae028266441c6b331fbe36",
+      "orderId": "POLYGON:0xbe85deccd1102d65fce2e1a622252c9fde5d2c19e171894841f93ad1cecb4c36",
       "source": "RARIBLE",
-      "transactionHash": "0x78fc9fb38c351263d3e4162ec4de75e3867fea00b022809958f5586c0b13af4e",
+      "transactionHash": "0x1be2e0878ee818913a99010a152a148ddbc5b43a739b1014a43dc1b05e6f4e3c",
       "blockchainInfo": {
-        "transactionHash": "0x78fc9fb38c351263d3e4162ec4de75e3867fea00b022809958f5586c0b13af4e",
-        "blockHash": "0x47e2314a6cad69d898d87fdb53e4d6b96f159284817fe15a0c128cc7d6282181",
-        "blockNumber": 92841072,
-        "logIndex": 766
+        "transactionHash": "0x1be2e0878ee818913a99010a152a148ddbc5b43a739b1014a43dc1b05e6f4e3c",
+        "blockHash": "0xae520dfc9de68d5efbedf1803773fd5727cca95c924649d808b5d34c0be8881d",
+        "blockNumber": 93072405,
+        "logIndex": 529
       },
-      "id": "POLYGON:6a9234ade7303c5185f898b4",
-      "date": "2026-08-29T01:23:55Z",
-      "lastUpdatedAt": "2026-08-29T01:23:57.316Z",
-      "cursor": "[1787966635000,92841072,766,7284592404857248798]",
+      "id": "POLYGON:6a978029e7303c5185f8c0ce",
+      "date": "2026-09-02T01:47:21Z",
+      "lastUpdatedAt": "2026-09-02T01:47:21.337Z",
+      "cursor": "[1788313641000,93072405,529,5409627594304306498]",
       "reverted": false,
       "nft": {
         "type": {
           "@type": "ERC721",
           "contract": "POLYGON:0x34d412f69c428dd1bc781f8bc3371b613b8ff5ab",
           "collection": "POLYGON:0x34d412f69c428dd1bc781f8bc3371b613b8ff5ab",
-          "tokenId": "211"
+          "tokenId": "215"
         },
         "value": "1"
       },
@@ -835,28 +2363,19 @@
           "@type": "ETH",
           "blockchain": "POLYGON"
         },
-        "value": "100"
+        "value": "185"
       },
-      "buyer": "ETHEREUM:0xc954579b288180c99a7c45536cd304afaadb9099",
-      "seller": "ETHEREUM:0xd03570e13091150e1ca83dc6d32c7309a9c5d2a5",
-      "buyerOrderHash": "0x5961fec48b8d7e328a83379c3abd00246b04aed7acd5757ec2059c8e7918f4b2",
-      "sellerOrderHash": "0xfeb19c094d644ae4245bd1bd43f9ee44c2fa3fdcbcae028266441c6b331fbe36",
-      "price": "100",
-      "priceUsd": "10.888474198694122",
-      "amountUsd": "10.888474198694122",
+      "buyerOrderHash": "0x16655fb7beeb1793c881eca3176c1e9e26015a777e8845dfb45b4f93534da268",
+      "sellerOrderHash": "0xbe85deccd1102d65fce2e1a622252c9fde5d2c19e171894841f93ad1cecb4c36",
+      "price": "185",
+      "priceUsd": "16.6634137869315099",
+      "amountUsd": "16.6634137869315099",
       "type": "SELL",
       "buyMarketplaceMarker": "0x00000000000000000000000000000000000000000000000209616c6c64617461",
       "raribleSellerFees": {
-        "value": "2",
-        "valueUsd": "0.21776948397388244"
-      },
-      "activity_id": "POLYGON:6a9234ade7303c5185f898b4",
-      "collection": "POLYGON:0x34d412f69c428dd1bc781f8bc3371b613b8ff5ab",
-      "token_id": "211",
-      "quantity": "1",
-      "item_name": "The Penguin - Purple #70",
-      "rarity": "Epic",
-      "rarity_source": "Rarible item metadata attribute Rarity"
+        "value": "3.7",
+        "valueUsd": "0.333268275738630198"
+      }
     },
     "collections_with_historical_sale": null,
     "search_status": "Initial combined SALE query returned 20 newest sales; full per-collection baseline pending paginated scan."
@@ -1145,7 +2664,7 @@
     ],
     "rarity_rule": "fetch Rarible item metadata for each sale; use the attribute whose key is Rarity; emit Unknown when absent or unavailable, never infer"
   },
-  "last_successful_check_at": "2026-09-01T04:03:59.113577Z",
+  "last_successful_check_at": "2026-09-02T20:01:35.084234Z",
   "recent_sales": [
     {
       "@type": "SELL",
@@ -1179,8 +2698,6 @@
         },
         "value": "130"
       },
-      "buyer": "ETHEREUM:0xd3185fdc413274e6f1f42be530f8a625fd583090",
-      "seller": "ETHEREUM:0xd32c86a2db5e324c450d6e1d0da06d57e3d3e1cf",
       "buyerOrderHash": "0xcb78e97e10c54330f846a66ac3f879e7614bbcf3b4a4a1cd13cd548a2bbf10f7",
       "sellerOrderHash": "0x93917ff610fb992a2c92ffb9f0253c2fe9cba8dfbd616e6b6ecc8a68108c6a74",
       "price": "130",
@@ -1232,8 +2749,6 @@
         },
         "value": "100"
       },
-      "buyer": "ETHEREUM:0xc954579b288180c99a7c45536cd304afaadb9099",
-      "seller": "ETHEREUM:0xd03570e13091150e1ca83dc6d32c7309a9c5d2a5",
       "buyerOrderHash": "0x5961fec48b8d7e328a83379c3abd00246b04aed7acd5757ec2059c8e7918f4b2",
       "sellerOrderHash": "0xfeb19c094d644ae4245bd1bd43f9ee44c2fa3fdcbcae028266441c6b331fbe36",
       "price": "100",
@@ -1252,18 +2767,73 @@
       "item_name": "The Penguin - Purple #70",
       "rarity": "Epic",
       "rarity_source": "Rarible item metadata attribute Rarity"
+    },
+    {
+      "@type": "SELL",
+      "orderId": "POLYGON:0xbe85deccd1102d65fce2e1a622252c9fde5d2c19e171894841f93ad1cecb4c36",
+      "source": "RARIBLE",
+      "transactionHash": "0x1be2e0878ee818913a99010a152a148ddbc5b43a739b1014a43dc1b05e6f4e3c",
+      "blockchainInfo": {
+        "transactionHash": "0x1be2e0878ee818913a99010a152a148ddbc5b43a739b1014a43dc1b05e6f4e3c",
+        "blockHash": "0xae520dfc9de68d5efbedf1803773fd5727cca95c924649d808b5d34c0be8881d",
+        "blockNumber": 93072405,
+        "logIndex": 529
+      },
+      "id": "POLYGON:6a978029e7303c5185f8c0ce",
+      "date": "2026-09-02T01:47:21Z",
+      "lastUpdatedAt": "2026-09-02T01:47:21.337Z",
+      "cursor": "[1788313641000,93072405,529,5409627594304306498]",
+      "reverted": false,
+      "nft": {
+        "type": {
+          "@type": "ERC721",
+          "contract": "POLYGON:0x34d412f69c428dd1bc781f8bc3371b613b8ff5ab",
+          "collection": "POLYGON:0x34d412f69c428dd1bc781f8bc3371b613b8ff5ab",
+          "tokenId": "215"
+        },
+        "value": "1"
+      },
+      "payment": {
+        "type": {
+          "@type": "ETH",
+          "blockchain": "POLYGON"
+        },
+        "value": "185"
+      },
+      "buyerOrderHash": "0x16655fb7beeb1793c881eca3176c1e9e26015a777e8845dfb45b4f93534da268",
+      "sellerOrderHash": "0xbe85deccd1102d65fce2e1a622252c9fde5d2c19e171894841f93ad1cecb4c36",
+      "price": "185",
+      "priceUsd": "16.6634137869315099",
+      "amountUsd": "16.6634137869315099",
+      "type": "SELL",
+      "buyMarketplaceMarker": "0x00000000000000000000000000000000000000000000000209616c6c64617461",
+      "raribleSellerFees": {
+        "value": "3.7",
+        "valueUsd": "0.333268275738630198"
+      },
+      "activity_id": "POLYGON:6a978029e7303c5185f8c0ce",
+      "collection": "POLYGON:0x34d412f69c428dd1bc781f8bc3371b613b8ff5ab",
+      "token_id": "215",
+      "quantity": "1",
+      "item_name": "The Penguin - Black #146",
+      "rarity": "Legendary",
+      "rarity_source": "Rarible item metadata attribute Rarity"
     }
   ],
   "pending_whatsapp_sale_alert": {
     "activity_ids": [
-      "POLYGON:6a9234ade7303c5185f898b4"
+      "POLYGON:6a978029e7303c5185f8c0ce"
     ],
-    "alert_text": "• **Pending name lookup** — Item: **The Penguin - Purple #70**; Rarity: **Epic**; Price: **100 POLYGON**; Qty: 1; Sold: 2026-08-29T01:23:55Z",
+    "alert_text": "• **The Penguin - DC Classic** — Item: **The Penguin - Black #146**; Rarity: **Legendary**; Price: **185 POLYGON**; Qty: 1; Sold: 2026-09-02T01:47:21Z",
     "delivered": true,
-    "delivered_at": "2026-08-29T20:16:27.358755Z"
+    "created_at": "2026-09-02T04:01:37.101624Z"
   },
-  "last_fetch_failure": {
-    "at": "2026-09-01T12:01:43.886512Z",
-    "error": "RuntimeError: incomplete activities response"
-  }
+  "metadata_enrichment": {
+    "last_attempt_at": "2026-09-03T03:50:24.078896Z",
+    "strategy": "one serial authenticated Rarible collection request every five minutes; sale-referenced collections are prioritized; 429/errors cool down for one hour",
+    "last_result": "No eligible pending collections",
+    "remaining_pending": 1
+  },
+  "last_activity_search_cursor": "[1787930106000,92816719,2723,1741858334128667899]",
+  "last_activity_search_status": "success: 3 activities returned; all non-reverted IDs already recorded"
 }
