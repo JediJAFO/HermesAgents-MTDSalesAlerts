@@ -19,6 +19,7 @@ SOURCE = Path("C:/Users/jltfo/AppData/Local/hermes/price-watches")
 DOCS = Path("C:/Users/jltfo/Documents")
 PRD_REFRESH = Path("C:/Users/jltfo/AppData/Local/hermes/scripts/refresh-mcfarlane-prds.py")
 ENRICHER = Path("C:/Users/jltfo/AppData/Local/hermes/scripts/enrich_mtd_dc_metadata.py")
+USD_CACHE_SCRIPT = Path("C:/Users/jltfo/AppData/Local/hermes/scripts/cache_mcfarlane_sale_usd.py")
 DEST = REPO / "monitor"
 STAMP = REPO / "backup" / ".last-successful-backup-date"
 FILES = (
@@ -27,6 +28,7 @@ FILES = (
     "mcfarlane-dc-sales-catalog.md",
     "mcfarlane-dc-sales-database.md",
     "mcfarlane-dc-metadata.md",
+    "mcfarlane-pol-usd-daily.json",
 )
 
 
@@ -82,6 +84,7 @@ def main() -> None:
     scripts_dest.mkdir(exist_ok=True)
     shutil.copy2(Path(__file__), scripts_dest / "backup-mtd-sales-alerts.py")
     shutil.copy2(ENRICHER, scripts_dest / ENRICHER.name)
+    shutil.copy2(USD_CACHE_SCRIPT, scripts_dest / USD_CACHE_SCRIPT.name)
 
     run_git("add", "README.md", ".gitignore", "backup-mtd-sales-alerts.sh", "McFarlane_DC_Sales_Alerts_PRD.md", "McFarlane_DC_Sales_Alerts_PRD.docx", "monitor/", "scripts/")
     if run_git("diff", "--cached", "--quiet", check=False).returncode == 0:

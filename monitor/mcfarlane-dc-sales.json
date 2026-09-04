@@ -87,7 +87,9 @@
         "reverted": false,
         "item_name": "Reverse Flash #111",
         "rarity": "Legendary",
-        "rarity_source": "Rarible item metadata attribute Rarity"
+        "rarity_source": "Rarible item metadata attribute Rarity",
+        "usd_amount": 20.212683955989974,
+        "usd_source": "Rarible completed-activity priceUsd captured once at sale time"
       },
       "added_at": "2026-08-26T17:07:44.280198Z",
       "symbol": "TOKEN",
@@ -722,7 +724,7 @@
       "added_at": "2026-08-26T17:07:44.280198Z",
       "metadata_status": "pending (Rarible metadata request failed HTTP 404)",
       "last_metadata_error": "Rarible metadata request failed HTTP 404",
-      "next_metadata_retry_at": "2026-09-03T04:05:22.722635Z"
+      "next_metadata_retry_at": "2026-09-04T04:15:03.041348Z"
     },
     {
       "id": "POLYGON:0x4bdaf58712cf8c69fe619f32f373d541ea87a51a",
@@ -1676,7 +1678,9 @@
         "rarity_source": "Rarible item metadata attribute Rarity",
         "quantity": "1",
         "activity_id": "POLYGON:6a91a5fbe7303c5185f89587",
-        "token_id": "36"
+        "token_id": "36",
+        "usd_amount": 14.02001748454054,
+        "usd_source": "Rarible completed-activity priceUsd captured once at sale time"
       },
       "added_at": "2026-08-26T17:07:44.280198Z",
       "metadata_status": "verified",
@@ -2259,7 +2263,9 @@
         "quantity": "1",
         "item_name": "The Penguin - Black #146",
         "rarity": "Legendary",
-        "rarity_source": "Rarible item metadata attribute Rarity"
+        "rarity_source": "Rarible item metadata attribute Rarity",
+        "usd_amount": 16.66341378693151,
+        "usd_source": "Rarible completed-activity priceUsd captured once at sale time"
       },
       "added_at": "2026-08-26T17:07:44.280198Z",
       "metadata_status": "verified",
@@ -2664,7 +2670,7 @@
     ],
     "rarity_rule": "fetch Rarible item metadata for each sale; use the attribute whose key is Rarity; emit Unknown when absent or unavailable, never infer"
   },
-  "last_successful_check_at": "2026-09-02T20:01:35.084234Z",
+  "last_successful_check_at": "2026-09-03T16:03:14.321507Z",
   "recent_sales": [
     {
       "@type": "SELL",
@@ -2715,7 +2721,9 @@
       "rarity_source": "Rarible item metadata attribute Rarity",
       "quantity": "1",
       "activity_id": "POLYGON:6a91a5fbe7303c5185f89587",
-      "token_id": "36"
+      "token_id": "36",
+      "usd_amount": 14.02001748454054,
+      "usd_source": "Rarible completed-activity priceUsd captured once at sale time"
     },
     {
       "@type": "SELL",
@@ -2766,7 +2774,9 @@
       "quantity": "1",
       "item_name": "The Penguin - Purple #70",
       "rarity": "Epic",
-      "rarity_source": "Rarible item metadata attribute Rarity"
+      "rarity_source": "Rarible item metadata attribute Rarity",
+      "usd_amount": 10.888474198694121,
+      "usd_source": "Rarible completed-activity priceUsd captured once at sale time"
     },
     {
       "@type": "SELL",
@@ -2817,7 +2827,9 @@
       "quantity": "1",
       "item_name": "The Penguin - Black #146",
       "rarity": "Legendary",
-      "rarity_source": "Rarible item metadata attribute Rarity"
+      "rarity_source": "Rarible item metadata attribute Rarity",
+      "usd_amount": 16.66341378693151,
+      "usd_source": "Rarible completed-activity priceUsd captured once at sale time"
     }
   ],
   "pending_whatsapp_sale_alert": {
@@ -2829,11 +2841,16 @@
     "created_at": "2026-09-02T04:01:37.101624Z"
   },
   "metadata_enrichment": {
-    "last_attempt_at": "2026-09-03T03:50:24.078896Z",
+    "last_attempt_at": "2026-09-04T03:50:04.682999Z",
     "strategy": "one serial authenticated Rarible collection request every five minutes; sale-referenced collections are prioritized; 429/errors cool down for one hour",
     "last_result": "No eligible pending collections",
     "remaining_pending": 1
   },
-  "last_activity_search_cursor": "[1787930106000,92816719,2723,1741858334128667899]",
-  "last_activity_search_status": "success: 3 activities returned; all non-reverted IDs already recorded"
+  "last_activity_search_cursor": null,
+  "last_activity_search_status": "safe failure: Rarible activities/search HTTP 400; state/cursor preserved; no alert emitted",
+  "last_activity_search_failure_at": "2026-09-04T00:01:35.472400Z",
+  "last_activity_search_failure": {
+    "http_status": 400,
+    "reason": "Rarible activities/search requires a non-null filter object; state/cursor preserved."
+  }
 }
