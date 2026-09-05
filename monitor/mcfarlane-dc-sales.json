@@ -724,7 +724,7 @@
       "added_at": "2026-08-26T17:07:44.280198Z",
       "metadata_status": "pending (Rarible metadata request failed HTTP 404)",
       "last_metadata_error": "Rarible metadata request failed HTTP 404",
-      "next_metadata_retry_at": "2026-09-04T04:15:03.041348Z"
+      "next_metadata_retry_at": "2026-09-05T04:25:13.780634Z"
     },
     {
       "id": "POLYGON:0x4bdaf58712cf8c69fe619f32f373d541ea87a51a",
@@ -2670,7 +2670,7 @@
     ],
     "rarity_rule": "fetch Rarible item metadata for each sale; use the attribute whose key is Rarity; emit Unknown when absent or unavailable, never infer"
   },
-  "last_successful_check_at": "2026-09-03T16:03:14.321507Z",
+  "last_successful_check_at": "2026-09-04T20:02:10.082140Z",
   "recent_sales": [
     {
       "@type": "SELL",
@@ -2841,16 +2841,11 @@
     "created_at": "2026-09-02T04:01:37.101624Z"
   },
   "metadata_enrichment": {
-    "last_attempt_at": "2026-09-04T03:50:04.682999Z",
+    "last_attempt_at": "2026-09-05T03:50:15.171347Z",
     "strategy": "one serial authenticated Rarible collection request every five minutes; sale-referenced collections are prioritized; 429/errors cool down for one hour",
     "last_result": "No eligible pending collections",
     "remaining_pending": 1
   },
-  "last_activity_search_cursor": null,
-  "last_activity_search_status": "safe failure: Rarible activities/search HTTP 400; state/cursor preserved; no alert emitted",
-  "last_activity_search_failure_at": "2026-09-04T00:01:35.472400Z",
-  "last_activity_search_failure": {
-    "http_status": 400,
-    "reason": "Rarible activities/search requires a non-null filter object; state/cursor preserved."
-  }
+  "last_activity_search_cursor": "[1788313641000,93072405,529,5409627594304306498]",
+  "last_activity_search_status": "safe failure: HTTP 400; prior state retained"
 }
