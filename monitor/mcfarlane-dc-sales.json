@@ -724,7 +724,7 @@
       "added_at": "2026-08-26T17:07:44.280198Z",
       "metadata_status": "pending (Rarible metadata request failed HTTP 404)",
       "last_metadata_error": "Rarible metadata request failed HTTP 404",
-      "next_metadata_retry_at": "2026-09-06T04:30:10.675086Z"
+      "next_metadata_retry_at": "2026-09-07T04:40:10.090093Z"
     },
     {
       "id": "POLYGON:0x4bdaf58712cf8c69fe619f32f373d541ea87a51a",
@@ -2670,7 +2670,7 @@
     ],
     "rarity_rule": "fetch Rarible item metadata for each sale; use the attribute whose key is Rarity; emit Unknown when absent or unavailable, never infer"
   },
-  "last_successful_check_at": "2026-09-05T12:02:26.493203Z",
+  "last_successful_check_at": "2026-09-07T00:01:05.291257Z",
   "recent_sales": [
     {
       "@type": "SELL",
@@ -2832,22 +2832,14 @@
       "usd_source": "Rarible completed-activity priceUsd captured once at sale time"
     }
   ],
-  "pending_whatsapp_sale_alert": {
-    "activity_ids": [
-      "POLYGON:6a978029e7303c5185f8c0ce"
-    ],
-    "alert_text": "• **The Penguin - DC Classic** — Item: **The Penguin - Black #146**; Rarity: **Legendary**; Price: **185 POLYGON**; Qty: 1; Sold: 2026-09-02T01:47:21Z",
-    "delivered": true,
-    "created_at": "2026-09-02T04:01:37.101624Z"
-  },
+  "pending_whatsapp_sale_alert": null,
   "metadata_enrichment": {
-    "last_attempt_at": "2026-09-06T03:50:11.641041Z",
+    "last_attempt_at": "2026-09-07T03:50:10.318704Z",
     "strategy": "one serial authenticated Rarible collection request every five minutes; sale-referenced collections are prioritized; 429/errors cool down for one hour",
     "last_result": "No eligible pending collections",
     "remaining_pending": 1
   },
   "last_activity_search_cursor": "[1788313641000,93072405,529,5409627594304306498]",
-  "last_activity_search_status": "safe failure: Rarible HTTP 400",
-  "last_activity_search_attempt_at": "2026-09-06T00:01:28.952109Z",
-  "last_activity_search_failed_at": "2026-09-06T00:01:28.952109Z"
+  "last_activity_search_status": "verified: 1 activities returned; 0 new non-reverted sales.",
+  "last_activity_search_attempt_at": "2026-09-06T16:02:11.158652Z"
 }
