@@ -3,12 +3,21 @@
   "scope": {
     "marketplace": "McFarlane Toys Digital",
     "network": "POLYGON",
-    "category": "DC Comics NFTs",
-    "source": "user-supplied contract allowlist",
-    "tracking_rule": "completed Rarible SELL activities only; exclude transfers, mints, listings, bids, cancellations"
+    "category": "multi-category",
+    "source": "user-supplied multi-category contract allowlists",
+    "tracking_rule": "completed Rarible SELL activities only; exclude transfers, mints, listings, bids, cancellations",
+    "categories": {
+      "DC": "DC Comics NFTs",
+      "UFC": "UFC",
+      "Universal": "Universal",
+      "McFarlane Dragons": "McFarlane Dragons",
+      "Walking Dead": "Walking Dead",
+      "BRZRKR": "BRZRKR",
+      "McFarlane Digital": "McFarlane Digital"
+    }
   },
   "catalog_created_at": "2026-08-26T17:07:44.280198Z",
-  "last_catalog_refresh_at": "2026-08-26T17:10:11.017348Z",
+  "last_catalog_refresh_at": "2026-09-07T18:26:35.343563Z",
   "collections": [
     {
       "id": "POLYGON:0x028ab77ff9794d2b02f11f77a01c7c2f96618916",
@@ -19,7 +28,8 @@
       "added_at": "2026-08-26T17:07:44.280198Z",
       "symbol": "MTD-COWL89",
       "last_metadata_update_at": "2026-01-28T17:46:36.928Z",
-      "metadata_status": "verified"
+      "metadata_status": "verified",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0x89ed4239d327856e31ae5194006a7c99e53babf3",
@@ -30,7 +40,8 @@
       "added_at": "2026-08-26T17:07:44.280198Z",
       "symbol": "TOKEN",
       "last_metadata_update_at": "2025-02-15T00:51:47.551Z",
-      "metadata_status": "verified"
+      "metadata_status": "verified",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0x4925bd9f5e72cfc518fb9c6e078009cfc32bda6f",
@@ -41,7 +52,8 @@
       "added_at": "2026-08-26T17:07:44.280198Z",
       "symbol": "MTD-TBLR",
       "last_metadata_update_at": "2026-02-02T19:34:45.951Z",
-      "metadata_status": "verified"
+      "metadata_status": "verified",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0x509e2cb48f98ee08ed7d69c497b8d51ac6ddef7c",
@@ -52,7 +64,8 @@
       "added_at": "2026-08-26T17:07:44.280198Z",
       "symbol": "MTD-BBYD",
       "last_metadata_update_at": "2026-01-28T17:46:37.178Z",
-      "metadata_status": "verified"
+      "metadata_status": "verified",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0x5f075c762e276a6527846427e66c75e89ef30091",
@@ -63,7 +76,8 @@
       "added_at": "2026-08-26T17:07:44.280198Z",
       "symbol": "MTD-WWC",
       "last_metadata_update_at": "2025-10-30T03:45:16.707Z",
-      "metadata_status": "verified"
+      "metadata_status": "verified",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0x065f62e2d98f6ee8ddf3d6899c4b3a2a9b9b3ea2",
@@ -94,7 +108,8 @@
       "added_at": "2026-08-26T17:07:44.280198Z",
       "symbol": "TOKEN",
       "last_metadata_update_at": "2025-10-03T01:54:06.639Z",
-      "metadata_status": "verified"
+      "metadata_status": "verified",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0x651879523e831763519ab8df1d8cd6fa8c4c9937",
@@ -105,7 +120,8 @@
       "added_at": "2026-08-26T17:07:44.280198Z",
       "metadata_status": "verified",
       "symbol": "MTD-LOBOHOG",
-      "last_metadata_update_at": "2025-10-03T22:54:20.412Z"
+      "last_metadata_update_at": "2025-10-03T22:54:20.412Z",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0x66fc5b74aa52565d62ada7f15cbe042a4999e22e",
@@ -116,7 +132,8 @@
       "added_at": "2026-08-26T17:07:44.280198Z",
       "symbol": "MTD-LOBO",
       "last_metadata_update_at": "2025-11-15T10:31:55.038Z",
-      "metadata_status": "verified"
+      "metadata_status": "verified",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0x35b07bce9421e5d19b59a966aaf03e22b240d4d0",
@@ -127,7 +144,8 @@
       "added_at": "2026-08-26T17:07:44.280198Z",
       "metadata_status": "verified",
       "symbol": "TOKEN",
-      "last_metadata_update_at": "2025-08-15T20:10:44.939Z"
+      "last_metadata_update_at": "2025-08-15T20:10:44.939Z",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0x42cab89b1ed5b9f49636a06ab0e4866aaa2a2c3e",
@@ -138,7 +156,8 @@
       "added_at": "2026-08-26T17:07:44.280198Z",
       "metadata_status": "verified",
       "symbol": "TOKEN",
-      "last_metadata_update_at": "2025-10-03T17:54:15.218Z"
+      "last_metadata_update_at": "2025-10-03T17:54:15.218Z",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0x3ca89fcea0934efaadf2381906ca1cb004f8989d",
@@ -176,7 +195,8 @@
         }
       },
       "symbol": "TOKEN",
-      "last_metadata_update_at": "2025-10-03T19:54:18.514Z"
+      "last_metadata_update_at": "2025-10-03T19:54:18.514Z",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0xfcc2919a153785d8b0181b05212d54eb5b313a3e",
@@ -214,7 +234,8 @@
         }
       },
       "symbol": "MTD-CKBS",
-      "last_metadata_update_at": "2025-10-03T19:54:17.421Z"
+      "last_metadata_update_at": "2025-10-03T19:54:17.421Z",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0x3eba9e3a6c4cc4883da6cbc0792b4ba62f658da1",
@@ -255,7 +276,8 @@
         }
       },
       "symbol": "MTD-CWMKF",
-      "last_metadata_update_at": "2025-10-03T19:54:17.269Z"
+      "last_metadata_update_at": "2025-10-03T19:54:17.269Z",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0xe3c14a10f4398653569ab8eb2f86070565e22206",
@@ -297,7 +319,8 @@
         }
       },
       "symbol": "MTD-GREEN",
-      "last_metadata_update_at": "2025-10-03T19:54:18.899Z"
+      "last_metadata_update_at": "2025-10-03T19:54:18.899Z",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0x398acb7ea6a9602a57d3eaec89588923b5235bc5",
@@ -339,7 +362,8 @@
         }
       },
       "symbol": "MTD-BTWFLSH",
-      "last_metadata_update_at": "2025-10-03T18:54:17.052Z"
+      "last_metadata_update_at": "2025-10-03T18:54:17.052Z",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0x2eea5c7d812e30f2940f6ecdb3dbaddc467a2ee3",
@@ -381,7 +405,8 @@
         }
       },
       "symbol": "MTD-SAC1",
-      "last_metadata_update_at": "2025-10-18T22:55:40.298Z"
+      "last_metadata_update_at": "2025-10-18T22:55:40.298Z",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0x7180b24b73495968acd96f700f0860599a75dc9e",
@@ -423,7 +448,8 @@
         }
       },
       "symbol": "MTD-DOOM",
-      "last_metadata_update_at": "2025-10-03T19:54:18.199Z"
+      "last_metadata_update_at": "2025-10-03T19:54:18.199Z",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0xcd17d2036e0cd836a95c9df33a1b161cd3eebc21",
@@ -461,7 +487,8 @@
         }
       },
       "symbol": "MTD-BTM12",
-      "last_metadata_update_at": "2026-08-12T00:12:35.719Z"
+      "last_metadata_update_at": "2026-08-12T00:12:35.719Z",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0x4867349931a547c47e3f4b4dffe7afa5c59b6174",
@@ -503,7 +530,8 @@
         }
       },
       "symbol": "MTD-MFZ",
-      "last_metadata_update_at": "2025-10-30T15:45:22.792Z"
+      "last_metadata_update_at": "2025-10-30T15:45:22.792Z",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0x6b75497bd0a94b03353c69cd93317e2a3b9ac803",
@@ -545,7 +573,8 @@
         }
       },
       "symbol": "MTD-MMH",
-      "last_metadata_update_at": "2025-10-03T22:54:20.461Z"
+      "last_metadata_update_at": "2025-10-03T22:54:20.461Z",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0xd42dd7a255a7c3067ab57f66484bd65287fb6de8",
@@ -587,7 +616,8 @@
         }
       },
       "symbol": "MTD-KFL",
-      "last_metadata_update_at": "2025-11-15T08:23:05.999Z"
+      "last_metadata_update_at": "2025-11-15T08:23:05.999Z",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0xd03c73c8f3e8c7e7957b43df402ecb7640d89f62",
@@ -629,7 +659,8 @@
         }
       },
       "symbol": "MTD-BKF",
-      "last_metadata_update_at": "2025-10-03T17:54:16.644Z"
+      "last_metadata_update_at": "2025-10-03T17:54:16.644Z",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0x240a1d938d78c76ad8af1ce080858614da311636",
@@ -671,7 +702,8 @@
         }
       },
       "symbol": "MTD-DTH",
-      "last_metadata_update_at": "2025-10-03T19:54:17.942Z"
+      "last_metadata_update_at": "2025-10-03T19:54:17.942Z",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0xab575d5961a4929386288ccb4cd6ff88cdf253d2",
@@ -713,7 +745,8 @@
         }
       },
       "symbol": "MTD-BPO",
-      "last_metadata_update_at": "2025-10-03T17:54:16.198Z"
+      "last_metadata_update_at": "2025-10-03T17:54:16.198Z",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0x0fd66c55e5861122376f207b59d71aacb1b0cc4f",
@@ -724,7 +757,8 @@
       "added_at": "2026-08-26T17:07:44.280198Z",
       "metadata_status": "pending (Rarible metadata request failed HTTP 404)",
       "last_metadata_error": "Rarible metadata request failed HTTP 404",
-      "next_metadata_retry_at": "2026-09-07T04:40:10.090093Z"
+      "next_metadata_retry_at": "2026-09-08T04:45:51.076208Z",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0x4bdaf58712cf8c69fe619f32f373d541ea87a51a",
@@ -766,7 +800,8 @@
         }
       },
       "symbol": "BY2",
-      "last_metadata_update_at": "2026-08-12T00:12:35.733Z"
+      "last_metadata_update_at": "2026-08-12T00:12:35.733Z",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0x2b3d922b71d5bb1d745859f8c2cfa00951bd382a",
@@ -804,7 +839,8 @@
         }
       },
       "symbol": "MTD-BAB",
-      "last_metadata_update_at": "2025-04-17T16:45:00.387Z"
+      "last_metadata_update_at": "2025-04-17T16:45:00.387Z",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0x0039650dc457f9b5002112fe1ee4c7895f5c14e2",
@@ -846,7 +882,8 @@
         }
       },
       "symbol": "MTD-SAC",
-      "last_metadata_update_at": "2025-11-15T08:23:04.580Z"
+      "last_metadata_update_at": "2025-11-15T08:23:04.580Z",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0x2595b68c39f9f42f6d533f85fca4cdc6fff29a09",
@@ -888,7 +925,8 @@
         }
       },
       "symbol": "MTD-SM85",
-      "last_metadata_update_at": "2025-08-14T03:12:23.366Z"
+      "last_metadata_update_at": "2025-08-14T03:12:23.366Z",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0x229f58f93d2607c54d0abcf899c807f1f3b40ab8",
@@ -930,7 +968,8 @@
         }
       },
       "symbol": "MTD-BLUE",
-      "last_metadata_update_at": "2025-10-03T18:54:17.052Z"
+      "last_metadata_update_at": "2025-10-03T18:54:17.052Z",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0x9a4767252f3b40929bc579a9c6f3d140c0901af2",
@@ -941,7 +980,8 @@
       "added_at": "2026-08-26T17:07:44.280198Z",
       "symbol": "MTD-BKF",
       "last_metadata_update_at": "2025-10-03T17:54:15.366Z",
-      "metadata_status": "verified"
+      "metadata_status": "verified",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0x02994090747138a15361560f943cc5fbfcff256d",
@@ -952,7 +992,8 @@
       "added_at": "2026-08-26T17:07:44.280198Z",
       "symbol": "MTD-FSHBA",
       "last_metadata_update_at": "2025-10-03T12:54:14.909Z",
-      "metadata_status": "verified"
+      "metadata_status": "verified",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0x8bcb47ba475fd7d52975a5c660750ad5e60a6281",
@@ -994,7 +1035,8 @@
         }
       },
       "symbol": "MTD-BBYDK",
-      "last_metadata_update_at": "2025-10-03T17:54:15.823Z"
+      "last_metadata_update_at": "2025-10-03T17:54:15.823Z",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0x0866e58f7faaa78b7bf709398c131586cedf0833",
@@ -1034,7 +1076,8 @@
         }
       },
       "symbol": "TOKEN",
-      "last_metadata_update_at": "2025-10-03T22:54:19.490Z"
+      "last_metadata_update_at": "2025-10-03T22:54:19.490Z",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0xef0f05593a3ca8a8bb3c5f4ac86ac4af9bfeb346",
@@ -1074,7 +1117,8 @@
         }
       },
       "symbol": "TOKEN",
-      "last_metadata_update_at": "2025-09-12T01:04:19.833Z"
+      "last_metadata_update_at": "2025-09-12T01:04:19.833Z",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0x7a768033aae19e13345686618bdcbf735e9b9a74",
@@ -1085,7 +1129,8 @@
       "added_at": "2026-08-26T17:07:44.280198Z",
       "symbol": "TOKEN",
       "last_metadata_update_at": "2025-10-06T18:54:32.213Z",
-      "metadata_status": "verified"
+      "metadata_status": "verified",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0xa2eab97f61ff1ec6e9708363e9111a7806118ae7",
@@ -1096,7 +1141,8 @@
       "added_at": "2026-08-26T17:07:44.280198Z",
       "symbol": "TOKEN",
       "last_metadata_update_at": "2025-10-06T18:54:32.077Z",
-      "metadata_status": "verified"
+      "metadata_status": "verified",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0x53247d58b7e1731a730773f5370f712867a22b5f",
@@ -1136,7 +1182,8 @@
         }
       },
       "symbol": "TOKEN",
-      "last_metadata_update_at": "2025-10-03T22:54:19.697Z"
+      "last_metadata_update_at": "2025-10-03T22:54:19.697Z",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0xdab073c72ccaea3d5a6571cf1dd98cfa77f01b05",
@@ -1147,7 +1194,8 @@
       "added_at": "2026-08-26T17:07:44.280198Z",
       "symbol": "TOKEN",
       "last_metadata_update_at": "2025-08-06T01:07:21.276Z",
-      "metadata_status": "verified"
+      "metadata_status": "verified",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0xa3ff7a4c4aa5369b73447e71ab3ac6dda69af07f",
@@ -1187,7 +1235,8 @@
         }
       },
       "symbol": "TOKEN",
-      "last_metadata_update_at": "2025-09-12T01:04:19.971Z"
+      "last_metadata_update_at": "2025-09-12T01:04:19.971Z",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0x186b4d896d3be406ba4868541f866eb58ad6373e",
@@ -1227,7 +1276,8 @@
         }
       },
       "symbol": "TOKEN",
-      "last_metadata_update_at": "2025-10-03T22:54:19.836Z"
+      "last_metadata_update_at": "2025-10-03T22:54:19.836Z",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0x79f1437646c048815a4187f598b877595f184592",
@@ -1267,7 +1317,8 @@
         }
       },
       "symbol": "TOKEN",
-      "last_metadata_update_at": "2025-08-13T22:12:17.213Z"
+      "last_metadata_update_at": "2025-08-13T22:12:17.213Z",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0x049474b730f15d863e4b87c352fae7d5acc1197f",
@@ -1307,7 +1358,8 @@
         }
       },
       "symbol": "MTD-TBLR-JK",
-      "last_metadata_update_at": "2025-08-13T22:12:15.577Z"
+      "last_metadata_update_at": "2025-08-13T22:12:15.577Z",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0x1b15a670992d7b2475ed9578ef962bdc22f753a6",
@@ -1347,7 +1399,8 @@
         }
       },
       "symbol": "MTD-WW_GD",
-      "last_metadata_update_at": "2025-10-07T00:54:32.951Z"
+      "last_metadata_update_at": "2025-10-07T00:54:32.951Z",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0xc0e360dae3bdcb967b16806a14e9621ece8b479a",
@@ -1387,7 +1440,8 @@
         }
       },
       "symbol": "MTD-BAT-ST",
-      "last_metadata_update_at": "2025-09-03T18:47:41.918Z"
+      "last_metadata_update_at": "2025-09-03T18:47:41.918Z",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0xea52d6ea1743bc5cb69cf63cd8bc5e53e03b2ed9",
@@ -1427,7 +1481,8 @@
         }
       },
       "symbol": "MTD-N",
-      "last_metadata_update_at": "2025-10-04T00:54:22.532Z"
+      "last_metadata_update_at": "2025-10-04T00:54:22.532Z",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0x43248fc0a82b96ee59f9a10d8eabbde700b006f9",
@@ -1467,7 +1522,8 @@
         }
       },
       "symbol": "MTD-NW-PT",
-      "last_metadata_update_at": "2025-10-04T00:54:22.449Z"
+      "last_metadata_update_at": "2025-10-04T00:54:22.449Z",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0x6b2c6f1dec14f00d14d6f8f56dd52e2edabeffff",
@@ -1507,7 +1563,8 @@
         }
       },
       "symbol": "MTD-NW-PT",
-      "last_metadata_update_at": "2025-10-04T00:54:22.724Z"
+      "last_metadata_update_at": "2025-10-04T00:54:22.724Z",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0xbfcd6a3dab4b7ba32aae04312786cea9d12aa221",
@@ -1542,7 +1599,8 @@
         }
       },
       "symbol": "TOKEN",
-      "last_metadata_update_at": "2026-05-21T11:24:07.756Z"
+      "last_metadata_update_at": "2026-05-21T11:24:07.756Z",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0xcf0a77830c9d5ef65325a0884998dea764b0873b",
@@ -1582,7 +1640,8 @@
         }
       },
       "symbol": "MTD-DC-SPC",
-      "last_metadata_update_at": "2025-12-03T16:04:25.996Z"
+      "last_metadata_update_at": "2025-12-03T16:04:25.996Z",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0xaf37e249b74b2cf57bfa1ab6cdfa88248e821cb7",
@@ -1622,7 +1681,8 @@
         }
       },
       "symbol": "TOKEN",
-      "last_metadata_update_at": "2025-04-12T16:00:14.976Z"
+      "last_metadata_update_at": "2025-04-12T16:00:14.976Z",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0x636045ab763b493a80350bfbd08e038029056ae2",
@@ -1714,7 +1774,8 @@
         }
       },
       "symbol": "TOKEN",
-      "last_metadata_update_at": "2025-10-03T19:54:18.095Z"
+      "last_metadata_update_at": "2025-10-03T19:54:18.095Z",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0xb817501dbcdc39c87d7afab91f41eb3608f312be",
@@ -1754,7 +1815,8 @@
         }
       },
       "symbol": "TOKEN",
-      "last_metadata_update_at": "2025-08-13T22:12:18.874Z"
+      "last_metadata_update_at": "2025-08-13T22:12:18.874Z",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0x89696ef507b55741dc311733b7658fba5c8eea91",
@@ -1794,7 +1856,8 @@
         }
       },
       "symbol": "TOKEN",
-      "last_metadata_update_at": "2025-08-13T23:12:19.176Z"
+      "last_metadata_update_at": "2025-08-13T23:12:19.176Z",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0x5847dd7002f1874bf55dd8c1db95b0bbfea84a08",
@@ -1834,7 +1897,8 @@
         }
       },
       "symbol": "TOKEN",
-      "last_metadata_update_at": "2025-08-22T16:20:49.280Z"
+      "last_metadata_update_at": "2025-08-22T16:20:49.280Z",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0x7cb3de1557bad446c25edb6fb519f2f186ed1589",
@@ -1874,7 +1938,8 @@
         }
       },
       "symbol": "MTD-DC-PGR",
-      "last_metadata_update_at": "2025-09-04T14:57:06.686Z"
+      "last_metadata_update_at": "2025-09-04T14:57:06.686Z",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0xf53358fba52b6bd19d0b25f29e727c419f0ee9ea",
@@ -1914,7 +1979,8 @@
         }
       },
       "symbol": "MTD-BATSP-FU",
-      "last_metadata_update_at": "2025-10-07T00:54:32.767Z"
+      "last_metadata_update_at": "2025-10-07T00:54:32.767Z",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0xe3ae4e46917540b7760bf7702be2f2c503f9bc4b",
@@ -1954,7 +2020,8 @@
         }
       },
       "symbol": "TOKEN",
-      "last_metadata_update_at": "2025-08-22T16:20:49.280Z"
+      "last_metadata_update_at": "2025-08-22T16:20:49.280Z",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0x19f5dd4d1315adfcda911dbb811f9f1d129cf6ca",
@@ -1994,7 +2061,8 @@
         }
       },
       "symbol": "TOKEN",
-      "last_metadata_update_at": "2025-08-22T16:20:49.280Z"
+      "last_metadata_update_at": "2025-08-22T16:20:49.280Z",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0x5051775029610e48d325e65d6c5d56fe607bcc0d",
@@ -2034,7 +2102,8 @@
         }
       },
       "symbol": "TOKEN",
-      "last_metadata_update_at": "2025-10-14T20:55:14.616Z"
+      "last_metadata_update_at": "2025-10-14T20:55:14.616Z",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0x55e79461a5accca44f9a4744fe3215d593c79218",
@@ -2045,7 +2114,8 @@
       "added_at": "2026-08-26T17:07:44.280198Z",
       "symbol": "TOKEN",
       "last_metadata_update_at": "2025-08-22T16:20:49.280Z",
-      "metadata_status": "verified"
+      "metadata_status": "verified",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0x19b2dfff394cac6bec13f1ab00723763c5b9b659",
@@ -2056,7 +2126,8 @@
       "added_at": "2026-08-26T17:07:44.280198Z",
       "symbol": "TOKEN",
       "last_metadata_update_at": "2025-08-22T16:20:49.280Z",
-      "metadata_status": "verified"
+      "metadata_status": "verified",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0xaa1d4c0eab9e4152890abb71fab015e23905e491",
@@ -2067,7 +2138,8 @@
       "added_at": "2026-08-26T17:07:44.280198Z",
       "symbol": "TOKEN",
       "last_metadata_update_at": "2025-10-03T12:54:15.001Z",
-      "metadata_status": "verified"
+      "metadata_status": "verified",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0x577246400bdb152a77b53804272624aee767396f",
@@ -2078,7 +2150,8 @@
       "added_at": "2026-08-26T17:07:44.280198Z",
       "symbol": "TOKEN",
       "last_metadata_update_at": "2025-12-03T16:04:25.996Z",
-      "metadata_status": "verified"
+      "metadata_status": "verified",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0x94cb46eda9c53119fb65f28138fea6940f174490",
@@ -2118,7 +2191,8 @@
         }
       },
       "symbol": "TOKEN",
-      "last_metadata_update_at": "2025-12-03T16:04:25.996Z"
+      "last_metadata_update_at": "2025-12-03T16:04:25.996Z",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0x89ee5c0bcc5ccba8643ea4b6c223e375eb11cf7d",
@@ -2156,7 +2230,8 @@
         }
       },
       "symbol": "TOKEN",
-      "last_metadata_update_at": "2025-09-25T17:47:42.747Z"
+      "last_metadata_update_at": "2025-09-25T17:47:42.747Z",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0x311031dcb8286e60b0889b169e618445d5cb0083",
@@ -2167,7 +2242,8 @@
       "added_at": "2026-08-26T17:07:44.280198Z",
       "symbol": "TOKEN",
       "last_metadata_update_at": "2025-09-25T17:47:42.747Z",
-      "metadata_status": "verified"
+      "metadata_status": "verified",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0xf08ee0927a9a20bcce7767a239907642f6ff08c9",
@@ -2207,7 +2283,8 @@
         }
       },
       "symbol": "TOKEN",
-      "last_metadata_update_at": "2025-12-03T16:04:25.996Z"
+      "last_metadata_update_at": "2025-12-03T16:04:25.996Z",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0x34d412f69c428dd1bc781f8bc3371b613b8ff5ab",
@@ -2294,7 +2371,8 @@
         }
       },
       "symbol": "MTD-PGN-DC",
-      "last_metadata_update_at": "2026-02-17T11:29:29.652Z"
+      "last_metadata_update_at": "2026-02-17T11:29:29.652Z",
+      "category": "DC"
     },
     {
       "id": "POLYGON:0xe529803b1147bfded54d27dff8c2682d954e64a3",
@@ -2334,7 +2412,1281 @@
         }
       },
       "symbol": "RD - DC",
-      "last_metadata_update_at": "2026-03-09T11:01:01.382Z"
+      "last_metadata_update_at": "2026-03-09T11:01:01.382Z",
+      "category": "DC"
+    },
+    {
+      "id": "POLYGON:0x125ca8cfece0a950dd33cc7c9d4e132f72dc545a",
+      "contract": "0x125ca8cfece0a950dd33cc7c9d4e132f72dc545a",
+      "category": "UFC",
+      "display_name": "UFC - Jon Jones",
+      "metadata_status": "verified",
+      "added_at": "2026-09-07T17:15:29.582419Z",
+      "baseline_status": "UFC category baseline established before alerting",
+      "metadata": {
+        "id": "POLYGON:0x125ca8cfece0a950dd33cc7c9d4e132f72dc545a",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-04-12T20:00:15.799Z",
+        "meta": {
+          "name": "UFC - Jon Jones",
+          "description": "Jon Jones is regarded as one of the greatest mixed martial artists of all time. Jones became the youngest champion in UFC history and is the current UFC Heavyweight Champion. ",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmNozVKKwhDgGfpf5u2gY17RFKMXmgB1iwKzQaRmGbq9PD",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/Qmf3kTKFwktUSd2x3HdXcRXZPyk7MeYRewZxhmnGD51P5X",
+              "representation": "ORIGINAL",
+              "mimeType": "image/jpeg",
+              "size": 34797,
+              "available": true,
+              "width": 800,
+              "height": 800
+            }
+          ]
+        }
+      },
+      "symbol": "TOKEN",
+      "last_metadata_update_at": "2025-04-12T20:00:15.799Z",
+      "name_source": "Rarible collection metadata"
+    },
+    {
+      "id": "POLYGON:0x49e85cf230477fbb438d6b800e8b4d9260a34f06",
+      "contract": "0x49e85cf230477fbb438d6b800e8b4d9260a34f06",
+      "category": "UFC",
+      "display_name": "UFC - Sean O'Malley",
+      "metadata_status": "verified",
+      "added_at": "2026-09-07T17:15:29.582419Z",
+      "baseline_status": "UFC category baseline established before alerting",
+      "metadata": {
+        "id": "POLYGON:0x49e85cf230477fbb438d6b800e8b4d9260a34f06",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-04-01T02:13:22.348Z",
+        "meta": {
+          "name": "UFC - Sean O'Malley",
+          "description": "Sean O’Malley made his UFC debut in 2017 at The Ultimate Fighter 26 Finale and is the current UFC Bantamweight Champion.",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://Qmd7iPtH46rX8mKDxhne3gRQhppEiUy48S5WNgE9Xg4aHU",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/QmeeTaDZZQENetntdrbTwaGNrz4FgS9dcKD3E7jKcLdh5e",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 690401,
+              "available": true,
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        }
+      },
+      "symbol": "TOKEN",
+      "last_metadata_update_at": "2025-04-01T02:13:22.348Z",
+      "name_source": "Rarible collection metadata"
+    },
+    {
+      "id": "POLYGON:0x44637ccc451be5e60183207596f722ce64b1fb7e",
+      "contract": "0x44637ccc451be5e60183207596f722ce64b1fb7e",
+      "category": "UFC",
+      "display_name": "UFC - Israel Adesanya",
+      "metadata_status": "verified",
+      "added_at": "2026-09-07T17:15:29.582419Z",
+      "baseline_status": "UFC category baseline established before alerting",
+      "metadata": {
+        "id": "POLYGON:0x44637ccc451be5e60183207596f722ce64b1fb7e",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-06-06T23:21:20.364Z",
+        "meta": {
+          "name": "UFC - Israel Adesanya",
+          "description": "Israel Adesanya is a mixed martial artist, former kickboxer and boxer. Adesanya is a two-time UFC Middleweight Champion, holds the record for most knockdowns in a UFC title fight, and had the second longest winning streak in UFC Middleweight division history.\n",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmQSDrRMekZ476UNRB8VbH19grLZ7WQjWBUZenjWSZSxQ8",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/QmZ9Q5Vzq86f17Nd5mjstmXQYd4skA6YaJS4w2JiK6cCsM",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 623730,
+              "available": true,
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        }
+      },
+      "symbol": "TOKEN",
+      "last_metadata_update_at": "2025-06-06T23:21:20.364Z",
+      "name_source": "Rarible collection metadata"
+    },
+    {
+      "id": "POLYGON:0x8bc163742f67a4ceba6babcce6f3610b7927ce0a",
+      "contract": "0x8bc163742f67a4ceba6babcce6f3610b7927ce0a",
+      "category": "UFC",
+      "display_name": "UFC - Conor McGregor",
+      "metadata_status": "verified",
+      "added_at": "2026-09-07T17:15:29.582419Z",
+      "baseline_status": "UFC category baseline established before alerting",
+      "metadata": {
+        "id": "POLYGON:0x8bc163742f67a4ceba6babcce6f3610b7927ce0a",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-08-14T02:12:21.092Z",
+        "meta": {
+          "name": "UFC - Conor McGregor",
+          "description": "After a successful early career in MMA, Conor McGregor made his UFC debut in 2013. McGregor, known for his counter-striking skills, striking precision and knockout power, became the first UFC fighter to hold UFC championships in two weight classes, Featherweight and Lightweight, simultaneously. ",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://Qmb9LpCuMiHmwdob5de5eXSBsGkfzCLRxYsx2eKgC4xPfz",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/QmT3Vhi95RP8Nk7hsVt1eDeuMrNyNKyPUnVVNBeg9mzb4d",
+              "representation": "ORIGINAL",
+              "mimeType": "image/jpeg",
+              "size": 40908,
+              "available": true,
+              "width": 800,
+              "height": 800
+            }
+          ]
+        }
+      },
+      "symbol": "TOKEN",
+      "last_metadata_update_at": "2025-08-14T02:12:21.092Z",
+      "name_source": "Rarible collection metadata"
+    },
+    {
+      "id": "POLYGON:0x9c3d258be359b70b9c3fc0fece97cfb172c3fa13",
+      "contract": "0x9c3d258be359b70b9c3fc0fece97cfb172c3fa13",
+      "category": "UFC",
+      "display_name": "UFC - Paddy Pimblett",
+      "metadata_status": "verified",
+      "added_at": "2026-09-07T17:15:29.582419Z",
+      "baseline_status": "UFC category baseline established before alerting",
+      "metadata": {
+        "id": "POLYGON:0x9c3d258be359b70b9c3fc0fece97cfb172c3fa13",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-08-14T02:12:20.530Z",
+        "meta": {
+          "name": "UFC - Paddy Pimblett",
+          "description": "Pimblett is an English professional mixed martial artist who competes in the lightweight division of the Ultimate Fighting Championship (UFC). Known for his charismatic personality, distinctive appearance, and entertaining fighting style, Pimblett has quickly become a popular figure in the UFC.",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmV3QPBzEHsTfLLBevJmsbXoFq8eHSryXHW7XUKjrmBehi",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/QmepFVZa7bVg7utew5ma8a7ADRChTeHuf9c9DH4qfz2GEq",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 671258,
+              "available": true,
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        }
+      },
+      "symbol": "TOKEN",
+      "last_metadata_update_at": "2025-08-14T02:12:20.530Z",
+      "name_source": "Rarible collection metadata"
+    },
+    {
+      "id": "POLYGON:0xcbb05c528969a6afe1a4c0fd6a08280fd3bd46a2",
+      "contract": "0xcbb05c528969a6afe1a4c0fd6a08280fd3bd46a2",
+      "category": "UFC",
+      "display_name": "UFC - Justin Gaethje",
+      "metadata_status": "verified",
+      "added_at": "2026-09-07T17:15:29.582419Z",
+      "baseline_status": "UFC category baseline established before alerting",
+      "metadata": {
+        "id": "POLYGON:0xcbb05c528969a6afe1a4c0fd6a08280fd3bd46a2",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-08-14T02:12:20.206Z",
+        "meta": {
+          "name": "UFC - Justin Gaethje",
+          "description": "Justin Gaethje is an American professional mixed martial artist who competes in the Lightweight division of the UFC (Ultimate Fighting Championship). Known for his aggressive fighting style, exceptional striking, and wrestling background, Gaethje has earned a reputation as one of the most exciting fighters in the sport.",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmecEHpAJH95nBGoSa5beJZKfPiDemzf6N897a421jRHcu",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/QmbCNvPUYmzbg1CWvp7nyQQTqfXyYMua9ZrHhFL4JAr6XZ",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 683446,
+              "available": true,
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        }
+      },
+      "symbol": "TOKEN",
+      "last_metadata_update_at": "2025-08-14T02:12:20.206Z",
+      "name_source": "Rarible collection metadata"
+    },
+    {
+      "id": "POLYGON:0x2879c5b410b82b4fb5e87d9527d3c2017fae0ff8",
+      "contract": "0x2879c5b410b82b4fb5e87d9527d3c2017fae0ff8",
+      "category": "UFC",
+      "display_name": "UFC - Sean Strickland",
+      "metadata_status": "verified",
+      "added_at": "2026-09-07T17:15:29.582419Z",
+      "baseline_status": "UFC category baseline established before alerting",
+      "metadata": {
+        "id": "POLYGON:0x2879c5b410b82b4fb5e87d9527d3c2017fae0ff8",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-08-22T16:20:49.280Z",
+        "meta": {
+          "name": "UFC - Sean Strickland",
+          "description": "Sean Strickland is a professional mixed martial artist who competes in the UFC (Ultimate Fighting Championship). Known for his striking and aggressive fighting style, Strickland has competed in both the welterweight and middleweight divisions. He gained attention for his controversial personality and outspoken nature outside.",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmS3A86UPMv8P4ZUL5tBKAPwxr5KPNQmjppffoZtnyA5K1",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/QmTYzdenpomFJuthmf9U75eUxnMbkjdgdCc8Mzua1o2Gny",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 733024,
+              "available": true,
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        }
+      },
+      "symbol": "TOKEN",
+      "last_metadata_update_at": "2025-08-22T16:20:49.280Z",
+      "name_source": "Rarible collection metadata"
+    },
+    {
+      "id": "POLYGON:0x29dfefe0aecc0bc7e352f7776fc77b8a39b1155e",
+      "contract": "0x29dfefe0aecc0bc7e352f7776fc77b8a39b1155e",
+      "category": "UFC",
+      "display_name": "UFC - Max Holloway",
+      "metadata_status": "verified",
+      "added_at": "2026-09-07T17:15:29.582419Z",
+      "baseline_status": "UFC category baseline established before alerting",
+      "metadata": {
+        "id": "POLYGON:0x29dfefe0aecc0bc7e352f7776fc77b8a39b1155e",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-08-22T16:20:49.280Z",
+        "meta": {
+          "name": "UFC - Max Holloway",
+          "description": "Max Holloway is a seasoned mixed martial artist who turned pro in 2010 and quickly rose through the ranks with a dynamic, well-rounded style. With 12 wins by knockout, two by guillotine submission, and 12 by decision, Holloway has proven his versatility in the cage. He was unbeaten at featherweight from 2014 to 2019, going 14-0 during that dominant stretch.",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmTh5v6GnLd4wP4SeBwZ5EjFUqjnt3kPPd9ZGnfQmfPan7",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/QmfRjsGBTYEAGeFGoPg8mc24vcG4phBwovgNURxpuahUXC",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 674416,
+              "available": true,
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        }
+      },
+      "symbol": "TOKEN",
+      "last_metadata_update_at": "2025-08-22T16:20:49.280Z",
+      "name_source": "Rarible collection metadata"
+    },
+    {
+      "id": "POLYGON:0xffb78df85abd8b570e4143b7b0c63c29d7e70829",
+      "contract": "0xffb78df85abd8b570e4143b7b0c63c29d7e70829",
+      "category": "UFC",
+      "display_name": "UFC - Alex Pereira",
+      "metadata_status": "verified",
+      "added_at": "2026-09-07T17:15:29.582419Z",
+      "baseline_status": "UFC category baseline established before alerting",
+      "metadata": {
+        "id": "POLYGON:0xffb78df85abd8b570e4143b7b0c63c29d7e70829",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-08-22T16:20:49.280Z",
+        "meta": {
+          "name": "UFC - Alex Pereira",
+          "description": "Alex Pereira is a Brazilian mixed martial artist and former kickboxing champion who began his professional MMA career in 2015. Known for his devastating striking power, Pereira has earned 10 of his wins by knockout, including four in the first round. After losing his pro debut, he has gone 12-2 since, winning 12 of his last 14 fights. ",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmUzdTbX3mAeaJ2hN6Varkg3QqqHC5p39nhYybNjBZNV4Z",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/QmS7ZzDCZbPk5JH27VQoDM26Nu3s7SKHkTwazgNe7dLyHA",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 778651,
+              "available": true,
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        }
+      },
+      "symbol": "TOKEN",
+      "last_metadata_update_at": "2025-08-22T16:20:49.280Z",
+      "name_source": "Rarible collection metadata"
+    },
+    {
+      "id": "POLYGON:0x30dc34b576100b4c0baa386a1b9b024b9aea3a79",
+      "contract": "0x30dc34b576100b4c0baa386a1b9b024b9aea3a79",
+      "category": "UFC",
+      "display_name": "UFC - Charles Oliveira",
+      "metadata_status": "verified",
+      "added_at": "2026-09-07T17:15:29.582419Z",
+      "baseline_status": "UFC category baseline established before alerting",
+      "metadata": {
+        "id": "POLYGON:0x30dc34b576100b4c0baa386a1b9b024b9aea3a79",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2026-02-17T11:29:29.652Z",
+        "meta": {
+          "name": "UFC - Charles Oliveira",
+          "description": "Charles Oliveira is a Brazilian mixed martial artist and former UFC Lightweight Champion, widely known for his elite grappling and record-setting submission skills. Born on October 17, 1989, in Guarujá, São Paulo, Brazil, Oliveira began training in Brazilian jiu-jitsu as a child and earned his black belt at a young age. He joined the UFC in 2010 and quickly gained a reputation for his exciting fighting style and relentless pace.",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmeJEzM8tmQtEHAJrHMPUicb3HiuXmD8dFP8qnQLPrtzxS",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/QmcJKPhgSDXFdSJBF8aqVTF6RbrbzZ78CCJTjE6S7m8N2x",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 591614,
+              "available": true,
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        }
+      },
+      "symbol": "TOKEN",
+      "last_metadata_update_at": "2026-02-17T11:29:29.652Z",
+      "name_source": "Rarible collection metadata"
+    },
+    {
+      "id": "POLYGON:0x118f455e9390e7a899bb3c7ee754b34cae76c2d8",
+      "contract": "0x118f455e9390e7a899bb3c7ee754b34cae76c2d8",
+      "category": "UFC",
+      "display_name": "UFC - Brandon Moreno",
+      "metadata_status": "verified",
+      "added_at": "2026-09-07T17:15:29.582419Z",
+      "baseline_status": "UFC category baseline established before alerting",
+      "metadata": {
+        "id": "POLYGON:0x118f455e9390e7a899bb3c7ee754b34cae76c2d8",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2026-02-20T11:59:15.681Z",
+        "meta": {
+          "name": "UFC - Brandon Moreno",
+          "description": "Brandon Moreno, born in Tijuana, Mexico, is a trailblazing UFC athlete and the first native of Mexico to capture a UFC title. Known for his elite Brazilian Jiu-Jitsu skills, Moreno boasts 11 submission victories including six rear-naked chokes and five wins by knockout. With eight first-round finishes and a reputation for resilience and heart, he has become a fan favorite and a proud representative of Mexico on the global MMA stage.",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmUGsQPa35Vt6apt6u2RQPc6ZhMZQSTRUxAL1rCWPuhw79",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://i2c.seadn.io/polygon/752e5f3b929f4c5ca2c28c10d3d12059/da9b5d7184d6ebe96bf438ea484258/aada9b5d7184d6ebe96bf438ea484258.png",
+              "representation": "ORIGINAL"
+            }
+          ]
+        }
+      },
+      "symbol": "TOKEN",
+      "last_metadata_update_at": "2026-02-20T11:59:15.681Z",
+      "name_source": "Rarible collection metadata"
+    },
+    {
+      "id": "POLYGON:0x7439a25b48c0adba775c6d13c6b6d3a1d05172e0",
+      "contract": "0x7439a25b48c0adba775c6d13c6b6d3a1d05172e0",
+      "category": "UFC",
+      "display_name": "UFC - Dustin Poirier",
+      "metadata_status": "verified",
+      "added_at": "2026-09-07T17:15:29.582419Z",
+      "baseline_status": "UFC category baseline established before alerting",
+      "metadata": {
+        "id": "POLYGON:0x7439a25b48c0adba775c6d13c6b6d3a1d05172e0",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2026-02-17T11:29:29.652Z",
+        "meta": {
+          "name": "UFC - Dustin Poirier",
+          "description": "Dustin Poirier is an American mixed martial artist and former interim UFC Lightweight Champion, known for his grit, striking skill, and resilience inside the octagon. Born on January 19, 1989, in Lafayette, Louisiana, Poirier began his professional MMA career in 2009 and joined the UFC in 2011. A fan favorite for his exciting fights and humble personality, he has defeated some of the sport's biggest names, including Conor McGregor and Max Holloway.\n",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmPD1Wh9oKTu7JiwMfefKWSw5kBg7iUW9X3u56Xh8z4VrJ",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://i2c.seadn.io/polygon/c1ee5973c6a1463a8804ad572df59750/f581212304cbf66d96f23f346b0a51/48f581212304cbf66d96f23f346b0a51.png",
+              "representation": "ORIGINAL"
+            }
+          ]
+        }
+      },
+      "symbol": "TOKEN",
+      "last_metadata_update_at": "2026-02-17T11:29:29.652Z",
+      "name_source": "Rarible collection metadata"
+    },
+    {
+      "id": "POLYGON:0x6631a60056f02aa68015557ffbbc683d78987e79",
+      "contract": "0x6631a60056f02aa68015557ffbbc683d78987e79",
+      "category": "Universal",
+      "display_name": "ANDY STIZTER FROM THE 40 YEAR OLD VIRGIN",
+      "metadata_status": "verified",
+      "added_at": "2026-09-07T17:31:53.984438Z",
+      "baseline_status": "Universal category baseline established before alerting",
+      "metadata": {
+        "id": "POLYGON:0x6631a60056f02aa68015557ffbbc683d78987e79",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-04-17T16:44:59.947Z",
+        "meta": {
+          "name": "ANDY STIZTER FROM THE 40 YEAR OLD VIRGIN",
+          "description": "Introducing Nice Guy Andy, the endearing protagonist of the theatrical hit. With his friends by his side, Andy embarks on a comedic and heartwarming quest to reverse his fortunes and find true love.",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmXpJ2N4vQCbEYsjfXbfCZH6STxeBPUj2EDLYXHvahMQeV",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/QmRBQZtBz4bNffkXFmU9UaZ47w44Gcz1kjA5YQKCBYy579",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 959240,
+              "available": true,
+              "width": 980,
+              "height": 980
+            }
+          ]
+        }
+      },
+      "symbol": "TOKEN",
+      "last_metadata_update_at": "2025-04-17T16:44:59.947Z",
+      "name_source": "Rarible collection metadata"
+    },
+    {
+      "id": "POLYGON:0x1a1ffebb38d7763d897c7f265c1afe48b41843b6",
+      "contract": "0x1a1ffebb38d7763d897c7f265c1afe48b41843b6",
+      "category": "Universal",
+      "display_name": "David Wooderson",
+      "metadata_status": "verified",
+      "added_at": "2026-09-07T17:31:53.984438Z",
+      "baseline_status": "Universal category baseline established before alerting",
+      "metadata": {
+        "id": "POLYGON:0x1a1ffebb38d7763d897c7f265c1afe48b41843b6",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-10-03T19:54:17.811Z",
+        "meta": {
+          "name": "David Wooderson",
+          "description": "Introducing Wooderson, the embodiment of 70s coolness and nostalgia. With tie-dye and bell bottoms, macrame and mood rings, Wooderson captures the essence of an era defined by freedom and self-discovery. ",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://Qmb5BgGw3TViEYAj5msaAY1p1P5Up2imXhaTuYL7ha5VSf",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/QmPqBLRZvsGH9wFHitzBVSp9QDWaXnoG1BqssdLYrNoqvH",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 1083608,
+              "available": true,
+              "width": 980,
+              "height": 980
+            }
+          ]
+        }
+      },
+      "symbol": "TOKEN",
+      "last_metadata_update_at": "2025-10-03T19:54:17.811Z",
+      "name_source": "Rarible collection metadata"
+    },
+    {
+      "id": "POLYGON:0x50ed79948a280f38d11b5134295fb8064778cdbf",
+      "contract": "0x50ed79948a280f38d11b5134295fb8064778cdbf",
+      "category": "Universal",
+      "display_name": "Jeff “The Dude” Lebowski",
+      "metadata_status": "verified",
+      "added_at": "2026-09-07T17:31:53.984438Z",
+      "baseline_status": "Universal category baseline established before alerting",
+      "metadata": {
+        "id": "POLYGON:0x50ed79948a280f38d11b5134295fb8064778cdbf",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-10-03T22:54:19.265Z",
+        "meta": {
+          "name": "Jeff “The Dude” Lebowski",
+          "description": "Introducing Jeff “The Dude” Lebowski, the iconic protagonist of The Big Lebowski, immortalized in an incredibly detailed 6″ scale figure capturing the essence of his laid-back demeanor and unexpected adventures.",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmRZCuRgST1mXbcaAAvAigaYSboY25pPctFkDmWbphoCow",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/Qmf5jSX56GHsQXHypr7kdZkwjzxmRNECepTjgJ3t4FFyUJ",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 966306,
+              "available": true,
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        }
+      },
+      "symbol": "TOKEN",
+      "last_metadata_update_at": "2025-10-03T22:54:19.265Z",
+      "name_source": "Rarible collection metadata"
+    },
+    {
+      "id": "POLYGON:0xc50692526a8c2c2798a8434dd620616b26ec6d37",
+      "contract": "0xc50692526a8c2c2798a8434dd620616b26ec6d37",
+      "category": "Universal",
+      "display_name": "Shrek",
+      "metadata_status": "verified",
+      "added_at": "2026-09-07T17:31:53.984438Z",
+      "baseline_status": "Universal category baseline established before alerting",
+      "metadata": {
+        "id": "POLYGON:0xc50692526a8c2c2798a8434dd620616b26ec6d37",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-05-09T20:06:49.212Z",
+        "meta": {
+          "name": "Shrek",
+          "description": "McFARLANE TOYS™ is proud to present this incredibly detailed 12 inch scale posed figure based on the classic SHREK™ theatrical series!",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://Qmeo9YotVeWVrpzMAUZRQj7vP4UcmGFXjt82WkD3TVEQrz",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/QmXfW7mQ5aadFjWELiMfocHjuUTsWN1mdPQGZRqfrewZKf",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 829100,
+              "available": true,
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        }
+      },
+      "symbol": "TOKEN",
+      "last_metadata_update_at": "2025-05-09T20:06:49.212Z",
+      "name_source": "Rarible collection metadata"
+    },
+    {
+      "id": "POLYGON:0x98cbf6d430f1038ecbcc847dda4ea54ace8290a9",
+      "contract": "0x98cbf6d430f1038ecbcc847dda4ea54ace8290a9",
+      "category": "Universal",
+      "display_name": "Tony Montana - Scarface",
+      "metadata_status": "verified",
+      "added_at": "2026-09-07T17:31:53.984438Z",
+      "baseline_status": "Universal category baseline established before alerting",
+      "metadata": {
+        "id": "POLYGON:0x98cbf6d430f1038ecbcc847dda4ea54ace8290a9",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-04-03T06:17:44.618Z",
+        "meta": {
+          "name": "Tony Montana - Scarface",
+          "description": "Tony Montana, a young Cuban immigrant from Castro’s jails, creates a violent path of destruction on his way to the top of Miami’s drug trade.",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmS8eMbMGkEpwyS7sznDAEAycYv3DoEHupeBEeNLuJhcDA",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/QmZbJAUMWuAViDcBPCw7KUi8Ec2naUmYV2oCkR4pAjd6pL",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 659025,
+              "available": true,
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        }
+      },
+      "symbol": "TOKEN",
+      "last_metadata_update_at": "2025-04-03T06:17:44.618Z",
+      "name_source": "Rarible collection metadata"
+    },
+    {
+      "id": "POLYGON:0xb8a7187428235f26a9f43dea17126737cb925511",
+      "contract": "0xb8a7187428235f26a9f43dea17126737cb925511",
+      "category": "Universal",
+      "display_name": "Po (Kung Fu Panda)",
+      "metadata_status": "verified",
+      "added_at": "2026-09-07T17:31:53.984438Z",
+      "baseline_status": "Universal category baseline established before alerting",
+      "metadata": {
+        "id": "POLYGON:0xb8a7187428235f26a9f43dea17126737cb925511",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-05-27T20:03:03.300Z",
+        "meta": {
+          "name": "Po (Kung Fu Panda)",
+          "description": "Prepare for awesomeness as Po, a noodle-slurping dreamer who must embrace his true self – fuzzy flaws and all – in order to become the Dragon Warrior!\n",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://Qmd6nAJH48UGKN1PGcBETbk8U6jRWixXGV7Gy5cxkh33xy",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/Qmcu2PdfAuA91ahAktCqQUxEWV59JiZwZ3JbvBB6HnqcXA",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 816241,
+              "available": true,
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        }
+      },
+      "symbol": "TOKEN",
+      "last_metadata_update_at": "2025-05-27T20:03:03.300Z",
+      "name_source": "Rarible collection metadata"
+    },
+    {
+      "id": "POLYGON:0x8732dbd44da56c7a4694bdecbc9dae4436c9b284",
+      "contract": "0x8732dbd44da56c7a4694bdecbc9dae4436c9b284",
+      "category": "Universal",
+      "display_name": "Kevin Malone - The Office",
+      "metadata_status": "verified",
+      "added_at": "2026-09-07T17:31:53.984438Z",
+      "baseline_status": "Universal category baseline established before alerting",
+      "metadata": {
+        "id": "POLYGON:0x8732dbd44da56c7a4694bdecbc9dae4436c9b284",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-10-10T21:54:42.193Z",
+        "meta": {
+          "name": "Kevin Malone - The Office",
+          "description": "Led by the comically incompetent Michael Scott, employees plod along at Dunder Mifflin’s Scranton-based paper supply branch, where foibles, feuds and office romances unfold through the lens of an ever-present documentary crew.",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmPAcqegXs279PbyxaJAFFdv7bRiqpYjCe5G1seivWB2t8",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/QmQArZq2beQD6CTxQn7NQN6U9RUQa7aedBdFh53sHnunZS",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 721012,
+              "available": true,
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        }
+      },
+      "symbol": "TOKEN",
+      "last_metadata_update_at": "2025-10-10T21:54:42.193Z",
+      "name_source": "Rarible collection metadata"
+    },
+    {
+      "id": "POLYGON:0xfb56b2ce3bd8722952b2ef9d0e9dfcb8bc1c9eaa",
+      "contract": "0xfb56b2ce3bd8722952b2ef9d0e9dfcb8bc1c9eaa",
+      "category": "McFarlane Dragons",
+      "display_name": "McFarlane's Dragons - Eternal Gift",
+      "metadata_status": "verified",
+      "added_at": "2026-09-07T18:14:50.118266Z",
+      "baseline_status": "McFarlane Dragons category baseline established before alerting",
+      "metadata": {
+        "id": "POLYGON:0xfb56b2ce3bd8722952b2ef9d0e9dfcb8bc1c9eaa",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-10-04T00:54:21.471Z",
+        "meta": {
+          "name": "McFarlane's Dragons - Eternal Gift",
+          "description": "Long forgotten, such creatures were now thought to be myth and fantasy. Titans of the ancient realms, who dwelled long before man, ruling every corner of the earth. But they disappeared, and with them their stories and power slipped into legend. Or so we were left to believe. Recent appearances of monsters in far off regions and secluded mountains. Survivors, if any, were left rambling about giant winged beasts. Teeth and talons rendering everything before them to nothing. This couldn’t possibly mean their return. Humanity has always been known for their stories of fancy. After all… who would believe the Dragons came back?",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmZ75RJVPE2Xo8ECKZzhoXR9dzdYAj5U14TrM3pKDg5AQx/0",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/bafybeig2ztu37uxaroza6cvjqoodpyihyeu23cix5gdjig5ezrlbn2vi44/artcard-01.png",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 19035568,
+              "available": true,
+              "width": 4096,
+              "height": 4096
+            }
+          ],
+          "sellerFeeBasisPoints": 1000,
+          "feeRecipient": "ETHEREUM:0xeff185fc5e61bb33900c10ccfdbfe017d1a7b50d"
+        }
+      },
+      "symbol": "MF-DEG",
+      "last_metadata_update_at": "2025-10-04T00:54:21.471Z",
+      "name_source": "Rarible collection metadata"
+    },
+    {
+      "id": "POLYGON:0x4e4c5fcc39f6ff90a6e1862b354703c683bd07c5",
+      "contract": "0x4e4c5fcc39f6ff90a6e1862b354703c683bd07c5",
+      "category": "McFarlane Dragons",
+      "display_name": "McFarlane Toys: McFarlane's Dragons - Komodo Series",
+      "metadata_status": "verified",
+      "added_at": "2026-09-07T18:14:50.118266Z",
+      "baseline_status": "McFarlane Dragons category baseline established before alerting",
+      "metadata": {
+        "id": "POLYGON:0x4e4c5fcc39f6ff90a6e1862b354703c683bd07c5",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-10-04T00:54:22.026Z",
+        "meta": {
+          "name": "McFarlane Toys: McFarlane's Dragons - Komodo Series",
+          "description": "Komodo Clan Dragons are swift runners and climbers. They tend to be fierce and tenacious hunters with ravenous appetites … man-eaters. They live in burrows and caves, and may be the cause of earthquakes. After the great cataclysm struck the dragon nation, killing the king, destroying their civilization and causing the disappearance of the sole heir to the dragon throne, the king’s son. The dragons that survived the great disaster fled to many hidden points of the globe. Humanity rose to power, inventing its own language and writing, and building the Earth’s dominant culture. But when a dragon that seems to have the gift of speech is sighted by men, all bets are suddenly off. How will the two species interact? Will there be peace between dragon and man? Or war?",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmaBFhakPAzTFRazaG9C6TnQSkyxVTUByWhiuwjqA5WkAS/0",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/bafybeigntgrmyhhpc5ngftklemmk4k3eis7vytekpcqnbbz7kksgd4blxa/DigitalDragon_Instagram.jpg",
+              "representation": "ORIGINAL",
+              "mimeType": "image/jpeg",
+              "size": 311051,
+              "available": true,
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "sellerFeeBasisPoints": 1000,
+          "feeRecipient": "ETHEREUM:0xeff185fc5e61bb33900c10ccfdbfe017d1a7b50d"
+        }
+      },
+      "symbol": "MTD-MDKS",
+      "last_metadata_update_at": "2025-10-04T00:54:22.026Z",
+      "name_source": "Rarible collection metadata"
+    },
+    {
+      "id": "POLYGON:0x10cddef1c416f3462b4f6a8ad7255adc1350339d",
+      "contract": "0x10cddef1c416f3462b4f6a8ad7255adc1350339d",
+      "category": "McFarlane Dragons",
+      "display_name": "McFarlane's Dragons - Komodo Gift",
+      "metadata_status": "verified",
+      "added_at": "2026-09-07T18:14:50.118266Z",
+      "baseline_status": "McFarlane Dragons category baseline established before alerting",
+      "metadata": {
+        "id": "POLYGON:0x10cddef1c416f3462b4f6a8ad7255adc1350339d",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-11-15T08:23:09.424Z",
+        "meta": {
+          "name": "McFarlane's Dragons - Komodo Gift",
+          "description": "Komodo Clan Dragons are swift runners and climbers. They tend to be fierce and tenacious hunters with ravenous appetites … man-eaters. They live in burrows and caves, and may be the cause of earthquakes. After the great cataclysm struck the dragon nation, killing the king, destroying their civilization and causing the disappearance of the sole heir to the dragon throne, the king’s son. The dragons that survived the great disaster fled to many hidden points of the globe. Humanity rose to power, inventing its own language and writing, and building the Earth’s dominant culture. But when a dragon that seems to have the gift of speech is sighted by men, all bets are suddenly off. How will the two species interact? Will there be peace between dragon and man? Or war?",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmbZBJjJGx8EHmFTFXcPZ8kvjg3ju56tBWCh4yzNzoTiSg/0",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/bafybeiahom2fxc3kyibhcmdbed6fm2mve5itxaq36wxermrm72gqi3xrpa/Art%20Card%20TEMPLATE-01.png",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 10195021,
+              "available": true,
+              "width": 4096,
+              "height": 4096
+            }
+          ],
+          "sellerFeeBasisPoints": 1000,
+          "feeRecipient": "ETHEREUM:0xeff185fc5e61bb33900c10ccfdbfe017d1a7b50d"
+        }
+      },
+      "symbol": "MF-DKG",
+      "last_metadata_update_at": "2025-11-15T08:23:09.424Z",
+      "name_source": "Rarible collection metadata"
+    },
+    {
+      "id": "POLYGON:0x34b4f2c74541d370907cf8bd642a62cc8155ecf3",
+      "contract": "0x34b4f2c74541d370907cf8bd642a62cc8155ecf3",
+      "category": "McFarlane Dragons",
+      "display_name": "Classic Berserker Dragon",
+      "metadata_status": "verified",
+      "added_at": "2026-09-07T18:14:50.118266Z",
+      "baseline_status": "McFarlane Dragons category baseline established before alerting",
+      "metadata": {
+        "id": "POLYGON:0x34b4f2c74541d370907cf8bd642a62cc8155ecf3",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-10-03T19:54:17.591Z",
+        "meta": {
+          "name": "Classic Berserker Dragon",
+          "description": "Berserker Clan Dragons dwell in caves and are the most well-known and infamous of all dragon clans. They are also the most treacherous of all dragons; their wrath is the stuff of myth and legend.",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmR1UVSu8STq1E1rUoJGL5LDsuqC44B1j7xsis5DVgsdFu/0",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/bafybeigrcdegamiy6zxz6h2hbttwttguqldaaxdtzb5lbnzhqf32qzsw4i/Berserker%201x1.jpg",
+              "representation": "ORIGINAL",
+              "mimeType": "image/jpeg",
+              "size": 1166037,
+              "available": true,
+              "width": 4096,
+              "height": 4096
+            }
+          ],
+          "sellerFeeBasisPoints": 1000,
+          "feeRecipient": "ETHEREUM:0xeff185fc5e61bb33900c10ccfdbfe017d1a7b50d"
+        }
+      },
+      "symbol": "MTD-CBD",
+      "last_metadata_update_at": "2025-10-03T19:54:17.591Z",
+      "name_source": "Rarible collection metadata"
+    },
+    {
+      "id": "POLYGON:0x6dc606389aa3532ae50b4af4066ca8bfc984f964",
+      "contract": "0x6dc606389aa3532ae50b4af4066ca8bfc984f964",
+      "category": "McFarlane Dragons",
+      "display_name": "McFarlane's Dragons - Eternal Series",
+      "metadata_status": "verified",
+      "added_at": "2026-09-07T18:14:50.118266Z",
+      "baseline_status": "McFarlane Dragons category baseline established before alerting",
+      "metadata": {
+        "id": "POLYGON:0x6dc606389aa3532ae50b4af4066ca8bfc984f964",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL",
+          "BURN"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-10-04T00:54:21.890Z",
+        "meta": {
+          "name": "McFarlane's Dragons - Eternal Series",
+          "description": "Long forgotten, such creatures were now thought to be myth and fantasy. Titans of the ancient realms, who dwelled long before man, ruling every corner of the earth. But they disappeared, and with them their stories and power slipped into legend. Or so we were left to believe. Recent appearances of monsters in far off regions and secluded mountains. Survivors, if any, were left rambling about giant winged beasts. Teeth and talons rendering everything before them to nothing. This couldn’t possibly mean their return. Humanity has always been known for their stories of fancy. After all… who would believe the Dragons came back?\n",
+          "tags": [],
+          "genres": [],
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/bafybeie6mdpdwofifoah3cen5b56i2qtsw4y3wvdrxjowkimr7qqaoz4r4",
+              "representation": "ORIGINAL",
+              "mimeType": "image/jpeg",
+              "size": 7131831,
+              "available": true,
+              "width": 4096,
+              "height": 4096
+            }
+          ]
+        }
+      },
+      "symbol": "MTD-MDES",
+      "last_metadata_update_at": "2025-10-04T00:54:21.890Z",
+      "name_source": "Rarible collection metadata"
+    },
+    {
+      "id": "POLYGON:0xf5f164771bfd542aa608141922a91383f7196992",
+      "contract": "0xf5f164771bfd542aa608141922a91383f7196992",
+      "category": "McFarlane Dragons",
+      "display_name": "Berserker Dragon Series 8",
+      "metadata_status": "verified",
+      "added_at": "2026-09-07T18:14:50.118266Z",
+      "baseline_status": "McFarlane Dragons category baseline established before alerting",
+      "metadata": {
+        "id": "POLYGON:0xf5f164771bfd542aa608141922a91383f7196992",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-08-05T00:07:12.636Z",
+        "meta": {
+          "name": "Berserker Dragon Series 8",
+          "tags": [],
+          "genres": [],
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/bafybeia2vstzfvrn7yuu457fbledtey6lzij6fpitkqxjru2ojueuft4om",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 553142,
+              "available": true,
+              "width": 890,
+              "height": 884
+            }
+          ]
+        }
+      },
+      "symbol": "TOKEN",
+      "last_metadata_update_at": "2025-08-05T00:07:12.636Z",
+      "name_source": "Rarible collection metadata"
+    },
+    {
+      "id": "POLYGON:0x9e3a3be28247fd1d583d812dbd52dcbb6cee63eb",
+      "contract": "0x9e3a3be28247fd1d583d812dbd52dcbb6cee63eb",
+      "category": "McFarlane Dragons",
+      "display_name": "Gold Berserker Series 8",
+      "metadata_status": "verified",
+      "added_at": "2026-09-07T18:14:50.118266Z",
+      "baseline_status": "McFarlane Dragons category baseline established before alerting",
+      "metadata": {
+        "id": "POLYGON:0x9e3a3be28247fd1d583d812dbd52dcbb6cee63eb",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-10-03T19:54:18.333Z",
+        "meta": {
+          "name": "Gold Berserker Series 8",
+          "description": "Featuring this first appearance, only accessible to McFarlane Toys Digital users who burned existing Berserker Clan members or made the ultimate XP Point sacrifice!",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmZ8Gq9YuUd8kHiUk9G2t6AeapPcqRiC1FBmiKLXpetQ7x/0",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/QmUwmHLKPR62MLRzPuixM3r1HKRZTyKqhU1zJ7EB5VBwqX/MTD-ART-CARD0.25x.png",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 1129634,
+              "available": true,
+              "width": 1024,
+              "height": 1024
+            }
+          ],
+          "sellerFeeBasisPoints": 1000,
+          "feeRecipient": "ETHEREUM:0x0b02ca2bc0c9e40171e0b3b09908729ebc934434"
+        }
+      },
+      "symbol": "MTD-BRK8G",
+      "last_metadata_update_at": "2025-10-03T19:54:18.333Z",
+      "name_source": "Rarible collection metadata"
+    },
+    {
+      "id": "POLYGON:0x5beeee0a5630f90628cdf36d806ea06c9053b19c",
+      "contract": "0x5beeee0a5630f90628cdf36d806ea06c9053b19c",
+      "category": "Walking Dead",
+      "display_name": "The Walking Dead - Darryl Dixon ",
+      "metadata_status": "verified",
+      "added_at": "2026-09-07T18:17:53.662533Z",
+      "baseline_status": "Walking Dead category baseline established before alerting",
+      "metadata": {
+        "id": "POLYGON:0x5beeee0a5630f90628cdf36d806ea06c9053b19c",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-08-14T02:12:21.276Z",
+        "meta": {
+          "name": "The Walking Dead - Darryl Dixon ",
+          "description": "Daryl Dixon’s ability to use whatever he has at his disposal to survive and protect his friends has made him a key member of Rick’s group.",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmV3DuTpP3KwENuAWBysX1LrxVov9pZyfYfcBDhALb6suF/0",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/QmWiTFfSDw3t7Mw8Jo1E54MgoEsrtBkRW9vRQw3EjaLwAh/MTD-ART-CARD0.25x.png",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 726753,
+              "available": true,
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        }
+      },
+      "symbol": "MTD-TWD-DD",
+      "last_metadata_update_at": "2025-08-14T02:12:21.276Z",
+      "name_source": "Rarible collection metadata"
+    },
+    {
+      "id": "POLYGON:0x8bd04639547c44d8832b0cd810415f66f4e3d4a4",
+      "contract": "0x8bd04639547c44d8832b0cd810415f66f4e3d4a4",
+      "category": "Walking Dead",
+      "display_name": "The Walking Dead - Rick Grimes",
+      "metadata_status": "verified",
+      "added_at": "2026-09-07T18:17:53.662533Z",
+      "baseline_status": "Walking Dead category baseline established before alerting",
+      "metadata": {
+        "id": "POLYGON:0x8bd04639547c44d8832b0cd810415f66f4e3d4a4",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-08-22T16:20:49.280Z",
+        "meta": {
+          "name": "The Walking Dead - Rick Grimes",
+          "description": "A former sheriff deputy, Rick Grimes leads the group of Atlanta survivors in their desperate search for a safe haven from the constant dangers that now lurk among them. As the group looks to rebuild their lives, Rick initially resists his destined leadership role. But as he discovers that there is more than just the undead to worry about, Rick makes the ultimate choice to do whatever it takes to keep his family and friends alive in this less than moral post-apocalyptic world.",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmfZUgFkmipSupmxFDeN3JraqCFqKS5btBj4djZMQNdPKd",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/QmZPtXhDSUV7gkJZ6u3UxuiQTPFkBGq11ooc3QzBJNLog8",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 818491,
+              "available": true,
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        }
+      },
+      "symbol": "TOKEN",
+      "last_metadata_update_at": "2025-08-22T16:20:49.280Z",
+      "name_source": "Rarible collection metadata"
+    },
+    {
+      "id": "POLYGON:0xdafe23a9ec510976cd8a49ad74d098cadc01caa2",
+      "contract": "0xdafe23a9ec510976cd8a49ad74d098cadc01caa2",
+      "category": "BRZRKR",
+      "display_name": "BRZRKR",
+      "metadata_status": "verified",
+      "added_at": "2026-09-07T18:19:15.019336Z",
+      "baseline_status": "BRZRKR category baseline established before alerting",
+      "metadata": {
+        "id": "POLYGON:0xdafe23a9ec510976cd8a49ad74d098cadc01caa2",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-08-02T01:10:32.110Z",
+        "meta": {
+          "name": "BRZRKR",
+          "description": "The man known only as B. is half-mortal and half-God, cursed and compelled to violence...even at the sacrifice of his sanity. But after wandering the world for centuries, the BRZRKR may have finally found a refuge – working for the U.S. government to fight the battles too violent and too dangerous for anyone else.",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmQ8Z4Yd8oW44AW7pkmhcMtyvAuwgXuC7fcnJvyxbqYfTq",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/QmV6qcvG9UghEeRtkAqPLR7V4fy2GazXUGGNpq4wAFii7u",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 866709,
+              "available": true,
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        }
+      },
+      "symbol": "TOKEN",
+      "last_metadata_update_at": "2025-08-02T01:10:32.110Z",
+      "name_source": "Rarible collection metadata"
+    },
+    {
+      "id": "POLYGON:0xdaca3b923d445d727ecb617608bcc7ff1b04ec7f",
+      "contract": "0xdaca3b923d445d727ecb617608bcc7ff1b04ec7f",
+      "category": "McFarlane Digital",
+      "display_name": "Todd McFarlane",
+      "metadata_status": "verified",
+      "added_at": "2026-09-07T18:26:35.343563Z",
+      "baseline_status": "McFarlane Digital category baseline established before alerting",
+      "metadata": {
+        "id": "POLYGON:0xdaca3b923d445d727ecb617608bcc7ff1b04ec7f",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2026-05-31T13:52:38.309Z",
+        "meta": {
+          "name": "Todd McFarlane",
+          "description": "Celebrate 30 years of McFarlane Toys by collecting the Todd Father himself!\nTodd McFarlane is a Canadian comic book creator, best known for his work as the artist on The Amazing Spider-Man and as the creator, writer, and artist on the superhero horror-fantasy series Spawn, as well as being the current President and a co-founder of Image Comics.\n\nThis collection contains signed Digital Collectibles by Todd himself!",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmVPTGzQGDucHXzc9qt6s1yb1XNZ2uU3bHwY34hs5hYkoW/0",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/bafybeiajzvaazvjibbqlfogqrxhtk5vxprvuumgqx7vx2f3s6tfkvdrebi/todd-art-card0.5x.png",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 2911188,
+              "available": true,
+              "width": 2048,
+              "height": 2048
+            }
+          ],
+          "sellerFeeBasisPoints": 1000,
+          "feeRecipient": "ETHEREUM:0xba700290b866b809766e1df11e7d9780091bba49"
+        }
+      },
+      "symbol": "MTD-TODD",
+      "last_metadata_update_at": "2026-05-31T13:52:38.309Z",
+      "name_source": "Rarible collection metadata"
+    },
+    {
+      "id": "POLYGON:0x199d31c147a965ae1c2f899b5d6fa83b39e88cd8",
+      "contract": "0x199d31c147a965ae1c2f899b5d6fa83b39e88cd8",
+      "category": "McFarlane Digital",
+      "display_name": "MTD OG Badge",
+      "metadata_status": "verified",
+      "added_at": "2026-09-07T18:26:35.343563Z",
+      "baseline_status": "McFarlane Digital category baseline established before alerting",
+      "metadata": {
+        "id": "POLYGON:0x199d31c147a965ae1c2f899b5d6fa83b39e88cd8",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-10-10T18:54:41.141Z",
+        "meta": {
+          "name": "MTD OG Badge",
+          "description": "The MTD OG Badge is issued to all addresses that have bought or held an asset from MTD on or before December 31 2023. This coin gives the holder exclusive perks and access to experiences not available anywhere such as access to private channels, exclusive events with special industry guests, etc!",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmSkwCYwNkmkQ1JSyvejVYYHbxBDqRJonjePXTCuxf78mC/0",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/bafybeia7uwg3llt4elchfkwrnbwe65z53mu7gsx7twinm4uexxivspls5e/coin-min.png",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 8260567,
+              "available": true,
+              "width": 4096,
+              "height": 4096
+            }
+          ],
+          "sellerFeeBasisPoints": 1000,
+          "feeRecipient": "ETHEREUM:0x0b02ca2bc0c9e40171e0b3b09908729ebc934434"
+        }
+      },
+      "symbol": "MTD-OGB",
+      "last_metadata_update_at": "2025-10-10T18:54:41.141Z",
+      "name_source": "Rarible collection metadata"
     }
   ],
   "baseline": {
@@ -2670,7 +4022,7 @@
     ],
     "rarity_rule": "fetch Rarible item metadata for each sale; use the attribute whose key is Rarity; emit Unknown when absent or unavailable, never infer"
   },
-  "last_successful_check_at": "2026-09-07T00:01:05.291257Z",
+  "last_successful_check_at": "2026-09-08T00:00:55.250524Z",
   "recent_sales": [
     {
       "@type": "SELL",
@@ -2834,12 +4186,129 @@
   ],
   "pending_whatsapp_sale_alert": null,
   "metadata_enrichment": {
-    "last_attempt_at": "2026-09-07T03:50:10.318704Z",
+    "last_attempt_at": "2026-09-08T03:50:51.245424Z",
     "strategy": "one serial authenticated Rarible collection request every five minutes; sale-referenced collections are prioritized; 429/errors cool down for one hour",
     "last_result": "No eligible pending collections",
     "remaining_pending": 1
   },
   "last_activity_search_cursor": "[1788313641000,93072405,529,5409627594304306498]",
-  "last_activity_search_status": "verified: 1 activities returned; 0 new non-reverted sales.",
-  "last_activity_search_attempt_at": "2026-09-06T16:02:11.158652Z"
+  "last_activity_search_status": "verified: HTTP 200 parsed; no qualifying new sales",
+  "last_activity_search_attempt_at": "2026-09-08T00:00:55.250524Z",
+  "last_activity_search_failure": {
+    "at": "2026-09-07T16:01:56.192526Z",
+    "http_status": 400,
+    "kind": "http_error",
+    "detail": "activities/search HTTP 400"
+  },
+  "category_baselines": {
+    "DC": {
+      "observed_at": "2026-08-26T17:07:44.280198Z",
+      "newest_sale": {
+        "@type": "SELL",
+        "orderId": "POLYGON:0xbe85deccd1102d65fce2e1a622252c9fde5d2c19e171894841f93ad1cecb4c36",
+        "source": "RARIBLE",
+        "transactionHash": "0x1be2e0878ee818913a99010a152a148ddbc5b43a739b1014a43dc1b05e6f4e3c",
+        "blockchainInfo": {
+          "transactionHash": "0x1be2e0878ee818913a99010a152a148ddbc5b43a739b1014a43dc1b05e6f4e3c",
+          "blockHash": "0xae520dfc9de68d5efbedf1803773fd5727cca95c924649d808b5d34c0be8881d",
+          "blockNumber": 93072405,
+          "logIndex": 529
+        },
+        "id": "POLYGON:6a978029e7303c5185f8c0ce",
+        "date": "2026-09-02T01:47:21Z",
+        "lastUpdatedAt": "2026-09-02T01:47:21.337Z",
+        "cursor": "[1788313641000,93072405,529,5409627594304306498]",
+        "reverted": false,
+        "nft": {
+          "type": {
+            "@type": "ERC721",
+            "contract": "POLYGON:0x34d412f69c428dd1bc781f8bc3371b613b8ff5ab",
+            "collection": "POLYGON:0x34d412f69c428dd1bc781f8bc3371b613b8ff5ab",
+            "tokenId": "215"
+          },
+          "value": "1"
+        },
+        "payment": {
+          "type": {
+            "@type": "ETH",
+            "blockchain": "POLYGON"
+          },
+          "value": "185"
+        },
+        "buyerOrderHash": "0x16655fb7beeb1793c881eca3176c1e9e26015a777e8845dfb45b4f93534da268",
+        "sellerOrderHash": "0xbe85deccd1102d65fce2e1a622252c9fde5d2c19e171894841f93ad1cecb4c36",
+        "price": "185",
+        "priceUsd": "16.6634137869315099",
+        "amountUsd": "16.6634137869315099",
+        "type": "SELL",
+        "buyMarketplaceMarker": "0x00000000000000000000000000000000000000000000000209616c6c64617461",
+        "raribleSellerFees": {
+          "value": "3.7",
+          "valueUsd": "0.333268275738630198"
+        }
+      },
+      "collections_with_historical_sale": null,
+      "search_status": "Initial combined SALE query returned 20 newest sales; full per-collection baseline pending paginated scan."
+    },
+    "UFC": {
+      "established_at": "2026-09-07T17:15:29.582419Z",
+      "newest_sale": {
+        "id": "POLYGON:6a6949f5ec68ea2851490a36",
+        "date": "2026-07-29T00:31:43Z",
+        "cursor": "[1785285103000,91053389,901,9110008401237321686]"
+      },
+      "activities_examined": 62,
+      "status": "verified HTTP 200 initial UFC SELL baseline; pre-baseline sales will not alert"
+    },
+    "Universal": {
+      "established_at": "2026-09-07T17:31:53.984438Z",
+      "newest_sale": {
+        "id": "POLYGON:6a9c58dae7303c5185f8f1a8",
+        "date": "2026-09-05T18:00:51Z",
+        "cursor": "[1788631251000,93284145,1361,208140090912497546]"
+      },
+      "activities_examined": 103,
+      "status": "verified HTTP 200 initial Universal SELL baseline; pre-baseline sales will not alert"
+    },
+    "McFarlane Dragons": {
+      "established_at": "2026-09-07T18:14:50.118266Z",
+      "newest_sale": {
+        "id": "POLYGON:69e6bb4cfdcdf91e3b245ec7",
+        "date": "2026-04-20T23:48:28Z",
+        "cursor": "[1776728908000,85804432,771,5962135877554460179]"
+      },
+      "activities_examined": 668,
+      "status": "verified HTTP 200 initial McFarlane Dragons SELL baseline; pre-baseline sales will not alert"
+    },
+    "Walking Dead": {
+      "established_at": "2026-09-07T18:17:53.662533Z",
+      "newest_sale": {
+        "id": "POLYGON:6a694b12ec68ea2851490a3e",
+        "date": "2026-07-29T00:36:32Z",
+        "cursor": "[1785285392000,91053581,1372,3537423761867895533]"
+      },
+      "activities_examined": 30,
+      "status": "verified HTTP 200 initial Walking Dead SELL baseline; pre-baseline sales will not alert"
+    },
+    "BRZRKR": {
+      "established_at": "2026-09-07T18:19:15.019336Z",
+      "newest_sale": {
+        "id": "POLYGON:69c1f146fdcdf91e3ba48539",
+        "date": "2026-03-24T02:04:51Z",
+        "cursor": "[1774317891000,84598928,2185,5864889527379513270]"
+      },
+      "activities_examined": 6,
+      "status": "verified HTTP 200 initial BRZRKR SELL baseline; pre-baseline sales will not alert"
+    },
+    "McFarlane Digital": {
+      "established_at": "2026-09-07T18:26:35.343563Z",
+      "newest_sale": {
+        "id": "POLYGON:6a1b3b6a96310357bf1c3ea4",
+        "date": "2026-05-30T19:32:57Z",
+        "cursor": "[1780169577000,87674203,916,3112643976810240051]"
+      },
+      "activities_examined": 557,
+      "status": "verified HTTP 200 initial McFarlane Digital SELL baseline; pre-baseline sales will not alert"
+    }
+  }
 }

@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-"""Enrich one pending MTD DC collection per run without burst requests."""
+"""Enrich one pending MTD collection per run without burst requests."""
 import json
 import os
 import tempfile
@@ -39,12 +39,12 @@ def save(state):
     os.replace(temp, STATE)
     report = STATE.with_name("mcfarlane-dc-metadata.md")
     rows = [
-        "# MTD DC Collection Metadata Progress",
+        "# MTD Collection Metadata Progress",
         "",
         f"Updated: {state.get('metadata_enrichment', {}).get('last_attempt_at', 'unknown')}",
         "",
-        "| Collection | Symbol | Type | Metadata status | Last metadata update |",
-        "|---|---|---|---|---|",
+        "| Category | Collection | Symbol | Type | Metadata status | Last metadata update |",
+        "|---|---|---|---|---|---|",
     ]
     for item in state["collections"]:
         metadata = item.get("metadata") or {}
@@ -54,7 +54,7 @@ def save(state):
         status = item.get("metadata_status") or "pending"
         updated = item.get("last_metadata_update_at") or "—"
         safe_name = name.replace("|", "\\|")
-        rows.append(f"| {safe_name} | {symbol} | {kind} | {status} | {updated} |")
+        rows.append(f"| {item.get('category', 'DC')} | {safe_name} | {symbol} | {kind} | {status} | {updated} |")
     report.write_text("\n".join(rows) + "\n", encoding="utf-8")
 
 
