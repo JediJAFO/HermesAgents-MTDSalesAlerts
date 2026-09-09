@@ -757,7 +757,7 @@
       "added_at": "2026-08-26T17:07:44.280198Z",
       "metadata_status": "pending (Rarible metadata request failed HTTP 404)",
       "last_metadata_error": "Rarible metadata request failed HTTP 404",
-      "next_metadata_retry_at": "2026-09-08T04:45:51.076208Z",
+      "next_metadata_retry_at": "2026-09-09T03:50:48.588355Z",
       "category": "DC"
     },
     {
@@ -4022,7 +4022,7 @@
     ],
     "rarity_rule": "fetch Rarible item metadata for each sale; use the attribute whose key is Rarity; emit Unknown when absent or unavailable, never infer"
   },
-  "last_successful_check_at": "2026-09-08T00:00:55.250524Z",
+  "last_successful_check_at": "2026-09-09T00:00:44.598759Z",
   "recent_sales": [
     {
       "@type": "SELL",
@@ -4186,14 +4186,14 @@
   ],
   "pending_whatsapp_sale_alert": null,
   "metadata_enrichment": {
-    "last_attempt_at": "2026-09-08T03:50:51.245424Z",
+    "last_attempt_at": "2026-09-09T03:45:51.027500Z",
     "strategy": "one serial authenticated Rarible collection request every five minutes; sale-referenced collections are prioritized; 429/errors cool down for one hour",
     "last_result": "No eligible pending collections",
     "remaining_pending": 1
   },
   "last_activity_search_cursor": "[1788313641000,93072405,529,5409627594304306498]",
   "last_activity_search_status": "verified: HTTP 200 parsed; no qualifying new sales",
-  "last_activity_search_attempt_at": "2026-09-08T00:00:55.250524Z",
+  "last_activity_search_attempt_at": "2026-09-09T00:00:44.598759Z",
   "last_activity_search_failure": {
     "at": "2026-09-07T16:01:56.192526Z",
     "http_status": 400,
