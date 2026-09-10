@@ -757,7 +757,7 @@
       "added_at": "2026-08-26T17:07:44.280198Z",
       "metadata_status": "pending (Rarible metadata request failed HTTP 404)",
       "last_metadata_error": "Rarible metadata request failed HTTP 404",
-      "next_metadata_retry_at": "2026-09-09T03:50:48.588355Z",
+      "next_metadata_retry_at": "2026-09-10T03:55:58.249046Z",
       "category": "DC"
     },
     {
@@ -1571,7 +1571,60 @@
       "contract": "0xbfcd6a3dab4b7ba32aae04312786cea9d12aa221",
       "display_name": "Clayface - Build-A-Figure",
       "name_source": "Rarible collection metadata",
-      "last_sale": null,
+      "last_sale": {
+        "@type": "SELL",
+        "orderId": "POLYGON:0xf7658da9325890c355ff539290532832f920f878883be87a199297bafcbf784b",
+        "source": "RARIBLE",
+        "transactionHash": "0xb48d1798597979b18b9b8cc6446bdff24033f4c9563c9bcacb544535fca99a0a",
+        "blockchainInfo": {
+          "transactionHash": "0xb48d1798597979b18b9b8cc6446bdff24033f4c9563c9bcacb544535fca99a0a",
+          "blockHash": "0x5d95037f71c801d1503c524e70b04344be4b60d075602cc4a2541dbeba2bbad7",
+          "blockNumber": 93521926,
+          "logIndex": 1357
+        },
+        "id": "POLYGON:6aa1ca1be7303c5185f92281",
+        "date": "2026-09-09T21:05:22Z",
+        "lastUpdatedAt": "2026-09-09T21:05:31.547Z",
+        "cursor": "[1788987922000,93521926,1357,1114680016868130165]",
+        "reverted": false,
+        "nft": {
+          "type": {
+            "@type": "ERC721",
+            "contract": "POLYGON:0xbfcd6a3dab4b7ba32aae04312786cea9d12aa221",
+            "collection": "POLYGON:0xbfcd6a3dab4b7ba32aae04312786cea9d12aa221",
+            "tokenId": "167"
+          },
+          "value": "1"
+        },
+        "payment": {
+          "type": {
+            "@type": "ETH",
+            "blockchain": "POLYGON"
+          },
+          "value": "150"
+        },
+        "buyerOrderHash": "0xa4a44cbc4a7e405fcca4717d51ea77a741ea6c03ea594405c5dd8ff71a1db614",
+        "sellerOrderHash": "0xf7658da9325890c355ff539290532832f920f878883be87a199297bafcbf784b",
+        "price": "150",
+        "priceUsd": "14.371413049825155",
+        "amountUsd": "14.371413049825155",
+        "type": "SELL",
+        "buyMarketplaceMarker": "0x00000000000000000000000000000000000000000000000209616c6c64617461",
+        "raribleSellerFees": {
+          "value": "3",
+          "valueUsd": "0.2874282609965031"
+        },
+        "activity_id": "POLYGON:6aa1ca1be7303c5185f92281",
+        "collection": "POLYGON:0xbfcd6a3dab4b7ba32aae04312786cea9d12aa221",
+        "category": "DC",
+        "token_id": "167",
+        "quantity": "1",
+        "item_name": "Clayface - Build-A-Figure #9804",
+        "rarity": "Exotic",
+        "rarity_source": "Rarible item metadata attribute Rarity",
+        "usd_amount": 14.371413049825154,
+        "usd_source": "Rarible completed-activity priceUsd captured once at sale time"
+      },
       "added_at": "2026-08-26T17:07:44.280198Z",
       "metadata_status": "verified",
       "metadata": {
@@ -1607,7 +1660,60 @@
       "contract": "0xcf0a77830c9d5ef65325a0884998dea764b0873b",
       "display_name": "Superman Centennial",
       "name_source": "Rarible collection metadata",
-      "last_sale": null,
+      "last_sale": {
+        "@type": "SELL",
+        "orderId": "POLYGON:0x1c81e4ea267e296e9366dea95f2e9ab8b7a900e2acd6457c8cc189eb115483fb",
+        "source": "RARIBLE",
+        "transactionHash": "0xa973878c85a3b84854646b02834572e1aca5c9c68be08d6a5f059decbd3e9360",
+        "blockchainInfo": {
+          "transactionHash": "0xa973878c85a3b84854646b02834572e1aca5c9c68be08d6a5f059decbd3e9360",
+          "blockHash": "0x83260423f96a847959d15419a81132896865e66e8984f58d9aa1bab8501afb3c",
+          "blockNumber": 93522029,
+          "logIndex": 586
+        },
+        "id": "POLYGON:6aa1cab1e7303c5185f92285",
+        "date": "2026-09-09T21:07:57Z",
+        "lastUpdatedAt": "2026-09-09T21:08:01.724Z",
+        "cursor": "[1788988077000,93522029,586,3953951113287606720]",
+        "reverted": false,
+        "nft": {
+          "type": {
+            "@type": "ERC721",
+            "contract": "POLYGON:0xcf0a77830c9d5ef65325a0884998dea764b0873b",
+            "collection": "POLYGON:0xcf0a77830c9d5ef65325a0884998dea764b0873b",
+            "tokenId": "911"
+          },
+          "value": "1"
+        },
+        "payment": {
+          "type": {
+            "@type": "ETH",
+            "blockchain": "POLYGON"
+          },
+          "value": "100"
+        },
+        "buyerOrderHash": "0x1ca6977ff701461ae5c504e83e7957e670a8ff2a91ab4a9d393a41e12c2106d1",
+        "sellerOrderHash": "0x1c81e4ea267e296e9366dea95f2e9ab8b7a900e2acd6457c8cc189eb115483fb",
+        "price": "100",
+        "priceUsd": "9.58094203321677",
+        "amountUsd": "9.58094203321677",
+        "type": "SELL",
+        "buyMarketplaceMarker": "0x00000000000000000000000000000000000000000000000209616c6c64617461",
+        "raribleSellerFees": {
+          "value": "2",
+          "valueUsd": "0.1916188406643354"
+        },
+        "activity_id": "POLYGON:6aa1cab1e7303c5185f92285",
+        "collection": "POLYGON:0xcf0a77830c9d5ef65325a0884998dea764b0873b",
+        "category": "DC",
+        "token_id": "911",
+        "quantity": "1",
+        "item_name": "Superman Centennial - Goldbird #628",
+        "rarity": "Epic",
+        "rarity_source": "Rarible item metadata attribute Rarity",
+        "usd_amount": 9.58094203321677,
+        "usd_source": "Rarible completed-activity priceUsd captured once at sale time"
+      },
       "added_at": "2026-08-26T17:07:44.280198Z",
       "metadata_status": "verified",
       "metadata": {
@@ -2293,26 +2399,26 @@
       "name_source": "Rarible collection metadata",
       "last_sale": {
         "@type": "SELL",
-        "orderId": "POLYGON:0xbe85deccd1102d65fce2e1a622252c9fde5d2c19e171894841f93ad1cecb4c36",
+        "orderId": "POLYGON:0xbb1cb949ae58c60e8191eb182081c2da681a6353d76d45db8c8ce08abfdf4f47",
         "source": "RARIBLE",
-        "transactionHash": "0x1be2e0878ee818913a99010a152a148ddbc5b43a739b1014a43dc1b05e6f4e3c",
+        "transactionHash": "0xda38f382ea7e0102de70eb8402886c2ccc15fcb9928d91d672cd8d1ae54f85c6",
         "blockchainInfo": {
-          "transactionHash": "0x1be2e0878ee818913a99010a152a148ddbc5b43a739b1014a43dc1b05e6f4e3c",
-          "blockHash": "0xae520dfc9de68d5efbedf1803773fd5727cca95c924649d808b5d34c0be8881d",
-          "blockNumber": 93072405,
-          "logIndex": 529
+          "transactionHash": "0xda38f382ea7e0102de70eb8402886c2ccc15fcb9928d91d672cd8d1ae54f85c6",
+          "blockHash": "0x5511b5ed6f8fa5378250098047cd9a2df3254ed59e3a45323cdf6c4d64f7fdf8",
+          "blockNumber": 93521967,
+          "logIndex": 750
         },
-        "id": "POLYGON:6a978029e7303c5185f8c0ce",
-        "date": "2026-09-02T01:47:21Z",
-        "lastUpdatedAt": "2026-09-02T01:47:21.337Z",
-        "cursor": "[1788313641000,93072405,529,5409627594304306498]",
+        "id": "POLYGON:6aa1ca53e7303c5185f92283",
+        "date": "2026-09-09T21:06:24Z",
+        "lastUpdatedAt": "2026-09-09T21:06:27.282Z",
+        "cursor": "[1788987984000,93521967,750,886765168339395795]",
         "reverted": false,
         "nft": {
           "type": {
             "@type": "ERC721",
             "contract": "POLYGON:0x34d412f69c428dd1bc781f8bc3371b613b8ff5ab",
             "collection": "POLYGON:0x34d412f69c428dd1bc781f8bc3371b613b8ff5ab",
-            "tokenId": "215"
+            "tokenId": "9"
           },
           "value": "1"
         },
@@ -2321,27 +2427,28 @@
             "@type": "ETH",
             "blockchain": "POLYGON"
           },
-          "value": "185"
+          "value": "250"
         },
-        "buyerOrderHash": "0x16655fb7beeb1793c881eca3176c1e9e26015a777e8845dfb45b4f93534da268",
-        "sellerOrderHash": "0xbe85deccd1102d65fce2e1a622252c9fde5d2c19e171894841f93ad1cecb4c36",
-        "price": "185",
-        "priceUsd": "16.6634137869315099",
-        "amountUsd": "16.6634137869315099",
+        "buyerOrderHash": "0x6f9f185dffa06dbfaa67e0fdc9c56ec0ae89531e65a3891cb3cf5cda8f905b93",
+        "sellerOrderHash": "0xbb1cb949ae58c60e8191eb182081c2da681a6353d76d45db8c8ce08abfdf4f47",
+        "price": "250",
+        "priceUsd": "23.952355083041925",
+        "amountUsd": "23.952355083041925",
         "type": "SELL",
         "buyMarketplaceMarker": "0x00000000000000000000000000000000000000000000000209616c6c64617461",
         "raribleSellerFees": {
-          "value": "3.7",
-          "valueUsd": "0.333268275738630198"
+          "value": "5",
+          "valueUsd": "0.4790471016608385"
         },
-        "activity_id": "POLYGON:6a978029e7303c5185f8c0ce",
+        "activity_id": "POLYGON:6aa1ca53e7303c5185f92283",
         "collection": "POLYGON:0x34d412f69c428dd1bc781f8bc3371b613b8ff5ab",
-        "token_id": "215",
+        "category": "DC",
+        "token_id": "9",
         "quantity": "1",
-        "item_name": "The Penguin - Black #146",
-        "rarity": "Legendary",
+        "item_name": "The Penguin - Purple #169",
+        "rarity": "Epic",
         "rarity_source": "Rarible item metadata attribute Rarity",
-        "usd_amount": 16.66341378693151,
+        "usd_amount": 23.952355083041926,
         "usd_source": "Rarible completed-activity priceUsd captured once at sale time"
       },
       "added_at": "2026-08-26T17:07:44.280198Z",
@@ -3018,7 +3125,61 @@
       },
       "symbol": "TOKEN",
       "last_metadata_update_at": "2025-10-03T22:54:19.265Z",
-      "name_source": "Rarible collection metadata"
+      "name_source": "Rarible collection metadata",
+      "last_sale": {
+        "@type": "SELL",
+        "orderId": "POLYGON:0xb9f8f52353918c5d2277b5614056b43dc3e1f6e0c436c279608b6215290fde93",
+        "source": "RARIBLE",
+        "transactionHash": "0xa6c32004cf1abbadcc1bd701c60fd3d77302daa735c2ab5404f023bbe35f24aa",
+        "blockchainInfo": {
+          "transactionHash": "0xa6c32004cf1abbadcc1bd701c60fd3d77302daa735c2ab5404f023bbe35f24aa",
+          "blockHash": "0x86b2394e5df194ea3354bbb77582057c148bbb1b4c904383892bfc4cd882c1e8",
+          "blockNumber": 93522197,
+          "logIndex": 916
+        },
+        "id": "POLYGON:6aa1cbade7303c5185f92288",
+        "date": "2026-09-09T21:12:09Z",
+        "lastUpdatedAt": "2026-09-09T21:12:13.509Z",
+        "cursor": "[1788988329000,93522197,916,4204104764475247233]",
+        "reverted": false,
+        "nft": {
+          "type": {
+            "@type": "ERC721",
+            "contract": "POLYGON:0x50ed79948a280f38d11b5134295fb8064778cdbf",
+            "collection": "POLYGON:0x50ed79948a280f38d11b5134295fb8064778cdbf",
+            "tokenId": "233"
+          },
+          "value": "1"
+        },
+        "payment": {
+          "type": {
+            "@type": "ETH",
+            "blockchain": "POLYGON"
+          },
+          "value": "150"
+        },
+        "buyerOrderHash": "0x1582ad2ecbd81071adb156cd581951ee54d51983c4d86cf10064bf5e2f97d30a",
+        "sellerOrderHash": "0xb9f8f52353918c5d2277b5614056b43dc3e1f6e0c436c279608b6215290fde93",
+        "price": "150",
+        "priceUsd": "14.371413049825155",
+        "amountUsd": "14.371413049825155",
+        "type": "SELL",
+        "buyMarketplaceMarker": "0x00000000000000000000000000000000000000000000000209616c6c64617461",
+        "raribleSellerFees": {
+          "value": "3",
+          "valueUsd": "0.2874282609965031"
+        },
+        "activity_id": "POLYGON:6aa1cbade7303c5185f92288",
+        "collection": "POLYGON:0x50ed79948a280f38d11b5134295fb8064778cdbf",
+        "category": "Universal",
+        "token_id": "233",
+        "quantity": "1",
+        "item_name": "The Dude #1478",
+        "rarity": "Common",
+        "rarity_source": "Rarible item metadata attribute Rarity",
+        "usd_amount": 14.371413049825154,
+        "usd_source": "Rarible completed-activity priceUsd captured once at sale time"
+      }
     },
     {
       "id": "POLYGON:0xc50692526a8c2c2798a8434dd620616b26ec6d37",
@@ -4022,7 +4183,7 @@
     ],
     "rarity_rule": "fetch Rarible item metadata for each sale; use the attribute whose key is Rarity; emit Unknown when absent or unavailable, never infer"
   },
-  "last_successful_check_at": "2026-09-09T00:00:44.598759Z",
+  "last_successful_check_at": "2026-09-10T00:01:27.312191Z",
   "recent_sales": [
     {
       "@type": "SELL",
@@ -4182,18 +4343,244 @@
       "rarity_source": "Rarible item metadata attribute Rarity",
       "usd_amount": 16.66341378693151,
       "usd_source": "Rarible completed-activity priceUsd captured once at sale time"
+    },
+    {
+      "@type": "SELL",
+      "orderId": "POLYGON:0xf7658da9325890c355ff539290532832f920f878883be87a199297bafcbf784b",
+      "source": "RARIBLE",
+      "transactionHash": "0xb48d1798597979b18b9b8cc6446bdff24033f4c9563c9bcacb544535fca99a0a",
+      "blockchainInfo": {
+        "transactionHash": "0xb48d1798597979b18b9b8cc6446bdff24033f4c9563c9bcacb544535fca99a0a",
+        "blockHash": "0x5d95037f71c801d1503c524e70b04344be4b60d075602cc4a2541dbeba2bbad7",
+        "blockNumber": 93521926,
+        "logIndex": 1357
+      },
+      "id": "POLYGON:6aa1ca1be7303c5185f92281",
+      "date": "2026-09-09T21:05:22Z",
+      "lastUpdatedAt": "2026-09-09T21:05:31.547Z",
+      "cursor": "[1788987922000,93521926,1357,1114680016868130165]",
+      "reverted": false,
+      "nft": {
+        "type": {
+          "@type": "ERC721",
+          "contract": "POLYGON:0xbfcd6a3dab4b7ba32aae04312786cea9d12aa221",
+          "collection": "POLYGON:0xbfcd6a3dab4b7ba32aae04312786cea9d12aa221",
+          "tokenId": "167"
+        },
+        "value": "1"
+      },
+      "payment": {
+        "type": {
+          "@type": "ETH",
+          "blockchain": "POLYGON"
+        },
+        "value": "150"
+      },
+      "buyerOrderHash": "0xa4a44cbc4a7e405fcca4717d51ea77a741ea6c03ea594405c5dd8ff71a1db614",
+      "sellerOrderHash": "0xf7658da9325890c355ff539290532832f920f878883be87a199297bafcbf784b",
+      "price": "150",
+      "priceUsd": "14.371413049825155",
+      "amountUsd": "14.371413049825155",
+      "type": "SELL",
+      "buyMarketplaceMarker": "0x00000000000000000000000000000000000000000000000209616c6c64617461",
+      "raribleSellerFees": {
+        "value": "3",
+        "valueUsd": "0.2874282609965031"
+      },
+      "activity_id": "POLYGON:6aa1ca1be7303c5185f92281",
+      "collection": "POLYGON:0xbfcd6a3dab4b7ba32aae04312786cea9d12aa221",
+      "category": "DC",
+      "token_id": "167",
+      "quantity": "1",
+      "item_name": "Clayface - Build-A-Figure #9804",
+      "rarity": "Exotic",
+      "rarity_source": "Rarible item metadata attribute Rarity",
+      "usd_amount": 14.371413049825154,
+      "usd_source": "Rarible completed-activity priceUsd captured once at sale time"
+    },
+    {
+      "@type": "SELL",
+      "orderId": "POLYGON:0xbb1cb949ae58c60e8191eb182081c2da681a6353d76d45db8c8ce08abfdf4f47",
+      "source": "RARIBLE",
+      "transactionHash": "0xda38f382ea7e0102de70eb8402886c2ccc15fcb9928d91d672cd8d1ae54f85c6",
+      "blockchainInfo": {
+        "transactionHash": "0xda38f382ea7e0102de70eb8402886c2ccc15fcb9928d91d672cd8d1ae54f85c6",
+        "blockHash": "0x5511b5ed6f8fa5378250098047cd9a2df3254ed59e3a45323cdf6c4d64f7fdf8",
+        "blockNumber": 93521967,
+        "logIndex": 750
+      },
+      "id": "POLYGON:6aa1ca53e7303c5185f92283",
+      "date": "2026-09-09T21:06:24Z",
+      "lastUpdatedAt": "2026-09-09T21:06:27.282Z",
+      "cursor": "[1788987984000,93521967,750,886765168339395795]",
+      "reverted": false,
+      "nft": {
+        "type": {
+          "@type": "ERC721",
+          "contract": "POLYGON:0x34d412f69c428dd1bc781f8bc3371b613b8ff5ab",
+          "collection": "POLYGON:0x34d412f69c428dd1bc781f8bc3371b613b8ff5ab",
+          "tokenId": "9"
+        },
+        "value": "1"
+      },
+      "payment": {
+        "type": {
+          "@type": "ETH",
+          "blockchain": "POLYGON"
+        },
+        "value": "250"
+      },
+      "buyerOrderHash": "0x6f9f185dffa06dbfaa67e0fdc9c56ec0ae89531e65a3891cb3cf5cda8f905b93",
+      "sellerOrderHash": "0xbb1cb949ae58c60e8191eb182081c2da681a6353d76d45db8c8ce08abfdf4f47",
+      "price": "250",
+      "priceUsd": "23.952355083041925",
+      "amountUsd": "23.952355083041925",
+      "type": "SELL",
+      "buyMarketplaceMarker": "0x00000000000000000000000000000000000000000000000209616c6c64617461",
+      "raribleSellerFees": {
+        "value": "5",
+        "valueUsd": "0.4790471016608385"
+      },
+      "activity_id": "POLYGON:6aa1ca53e7303c5185f92283",
+      "collection": "POLYGON:0x34d412f69c428dd1bc781f8bc3371b613b8ff5ab",
+      "category": "DC",
+      "token_id": "9",
+      "quantity": "1",
+      "item_name": "The Penguin - Purple #169",
+      "rarity": "Epic",
+      "rarity_source": "Rarible item metadata attribute Rarity",
+      "usd_amount": 23.952355083041926,
+      "usd_source": "Rarible completed-activity priceUsd captured once at sale time"
+    },
+    {
+      "@type": "SELL",
+      "orderId": "POLYGON:0x1c81e4ea267e296e9366dea95f2e9ab8b7a900e2acd6457c8cc189eb115483fb",
+      "source": "RARIBLE",
+      "transactionHash": "0xa973878c85a3b84854646b02834572e1aca5c9c68be08d6a5f059decbd3e9360",
+      "blockchainInfo": {
+        "transactionHash": "0xa973878c85a3b84854646b02834572e1aca5c9c68be08d6a5f059decbd3e9360",
+        "blockHash": "0x83260423f96a847959d15419a81132896865e66e8984f58d9aa1bab8501afb3c",
+        "blockNumber": 93522029,
+        "logIndex": 586
+      },
+      "id": "POLYGON:6aa1cab1e7303c5185f92285",
+      "date": "2026-09-09T21:07:57Z",
+      "lastUpdatedAt": "2026-09-09T21:08:01.724Z",
+      "cursor": "[1788988077000,93522029,586,3953951113287606720]",
+      "reverted": false,
+      "nft": {
+        "type": {
+          "@type": "ERC721",
+          "contract": "POLYGON:0xcf0a77830c9d5ef65325a0884998dea764b0873b",
+          "collection": "POLYGON:0xcf0a77830c9d5ef65325a0884998dea764b0873b",
+          "tokenId": "911"
+        },
+        "value": "1"
+      },
+      "payment": {
+        "type": {
+          "@type": "ETH",
+          "blockchain": "POLYGON"
+        },
+        "value": "100"
+      },
+      "buyerOrderHash": "0x1ca6977ff701461ae5c504e83e7957e670a8ff2a91ab4a9d393a41e12c2106d1",
+      "sellerOrderHash": "0x1c81e4ea267e296e9366dea95f2e9ab8b7a900e2acd6457c8cc189eb115483fb",
+      "price": "100",
+      "priceUsd": "9.58094203321677",
+      "amountUsd": "9.58094203321677",
+      "type": "SELL",
+      "buyMarketplaceMarker": "0x00000000000000000000000000000000000000000000000209616c6c64617461",
+      "raribleSellerFees": {
+        "value": "2",
+        "valueUsd": "0.1916188406643354"
+      },
+      "activity_id": "POLYGON:6aa1cab1e7303c5185f92285",
+      "collection": "POLYGON:0xcf0a77830c9d5ef65325a0884998dea764b0873b",
+      "category": "DC",
+      "token_id": "911",
+      "quantity": "1",
+      "item_name": "Superman Centennial - Goldbird #628",
+      "rarity": "Epic",
+      "rarity_source": "Rarible item metadata attribute Rarity",
+      "usd_amount": 9.58094203321677,
+      "usd_source": "Rarible completed-activity priceUsd captured once at sale time"
+    },
+    {
+      "@type": "SELL",
+      "orderId": "POLYGON:0xb9f8f52353918c5d2277b5614056b43dc3e1f6e0c436c279608b6215290fde93",
+      "source": "RARIBLE",
+      "transactionHash": "0xa6c32004cf1abbadcc1bd701c60fd3d77302daa735c2ab5404f023bbe35f24aa",
+      "blockchainInfo": {
+        "transactionHash": "0xa6c32004cf1abbadcc1bd701c60fd3d77302daa735c2ab5404f023bbe35f24aa",
+        "blockHash": "0x86b2394e5df194ea3354bbb77582057c148bbb1b4c904383892bfc4cd882c1e8",
+        "blockNumber": 93522197,
+        "logIndex": 916
+      },
+      "id": "POLYGON:6aa1cbade7303c5185f92288",
+      "date": "2026-09-09T21:12:09Z",
+      "lastUpdatedAt": "2026-09-09T21:12:13.509Z",
+      "cursor": "[1788988329000,93522197,916,4204104764475247233]",
+      "reverted": false,
+      "nft": {
+        "type": {
+          "@type": "ERC721",
+          "contract": "POLYGON:0x50ed79948a280f38d11b5134295fb8064778cdbf",
+          "collection": "POLYGON:0x50ed79948a280f38d11b5134295fb8064778cdbf",
+          "tokenId": "233"
+        },
+        "value": "1"
+      },
+      "payment": {
+        "type": {
+          "@type": "ETH",
+          "blockchain": "POLYGON"
+        },
+        "value": "150"
+      },
+      "buyerOrderHash": "0x1582ad2ecbd81071adb156cd581951ee54d51983c4d86cf10064bf5e2f97d30a",
+      "sellerOrderHash": "0xb9f8f52353918c5d2277b5614056b43dc3e1f6e0c436c279608b6215290fde93",
+      "price": "150",
+      "priceUsd": "14.371413049825155",
+      "amountUsd": "14.371413049825155",
+      "type": "SELL",
+      "buyMarketplaceMarker": "0x00000000000000000000000000000000000000000000000209616c6c64617461",
+      "raribleSellerFees": {
+        "value": "3",
+        "valueUsd": "0.2874282609965031"
+      },
+      "activity_id": "POLYGON:6aa1cbade7303c5185f92288",
+      "collection": "POLYGON:0x50ed79948a280f38d11b5134295fb8064778cdbf",
+      "category": "Universal",
+      "token_id": "233",
+      "quantity": "1",
+      "item_name": "The Dude #1478",
+      "rarity": "Common",
+      "rarity_source": "Rarible item metadata attribute Rarity",
+      "usd_amount": 14.371413049825154,
+      "usd_source": "Rarible completed-activity priceUsd captured once at sale time"
     }
   ],
-  "pending_whatsapp_sale_alert": null,
+  "pending_whatsapp_sale_alert": {
+    "activity_ids": [
+      "POLYGON:6aa1ca1be7303c5185f92281",
+      "POLYGON:6aa1ca53e7303c5185f92283",
+      "POLYGON:6aa1cab1e7303c5185f92285",
+      "POLYGON:6aa1cbade7303c5185f92288"
+    ],
+    "alert_text": "• **[DC] Clayface - Build-A-Figure** — Item: **Clayface - Build-A-Figure #9804**; Rarity: **Exotic**; Price: **150 POL ($14.37)**; Buy: **...815c1560e**; Sell: **...9c2610efc**; Sold: 2026-09-09 21:05\r\n• **[DC] The Penguin - DC Classic** — Item: **The Penguin - Purple #169**; Rarity: **Epic**; Price: **250 POL ($23.95)**; Buy: **...815c1560e**; Sell: **...0568124d1**; Sold: 2026-09-09 21:06\r\n• **[DC] Superman Centennial** — Item: **Superman Centennial - Goldbird #628**; Rarity: **Epic**; Price: **100 POL ($9.58)**; Buy: **...815c1560e**; Sell: **DragonDude**; Sold: 2026-09-09 21:07\r\n• **[Universal] Jeff “The Dude” Lebowski** — Item: **The Dude #1478**; Rarity: **Common**; Price: **150 POL ($14.37)**; Buy: **...815c1560e**; Sell: **...7e3d3e1cf**; Sold: 2026-09-09 21:12",
+    "delivered": false,
+    "created_at": "2026-09-10T00:01:27.312191Z"
+  },
   "metadata_enrichment": {
-    "last_attempt_at": "2026-09-09T03:45:51.027500Z",
+    "last_attempt_at": "2026-09-10T03:50:02.943579Z",
     "strategy": "one serial authenticated Rarible collection request every five minutes; sale-referenced collections are prioritized; 429/errors cool down for one hour",
     "last_result": "No eligible pending collections",
     "remaining_pending": 1
   },
-  "last_activity_search_cursor": "[1788313641000,93072405,529,5409627594304306498]",
-  "last_activity_search_status": "verified: HTTP 200 parsed; no qualifying new sales",
-  "last_activity_search_attempt_at": "2026-09-09T00:00:44.598759Z",
+  "last_activity_search_cursor": "[1788988329000,93522197,916,4204104764475247233]",
+  "last_activity_search_status": "verified: HTTP 200 parsed; 4 qualifying new sales",
+  "last_activity_search_attempt_at": "2026-09-10T00:01:27.312191Z",
   "last_activity_search_failure": {
     "at": "2026-09-07T16:01:56.192526Z",
     "http_status": 400,
