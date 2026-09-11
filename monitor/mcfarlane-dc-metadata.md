@@ -1,6 +1,6 @@
 # MTD Collection Metadata Progress
 
-Updated: 2026-09-10T03:50:02.943579Z
+Updated: 2026-09-11T03:50:16.981736Z
 
 | Category | Collection | Symbol | Type | Metadata status | Last metadata update |
 |---|---|---|---|---|---|
@@ -105,3 +105,23 @@ Updated: 2026-09-10T03:50:02.943579Z
 | BRZRKR | BRZRKR | TOKEN | ERC721 | verified | 2025-08-02T01:10:32.110Z |
 | McFarlane Digital | Todd McFarlane | MTD-TODD | ERC721 | verified | 2026-05-31T13:52:38.309Z |
 | McFarlane Digital | MTD OG Badge | MTD-OGB | ERC721 | verified | 2025-10-10T18:54:41.141Z |
+| Spawn | Spawn Monolith | MTD-SPAWNMNTH | ERC721 | verified | 2025-08-14T02:12:20.947Z |
+| Spawn | Spawn (311) | MTD-SP311 | ERC721 | verified | 2025-10-04T00:54:23.135Z |
+| Spawn | Spawn - Wings of Redemption | TOKEN | ERC721 | verified | 2025-09-03T00:47:39.467Z |
+| Spawn | Cy-Gor | MTD-CGOR | ERC721 | verified | 2025-10-03T19:54:17.664Z |
+| Spawn | Violator - Necroplasm | MTD-VNPSM | ERC721 | verified | 2025-08-11T23:11:53.386Z |
+| Spawn | She Spawn | MTD-SSPWN | ERC721 | verified | 2025-10-04T00:54:22.963Z |
+| Spawn | The Violator | MTD-SVTR | ERC721 | verified | 2025-07-17T20:03:10.402Z |
+| Spawn | Spawn Poster | MTD-SP | ERC721 | verified | 2025-08-13T21:12:13.073Z |
+| Spawn | Gunslinger Poster | MTD-GUPO | ERC721 | verified | 2025-11-15T08:23:07.393Z |
+| Spawn | McFarlane Toys: Spawn Launch Series | MTD-SLS | ERC721 | verified | 2025-10-18T22:55:39.905Z |
+| Spawn | Spawn Gunslinger | MTD-SGUN | ERC721 | verified | 2025-10-06T12:54:31.214Z |
+| Spawn | McFarlane Toys: Spawn Gift | MTD-SG | ERC721 | verified | 2025-09-08T00:57:12.611Z |
+| Spawn | McFarlane Toys: Redeemer Gift | MTD-RG | ERC721 | verified | 2025-10-04T00:54:21.794Z |
+| Spawn | Commando Spawn | MTD-COMSPWN | ERC721 | verified | 2025-09-08T23:57:14.271Z |
+| Spawn | Spawn (Cover #95) | TOKEN | ERC721 | verified | 2026-01-29T01:17:16.236Z |
+| Spawn | Spawn The Dark Ages | TOKEN | ERC721 | verified | 2025-10-13T01:55:10.362Z |
+| Spawn | Spawn 301 | TOKEN | ERC721 | verified | 2025-10-13T01:55:10.606Z |
+| Spawn | Spawn 1977 | TOKEN | ERC721 | verified | 2025-08-22T16:20:49.280Z |
+| Spawn | Spawn Rat City | MTD-SPRC | ERC721 | verified | 2025-08-22T16:20:49.280Z |
+| Spawn | Mandarin Spawn | MTD-MAN-SPWN | ERC721 | verified | 2026-04-04T02:46:52.147Z |

@@ -1,8 +1,8 @@
 # Product Requirements Document — McFarlane DC Completed-Sale Alerts
 
 **Version:** 1.1  
-**Last updated:** 2026-09-09 EDT  
-**Implementation signature:** `808a616d4689`  
+**Last updated:** 2026-09-10 EDT  
+**Implementation signature:** `92c656eb8342`  
 **Status:** Active  
 **Private state:** `C:/Users/jltfo/AppData/Local/hermes/price-watches/mcfarlane-dc-sales.json`
 

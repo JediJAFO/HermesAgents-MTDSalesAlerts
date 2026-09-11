@@ -13,11 +13,12 @@
       "McFarlane Dragons": "McFarlane Dragons",
       "Walking Dead": "Walking Dead",
       "BRZRKR": "BRZRKR",
-      "McFarlane Digital": "McFarlane Digital"
+      "McFarlane Digital": "McFarlane Digital",
+      "Spawn": "Spawn"
     }
   },
   "catalog_created_at": "2026-08-26T17:07:44.280198Z",
-  "last_catalog_refresh_at": "2026-09-07T18:26:35.343563Z",
+  "last_catalog_refresh_at": "2026-09-10T17:26:40.808006Z",
   "collections": [
     {
       "id": "POLYGON:0x028ab77ff9794d2b02f11f77a01c7c2f96618916",
@@ -757,7 +758,7 @@
       "added_at": "2026-08-26T17:07:44.280198Z",
       "metadata_status": "pending (Rarible metadata request failed HTTP 404)",
       "last_metadata_error": "Rarible metadata request failed HTTP 404",
-      "next_metadata_retry_at": "2026-09-10T03:55:58.249046Z",
+      "next_metadata_retry_at": "2026-09-11T04:20:13.805183Z",
       "category": "DC"
     },
     {
@@ -3848,6 +3849,843 @@
       "symbol": "MTD-OGB",
       "last_metadata_update_at": "2025-10-10T18:54:41.141Z",
       "name_source": "Rarible collection metadata"
+    },
+    {
+      "id": "POLYGON:0x405147e7a29f275187be2b9674ffe7b455075235",
+      "contract": "0x405147e7a29f275187be2b9674ffe7b455075235",
+      "category": "Spawn",
+      "display_name": "Spawn Monolith",
+      "metadata_status": "verified",
+      "added_at": "2026-09-10T17:26:40.808006Z",
+      "baseline_status": "Spawn category baseline established before alerting",
+      "metadata": {
+        "id": "POLYGON:0x405147e7a29f275187be2b9674ffe7b455075235",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-08-14T02:12:20.947Z",
+        "meta": {
+          "name": "Spawn Monolith",
+          "description": "A walking mountain of strength, power, and savagery of Hell. His monsters visage hides his innate intelligence and cunning from the world. What his motives are, and who he will fight for are still unclear.",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmPmmvFCz55P5Xd2eer4xao8Z1y3jiay5KnK1NLSPyD835/0",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/QmfCDUN89N51qt3KYEVA98gdHEbv289B9pj84XhmuGoEM1/MTD-ART-CARD0.25x.png",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 738350,
+              "available": true,
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        }
+      },
+      "symbol": "MTD-SPAWNMNTH",
+      "last_metadata_update_at": "2025-08-14T02:12:20.947Z",
+      "name_source": "Rarible collection metadata"
+    },
+    {
+      "id": "POLYGON:0x503ccea5984975f057ce957a1cdca61dbd731405",
+      "contract": "0x503ccea5984975f057ce957a1cdca61dbd731405",
+      "category": "Spawn",
+      "display_name": "Spawn (311)",
+      "metadata_status": "verified",
+      "added_at": "2026-09-10T17:26:40.808006Z",
+      "baseline_status": "Spawn category baseline established before alerting",
+      "metadata": {
+        "id": "POLYGON:0x503ccea5984975f057ce957a1cdca61dbd731405",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-10-04T00:54:23.135Z",
+        "meta": {
+          "name": "Spawn (311)",
+          "description": "Al Simmons is a Hellspawn. Upon his death, he was transformed to become General of Hell's Armies. But Al is different; he rebelled against his master, Malebolgia, and broke the chains of his control. Now, Spawn stands on the side of humanity. Protecting the mortal realm against the threats from Heaven and Hell.",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmW3LYAeNQwkVECdNP74uh3bP6HY2mC6P4Kwf2c8rVGBB5/0",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/bafybeifpyhrz6kz7pm4ogast2zsmlc5xylbotrljbfmma7ioxajgtcglmq/MTD-ART-CARD0.25x.png",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 895598,
+              "available": true,
+              "width": 1024,
+              "height": 1024
+            }
+          ],
+          "sellerFeeBasisPoints": 0,
+          "feeRecipient": "ETHEREUM:0xba700290b866b809766e1df11e7d9780091bba49"
+        }
+      },
+      "symbol": "MTD-SP311",
+      "last_metadata_update_at": "2025-10-04T00:54:23.135Z",
+      "name_source": "Rarible collection metadata"
+    },
+    {
+      "id": "POLYGON:0xa128b86ffc30b3807325bb4c88f8cf61758c3eb3",
+      "contract": "0xa128b86ffc30b3807325bb4c88f8cf61758c3eb3",
+      "category": "Spawn",
+      "display_name": "Spawn - Wings of Redemption",
+      "metadata_status": "verified",
+      "added_at": "2026-09-10T17:26:40.808006Z",
+      "baseline_status": "Spawn category baseline established before alerting",
+      "metadata": {
+        "id": "POLYGON:0xa128b86ffc30b3807325bb4c88f8cf61758c3eb3",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-09-03T00:47:39.467Z",
+        "meta": {
+          "name": "Spawn - Wings of Redemption",
+          "tags": [],
+          "genres": [],
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://s3.us-west-2.amazonaws.com/public-assets.mcfarlane.digital/1711669917676_9f5c996499694c05579609e6.jpg",
+              "representation": "ORIGINAL",
+              "mimeType": "image/jpeg",
+              "size": 118937,
+              "available": true,
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        }
+      },
+      "symbol": "TOKEN",
+      "last_metadata_update_at": "2025-09-03T00:47:39.467Z",
+      "name_source": "Rarible collection metadata"
+    },
+    {
+      "id": "POLYGON:0x00c0461804ffcca9db1bc9ffdb5050631f57c8e8",
+      "contract": "0x00c0461804ffcca9db1bc9ffdb5050631f57c8e8",
+      "category": "Spawn",
+      "display_name": "Cy-Gor",
+      "metadata_status": "verified",
+      "added_at": "2026-09-10T17:26:40.808006Z",
+      "baseline_status": "Spawn category baseline established before alerting",
+      "metadata": {
+        "id": "POLYGON:0x00c0461804ffcca9db1bc9ffdb5050631f57c8e8",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-10-03T19:54:17.664Z",
+        "meta": {
+          "name": "Cy-Gor",
+          "description": "Michael Konieczni was Al Simmons' friend and squad mate. When he discovered the truth about Al's murder, he attempted to blow the whistle on Jason Wynn. However, he was stopped and subjected to project Sim, the Simian experiments of Frederick Willheim and became the beast known as Cy-Gor, short for Cybernetic Gorilla.",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmcYpCGgvK5vmCae1hbsvD7fyoPZysvNdFZz5UBDrc5RX5/0",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/bafybeieotprdgbr4dadpsdzijfe5jwrfqq7kg6iu2mqb6rrqu2ighnuesm/cygor%201x1.jpg",
+              "representation": "ORIGINAL",
+              "mimeType": "image/jpeg",
+              "size": 1779652,
+              "available": true,
+              "width": 4096,
+              "height": 4096
+            }
+          ],
+          "sellerFeeBasisPoints": 1000,
+          "feeRecipient": "ETHEREUM:0xf494d142ead829bc45c83ec2e324c4a5dd61a395"
+        }
+      },
+      "symbol": "MTD-CGOR",
+      "last_metadata_update_at": "2025-10-03T19:54:17.664Z",
+      "name_source": "Rarible collection metadata"
+    },
+    {
+      "id": "POLYGON:0x227af9b628d578486a6d0f69b36d1de2d0ca900b",
+      "contract": "0x227af9b628d578486a6d0f69b36d1de2d0ca900b",
+      "category": "Spawn",
+      "display_name": "Violator - Necroplasm",
+      "metadata_status": "verified",
+      "added_at": "2026-09-10T17:26:40.808006Z",
+      "baseline_status": "Spawn category baseline established before alerting",
+      "metadata": {
+        "id": "POLYGON:0x227af9b628d578486a6d0f69b36d1de2d0ca900b",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-08-11T23:11:53.386Z",
+        "meta": {
+          "name": "Violator - Necroplasm",
+          "description": "Eldest of the five siblings known as The Phlebiac Brothers, Violator is a powerful demon of hell who worked for Malebolgia. Able to shape shift, possess humans and animals, as well as an array of other powers, he was sent to earth in order to train Al Simmons when he became a Hellspawn. Violator however likes to do things his way and often antagonizes, manipulates, and gets in the way of Al Simmons on every possible occasion. To even to his own detriment of being at odds with Malebolgia and his brothers, Violator is self serving and vindictive and a major pain in Spawn’s butt.",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmTgsSX2uBgYn8YNa1LB6GFsbMRSVRkAatJPjRq4xGjhcH/0",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/bafybeihx42zjvmcobyayw2ki3vq3ctukyo3xkb5mhxoq55f3qldajusfsy/ART%20CARD%20violator0.25x.png",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 920114,
+              "available": true,
+              "width": 1024,
+              "height": 1024
+            }
+          ],
+          "sellerFeeBasisPoints": 1000,
+          "feeRecipient": "ETHEREUM:0xba700290b866b809766e1df11e7d9780091bba49"
+        }
+      },
+      "symbol": "MTD-VNPSM",
+      "last_metadata_update_at": "2025-08-11T23:11:53.386Z",
+      "name_source": "Rarible collection metadata"
+    },
+    {
+      "id": "POLYGON:0xcdce27f3e506dab51ac1966b73000962375b61a3",
+      "contract": "0xcdce27f3e506dab51ac1966b73000962375b61a3",
+      "category": "Spawn",
+      "display_name": "She Spawn",
+      "metadata_status": "verified",
+      "added_at": "2026-09-10T17:26:40.808006Z",
+      "baseline_status": "Spawn category baseline established before alerting",
+      "metadata": {
+        "id": "POLYGON:0xcdce27f3e506dab51ac1966b73000962375b61a3",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-10-04T00:54:22.963Z",
+        "meta": {
+          "name": "She Spawn",
+          "description": "After finding a resurrection spell, Jessica Priest places an amulet on Nyx's body and chants the spell. Whether Nyx, who is not seen again once the magic starts to happen, survives or not is not known at this point, but what is known is that Jessica Priest has taken on a role that Nyx used to have -- the role of She-Spawn.",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmS2NjeGrwnHahHuC7DSPV8cFejZz7NcrfW4Ue3TN3iSLo/0",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/bafybeicelgxcl4erbqwzp627cl3as4yey3lxpbrgp5lvi2vbcesrebhrj4/Screenshot%202023-12-21%20at%209.24.47%E2%80%AFAM.png",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 1661953,
+              "available": true,
+              "width": 1236,
+              "height": 1220
+            }
+          ],
+          "sellerFeeBasisPoints": 1000,
+          "feeRecipient": "ETHEREUM:0xba700290b866b809766e1df11e7d9780091bba49"
+        }
+      },
+      "symbol": "MTD-SSPWN",
+      "last_metadata_update_at": "2025-10-04T00:54:22.963Z",
+      "name_source": "Rarible collection metadata"
+    },
+    {
+      "id": "POLYGON:0xb0aac1c34a3763c24fcab85c3eac86311b3ccfef",
+      "contract": "0xb0aac1c34a3763c24fcab85c3eac86311b3ccfef",
+      "category": "Spawn",
+      "display_name": "The Violator",
+      "metadata_status": "verified",
+      "added_at": "2026-09-10T17:26:40.808006Z",
+      "baseline_status": "Spawn category baseline established before alerting",
+      "metadata": {
+        "id": "POLYGON:0xb0aac1c34a3763c24fcab85c3eac86311b3ccfef",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-07-17T20:03:10.402Z",
+        "meta": {
+          "name": "The Violator",
+          "description": "Eldest of the five siblings known as The Phlebiac Brothers, Violator is a powerful demon of hell who worked for Malebolgia. Able to shape shift, possess humans and animals, as well as an array of other powers, he was sent to earth in order to train Al Simmons when he became a Hellspawn. Violator however likes to do things his way and often antagonizes, manipulates, and gets in the way of Al Simmons on every possible occasion. To even to his own detriment of being at odds with Malebolgia and his brothers, Violator is self serving and vindictive and a major pain in Spawn’s butt.",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmZh53pbrG6kYcELk57arhsfG2S5ab6sfdDsZvkHXzSd5y/0",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/bafybeidvnw26cfr3hndpudovqded54drfebmcdcbmwls6hw4tnb6sb77rq/violator_collection_picture_1x.png",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 3436902,
+              "available": true,
+              "width": 2048,
+              "height": 2048
+            }
+          ],
+          "sellerFeeBasisPoints": 1000,
+          "feeRecipient": "ETHEREUM:0xba700290b866b809766e1df11e7d9780091bba49"
+        }
+      },
+      "symbol": "MTD-SVTR",
+      "last_metadata_update_at": "2025-07-17T20:03:10.402Z",
+      "name_source": "Rarible collection metadata"
+    },
+    {
+      "id": "POLYGON:0xc350f54d2d41e559e6ef0c178e303165367b033b",
+      "contract": "0xc350f54d2d41e559e6ef0c178e303165367b033b",
+      "category": "Spawn",
+      "display_name": "Spawn Poster",
+      "metadata_status": "verified",
+      "added_at": "2026-09-10T17:26:40.808006Z",
+      "baseline_status": "Spawn category baseline established before alerting",
+      "metadata": {
+        "id": "POLYGON:0xc350f54d2d41e559e6ef0c178e303165367b033b",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-08-13T21:12:13.073Z",
+        "meta": {
+          "name": "Spawn Poster",
+          "description": "A Government agent, Al Simmons was killed by his own men. Resurrected from the depths of hell, he returns to Earth as the warrior Spawn, guarding the forgotten alleys of New York City. As he seeks answers about his past, Spawn grapples with the dark forces that returned him to Earth, battling enemies and discovering unlikely allies. As he learns to harness his extraordinary powers, he begins to grasp the full extent of what brought him back - and what he left behind.",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmdgN3ypjVeu2ZZHaD6MFFLXNyYzxGprG3Ffd3dJgA2hdF/0",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/bafybeihcaziriupgdr6rradhvly7uhdy7tkgiih4vrgijovnhfrtofznri/SPAWNPOSTER_002.png",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 21675170,
+              "available": true,
+              "width": 4096,
+              "height": 4096
+            }
+          ],
+          "sellerFeeBasisPoints": 1000,
+          "feeRecipient": "ETHEREUM:0xf494d142ead829bc45c83ec2e324c4a5dd61a395"
+        }
+      },
+      "symbol": "MTD-SP",
+      "last_metadata_update_at": "2025-08-13T21:12:13.073Z",
+      "name_source": "Rarible collection metadata"
+    },
+    {
+      "id": "POLYGON:0x6514a84948e5a26f3fa34090c66b7dd687283f8d",
+      "contract": "0x6514a84948e5a26f3fa34090c66b7dd687283f8d",
+      "category": "Spawn",
+      "display_name": "Gunslinger Poster",
+      "metadata_status": "verified",
+      "added_at": "2026-09-10T17:26:40.808006Z",
+      "baseline_status": "Spawn category baseline established before alerting",
+      "metadata": {
+        "id": "POLYGON:0x6514a84948e5a26f3fa34090c66b7dd687283f8d",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-11-15T08:23:07.393Z",
+        "meta": {
+          "name": "Gunslinger Poster",
+          "description": "Spawn Gunslinger on Horse is now a Toy of the Year Finalist! Celebrate the achievement with this commemorative poster art. Jeremy Winslow, a landowner in the town of Bane was pursued by the wealthy businessman of the town Ed Kemper, who wished to take Jeremy's land. After not being able to get the land by traditional means, Ed Kemper slaughtered Jeremy's family and framed Jeremy for their murders. Jeremy was hanged for the crime without a trial, but Mammon, demon of wealth and greed and one of the seven princes of hell, came to him when he was close to death and promised him the power to enact his revenge on Ed Kemper. Jeremy agreed and was transformed into a Hellspawn and killed everyone in town except for one individual asked by Mammon to spare. This individual would be the ancestor of Al Simmons. When Jeremy's job was complete he descended to hell.",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://Qmbj8mL4wrxtirFXkwbjmNa7WDpeC2hTDZ9gw4rPb4QsMt/0",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/bafybeiduvmhkijc3m6no7ntzlnrtfvub3nm7l2uxi2c4hyipa6war74nau/1x1.jpg",
+              "representation": "ORIGINAL",
+              "mimeType": "image/jpeg",
+              "size": 7825581,
+              "available": true,
+              "width": 4096,
+              "height": 4096
+            }
+          ],
+          "sellerFeeBasisPoints": 1000,
+          "feeRecipient": "ETHEREUM:0xf494d142ead829bc45c83ec2e324c4a5dd61a395"
+        }
+      },
+      "symbol": "MTD-GUPO",
+      "last_metadata_update_at": "2025-11-15T08:23:07.393Z",
+      "name_source": "Rarible collection metadata"
+    },
+    {
+      "id": "POLYGON:0x06780a1388a4c8c06267e3b2b881539bd652f2a8",
+      "contract": "0x06780a1388a4c8c06267e3b2b881539bd652f2a8",
+      "category": "Spawn",
+      "display_name": "McFarlane Toys: Spawn Launch Series",
+      "metadata_status": "verified",
+      "added_at": "2026-09-10T17:26:40.808006Z",
+      "baseline_status": "Spawn category baseline established before alerting",
+      "metadata": {
+        "id": "POLYGON:0x06780a1388a4c8c06267e3b2b881539bd652f2a8",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-10-18T22:55:39.905Z",
+        "meta": {
+          "name": "McFarlane Toys: Spawn Launch Series",
+          "description": "McFarlane Toys Digital is proud to bring you our first digital collection, featuring the iconic characters from the classic Spawn series.",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmahDKPtj15HRVsgGdNeiB6ttnr7WzpqByudD4Ngfpsh9V/0",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/bafybeieavyzw3zu6kuy4xd2d2q72nbxqwic7u3owxaue3becr2vwmwumlu/KEYART.png",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 21036722,
+              "available": true,
+              "width": 4096,
+              "height": 4096
+            }
+          ],
+          "sellerFeeBasisPoints": 1000,
+          "feeRecipient": "ETHEREUM:0xf494d142ead829bc45c83ec2e324c4a5dd61a395"
+        }
+      },
+      "symbol": "MTD-SLS",
+      "last_metadata_update_at": "2025-10-18T22:55:39.905Z",
+      "name_source": "Rarible collection metadata"
+    },
+    {
+      "id": "POLYGON:0xe37eabab0a20590626997305ccc1e3d7b5ba4db3",
+      "contract": "0xe37eabab0a20590626997305ccc1e3d7b5ba4db3",
+      "category": "Spawn",
+      "display_name": "Spawn Gunslinger",
+      "metadata_status": "verified",
+      "added_at": "2026-09-10T17:26:40.808006Z",
+      "baseline_status": "Spawn category baseline established before alerting",
+      "metadata": {
+        "id": "POLYGON:0xe37eabab0a20590626997305ccc1e3d7b5ba4db3",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-10-06T12:54:31.214Z",
+        "meta": {
+          "name": "Spawn Gunslinger",
+          "description": "Jeremy Winslow, a landowner in the town of Bane was pursued by the wealthy businessman of the town Ed Kemper, who wished to take Jeremy’s land. After not being able to get the land by traditional means, Ed Kemper slaughtered Jeremy’s family and framed Jeremy for their murders. Jeremy was hanged for the crime without a trial, but Mammon, demon of wealth and greed and one of the seven princes of hell, came to him when he was close to death and promised him the power to enact his revenge on Ed Kemper. Jeremy agreed and was transformed into a Hellspawn and killed everyone in town except for one individual asked by Mamon to spare. This individual would be the ancestor of Al Simmons. When Jeremy’s job was complete he descended to hell.",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmSJwEAQFh7tNVxfdV6tMyvvuG3h7VQbwVDt4HcA1WuJyi/0",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/bafybeih4itv3j46jet2ccbdlbkjnbmt7q5ipguy6ec5mnp2whtpj6gqrmu/GunslingerHorseKey.jpg",
+              "representation": "ORIGINAL",
+              "mimeType": "image/jpeg",
+              "size": 1396135,
+              "available": true,
+              "width": 4096,
+              "height": 4096
+            }
+          ],
+          "sellerFeeBasisPoints": 1000,
+          "feeRecipient": "ETHEREUM:0xf494d142ead829bc45c83ec2e324c4a5dd61a395"
+        }
+      },
+      "symbol": "MTD-SGUN",
+      "last_metadata_update_at": "2025-10-06T12:54:31.214Z",
+      "name_source": "Rarible collection metadata"
+    },
+    {
+      "id": "POLYGON:0x681f695eb7659d26b95f5ea3197e348af81450e8",
+      "contract": "0x681f695eb7659d26b95f5ea3197e348af81450e8",
+      "category": "Spawn",
+      "display_name": "McFarlane Toys: Spawn Gift",
+      "metadata_status": "verified",
+      "added_at": "2026-09-10T17:26:40.808006Z",
+      "baseline_status": "Spawn category baseline established before alerting",
+      "metadata": {
+        "id": "POLYGON:0x681f695eb7659d26b95f5ea3197e348af81450e8",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-09-08T00:57:12.611Z",
+        "meta": {
+          "name": "McFarlane Toys: Spawn Gift",
+          "description": "A gift for top Spawn Launch Series collectors.",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmapUxZ1vU85kxYGajZ1gXp2Nbwg9QghkWYAkafHscDaob/0",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/bafybeibhtbcf5thjh7wigybwmz7dzsnxnpmetofhe46lfwi7kfpec374qi/SpawnAnimated.jpg",
+              "representation": "ORIGINAL",
+              "mimeType": "image/jpeg",
+              "size": 3116664,
+              "available": true,
+              "width": 4096,
+              "height": 4096
+            }
+          ],
+          "sellerFeeBasisPoints": 1000,
+          "feeRecipient": "ETHEREUM:0xba700290b866b809766e1df11e7d9780091bba49"
+        }
+      },
+      "symbol": "MTD-SG",
+      "last_metadata_update_at": "2025-09-08T00:57:12.611Z",
+      "name_source": "Rarible collection metadata"
+    },
+    {
+      "id": "POLYGON:0x355879b619c53f4bc67c9778d4f1e4cc44c484a4",
+      "contract": "0x355879b619c53f4bc67c9778d4f1e4cc44c484a4",
+      "category": "Spawn",
+      "display_name": "McFarlane Toys: Redeemer Gift",
+      "metadata_status": "verified",
+      "added_at": "2026-09-10T17:26:40.808006Z",
+      "baseline_status": "Spawn category baseline established before alerting",
+      "metadata": {
+        "id": "POLYGON:0x355879b619c53f4bc67c9778d4f1e4cc44c484a4",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-10-04T00:54:21.794Z",
+        "meta": {
+          "name": "McFarlane Toys: Redeemer Gift",
+          "description": "A gift for top Spawn Launch Series collectors.",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmeqX5NLe1DFe4af2AFfKpjRaBZCNYcD6xzXcJ6acpxmNp/0",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/bafybeibozxdrwn2nzsbx4fqo63asszhrs452xect6cxxedlyi6sbt7qj6m/RedeemerAnimated.jpg",
+              "representation": "ORIGINAL",
+              "mimeType": "image/jpeg",
+              "size": 2346433,
+              "available": true,
+              "width": 4096,
+              "height": 4096
+            }
+          ],
+          "sellerFeeBasisPoints": 1000,
+          "feeRecipient": "ETHEREUM:0xba700290b866b809766e1df11e7d9780091bba49"
+        }
+      },
+      "symbol": "MTD-RG",
+      "last_metadata_update_at": "2025-10-04T00:54:21.794Z",
+      "name_source": "Rarible collection metadata"
+    },
+    {
+      "id": "POLYGON:0x416e40a2a56b89ade4374f48b491df7752daef1e",
+      "contract": "0x416e40a2a56b89ade4374f48b491df7752daef1e",
+      "category": "Spawn",
+      "display_name": "Commando Spawn",
+      "metadata_status": "verified",
+      "added_at": "2026-09-10T17:26:40.808006Z",
+      "baseline_status": "Spawn category baseline established before alerting",
+      "metadata": {
+        "id": "POLYGON:0x416e40a2a56b89ade4374f48b491df7752daef1e",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-09-08T23:57:14.271Z",
+        "meta": {
+          "name": "Commando Spawn",
+          "description": "Al Simmons is a man cursed. After being betrayed by his Government and left for dead, he returns to Earth as a Hellspawn. But even with access to hellish powers beyond belief, Al can still rely on his training as a soldier and the weapons and tactics that have saved his life dozen of times.",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmX8qSMhb68JtyW3wHUhBqGyvnUo2MNS9JkZK5DXL9EN7a/0",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/bafybeiccnjjke6o7fwulzogoxaqoifx7jiwo52nkojmp5gvs643r52jpsm/berserker-s8-art-card0.25x.png",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 851010,
+              "available": true,
+              "width": 1024,
+              "height": 1024
+            }
+          ],
+          "sellerFeeBasisPoints": 1000,
+          "feeRecipient": "ETHEREUM:0xba700290b866b809766e1df11e7d9780091bba49"
+        }
+      },
+      "symbol": "MTD-COMSPWN",
+      "last_metadata_update_at": "2025-09-08T23:57:14.271Z",
+      "name_source": "Rarible collection metadata"
+    },
+    {
+      "id": "POLYGON:0x81dc41d9c1c3b515dc367430497397b3e162ad2c",
+      "contract": "0x81dc41d9c1c3b515dc367430497397b3e162ad2c",
+      "category": "Spawn",
+      "display_name": "Spawn (Cover #95)",
+      "metadata_status": "verified",
+      "added_at": "2026-09-10T17:26:40.808006Z",
+      "baseline_status": "Spawn category baseline established before alerting",
+      "metadata": {
+        "id": "POLYGON:0x81dc41d9c1c3b515dc367430497397b3e162ad2c",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2026-01-29T01:17:16.236Z",
+        "meta": {
+          "name": "Spawn (Cover #95)",
+          "description": "Al Simmons is Spawn! Once a highly trained assassin, double-crossed and murdered by his evil boss Jason Wynn. Al sold his soul to Malebolgia, one of the many rulers of hell, in order to see his wife Wanda Blake again.",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmWYiL9vLkX7FAPDVVSxLapJt6YmLohHaE1dDck1NGmZk1",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://i2c.seadn.io/polygon/cbbd891442d5495bbb68673dff71a9ea/c944525bef41199c2f19b699618a31/43c944525bef41199c2f19b699618a31.png",
+              "representation": "ORIGINAL"
+            }
+          ]
+        }
+      },
+      "symbol": "TOKEN",
+      "last_metadata_update_at": "2026-01-29T01:17:16.236Z",
+      "name_source": "Rarible collection metadata"
+    },
+    {
+      "id": "POLYGON:0x3e7247dadddaab9917d5acc226e7aede855346ae",
+      "contract": "0x3e7247dadddaab9917d5acc226e7aede855346ae",
+      "category": "Spawn",
+      "display_name": "Spawn The Dark Ages",
+      "metadata_status": "verified",
+      "added_at": "2026-09-10T17:26:40.808006Z",
+      "baseline_status": "Spawn category baseline established before alerting",
+      "metadata": {
+        "id": "POLYGON:0x3e7247dadddaab9917d5acc226e7aede855346ae",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-10-13T01:55:10.362Z",
+        "meta": {
+          "name": "Spawn The Dark Ages",
+          "description": "Spawn the Bloodaxe, formerly known as Erik the Bloodaxe when he was human, was transformed into something else entirely by the mystical forces of darkness.",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://Qmamw36wRiqWSfUDVzBNC4hNRqgH2aoLEoRRDU76QaGsKW",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/QmYk6ACFnE6t9FmkEXwveXzXgaty2ccQ37DFnPMYheaqZ5",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 1016312,
+              "available": true,
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        }
+      },
+      "symbol": "TOKEN",
+      "last_metadata_update_at": "2025-10-13T01:55:10.362Z",
+      "name_source": "Rarible collection metadata"
+    },
+    {
+      "id": "POLYGON:0x53be625557a2d9453bfefe9fe569984946eb7e8c",
+      "contract": "0x53be625557a2d9453bfefe9fe569984946eb7e8c",
+      "category": "Spawn",
+      "display_name": "Spawn 301",
+      "metadata_status": "verified",
+      "added_at": "2026-09-10T17:26:40.808006Z",
+      "baseline_status": "Spawn category baseline established before alerting",
+      "metadata": {
+        "id": "POLYGON:0x53be625557a2d9453bfefe9fe569984946eb7e8c",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-10-13T01:55:10.606Z",
+        "meta": {
+          "name": "Spawn 301",
+          "description": "TODD McFARLANE returns to pencil and ink SPAWN #301—with GREG CAPULLO, JASON SHAWN ALEXANDER, CLAYTON CRAIN, JEROME OPEÑA, and FRANCESCO MATTINA, and even more surprises to come in the record-breaking, longest-running creator-owned comic book in history!",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmNQEvVnmsQ7BGtZHKPFL69YFzLPEZcQw26vFZo9dNUVRE",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/QmPHM9GY6xegPHMXnvnzUgnUmKAx1DRov6bVnru8WSw8Ki",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 986242,
+              "available": true,
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        }
+      },
+      "symbol": "TOKEN",
+      "last_metadata_update_at": "2025-10-13T01:55:10.606Z",
+      "name_source": "Rarible collection metadata"
+    },
+    {
+      "id": "POLYGON:0x727ae2af1a3f57f218e749ba4a041fee42483f76",
+      "contract": "0x727ae2af1a3f57f218e749ba4a041fee42483f76",
+      "category": "Spawn",
+      "display_name": "Spawn 1977",
+      "metadata_status": "verified",
+      "added_at": "2026-09-10T17:26:40.808006Z",
+      "baseline_status": "Spawn category baseline established before alerting",
+      "metadata": {
+        "id": "POLYGON:0x727ae2af1a3f57f218e749ba4a041fee42483f76",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-08-22T16:20:49.280Z",
+        "meta": {
+          "name": "Spawn 1977",
+          "description": "When I first created Spawn as a kid, it was more of a sci-fi story. To me...sci-fi means space. Space is cold. Cold is BLUE. Many years later, when I pulled out my portfolio, I decided to make Spawn from the pit of HELL! Hell is HOT so I played around with the colors and ended up with the Spawn you see today. - Todd McFarlane\n",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmVwEVv3NBrLefx6zzF3PXBoqjPNJ89WDxtZjMiQDSJMws",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/QmVZ8j9KuAqB9htw82yk1SdaB4Xnxcc3V992fzUqbHgfrX",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 557908,
+              "available": true,
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        }
+      },
+      "symbol": "TOKEN",
+      "last_metadata_update_at": "2025-08-22T16:20:49.280Z",
+      "name_source": "Rarible collection metadata"
+    },
+    {
+      "id": "POLYGON:0xb0615c506fc5c7e11057a5d591e02d9d8b8f7c6a",
+      "contract": "0xb0615c506fc5c7e11057a5d591e02d9d8b8f7c6a",
+      "category": "Spawn",
+      "display_name": "Spawn Rat City",
+      "metadata_status": "verified",
+      "added_at": "2026-09-10T17:26:40.808006Z",
+      "baseline_status": "Spawn category baseline established before alerting",
+      "metadata": {
+        "id": "POLYGON:0xb0615c506fc5c7e11057a5d591e02d9d8b8f7c6a",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2025-08-22T16:20:49.280Z",
+        "meta": {
+          "name": "Spawn Rat City",
+          "description": "In a distant future, Peter Carin, a loyal soldier was injured in the line of duty. He was issued prosthetic legs and summarily dismissed by his corporate masters. After agreeing to partake in a series of experiments, the nanites in his legs become infected with necroplasmic energy due to power surge that traveled forward through time caused by Al Simmons. Now known as The Deviant, Peter is fighting against the new corporate-controlled government.",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmUcV7BhV1eXzEwcMUu23hbMzX9FS8Axcmz4LWWZ2AYM6L/0",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/QmR11SyfKTD6MUCvLJAnKSKNhW58vwbegiPFXyRpjVruup/MTD-ART-CARD0.25x%2032.png",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 854999,
+              "available": true,
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        }
+      },
+      "symbol": "MTD-SPRC",
+      "last_metadata_update_at": "2025-08-22T16:20:49.280Z",
+      "name_source": "Rarible collection metadata"
+    },
+    {
+      "id": "POLYGON:0x0454fd53c4220b4d8e9480c18717f8aa73b6d45b",
+      "contract": "0x0454fd53c4220b4d8e9480c18717f8aa73b6d45b",
+      "category": "Spawn",
+      "display_name": "Mandarin Spawn",
+      "metadata_status": "verified",
+      "added_at": "2026-09-10T17:26:40.808006Z",
+      "baseline_status": "Spawn category baseline established before alerting",
+      "metadata": {
+        "id": "POLYGON:0x0454fd53c4220b4d8e9480c18717f8aa73b6d45b",
+        "type": "ERC721",
+        "status": "CONFIRMED",
+        "features": [
+          "APPROVE_FOR_ALL"
+        ],
+        "has_traits": true,
+        "last_updated_at": "2026-04-04T02:46:52.147Z",
+        "meta": {
+          "name": "Mandarin Spawn",
+          "description": "The Scarlet Edge was a brutal and peerless Warrior from an ancient feudal society. He was master of combat in all forms, until his savage death in a war against an Army of the Undead. Enraged at his defeat, he returns to Earth to gain his revenge as? Mandarin Spawn. Where he seeks to do battle ..and test his skills against the greatest Warriors this world can offer… ",
+          "tags": [],
+          "genres": [],
+          "originalMetaUri": "ipfs://QmYcrtYwgcK2xmP9mjH55VPfGtod7hzv5WnVNSThMQoz3M/0",
+          "content": [
+            {
+              "@type": "IMAGE",
+              "url": "https://ipfs.raribleuserdata.com/ipfs/QmQ4ZXgL41fJniViKLyz3S35CPpeXsx65FhPkL9Duj5LtB/MTD-ART-CARD0.25x.png",
+              "representation": "ORIGINAL",
+              "mimeType": "image/png",
+              "size": 738353,
+              "available": true,
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        }
+      },
+      "symbol": "MTD-MAN-SPWN",
+      "last_metadata_update_at": "2026-04-04T02:46:52.147Z",
+      "name_source": "Rarible collection metadata"
     }
   ],
   "baseline": {
@@ -4183,7 +5021,7 @@
     ],
     "rarity_rule": "fetch Rarible item metadata for each sale; use the attribute whose key is Rarity; emit Unknown when absent or unavailable, never infer"
   },
-  "last_successful_check_at": "2026-09-10T00:01:27.312191Z",
+  "last_successful_check_at": "2026-09-11T00:00:12.730736Z",
   "recent_sales": [
     {
       "@type": "SELL",
@@ -4569,18 +5407,19 @@
       "POLYGON:6aa1cbade7303c5185f92288"
     ],
     "alert_text": "• **[DC] Clayface - Build-A-Figure** — Item: **Clayface - Build-A-Figure #9804**; Rarity: **Exotic**; Price: **150 POL ($14.37)**; Buy: **...815c1560e**; Sell: **...9c2610efc**; Sold: 2026-09-09 21:05\r\n• **[DC] The Penguin - DC Classic** — Item: **The Penguin - Purple #169**; Rarity: **Epic**; Price: **250 POL ($23.95)**; Buy: **...815c1560e**; Sell: **...0568124d1**; Sold: 2026-09-09 21:06\r\n• **[DC] Superman Centennial** — Item: **Superman Centennial - Goldbird #628**; Rarity: **Epic**; Price: **100 POL ($9.58)**; Buy: **...815c1560e**; Sell: **DragonDude**; Sold: 2026-09-09 21:07\r\n• **[Universal] Jeff “The Dude” Lebowski** — Item: **The Dude #1478**; Rarity: **Common**; Price: **150 POL ($14.37)**; Buy: **...815c1560e**; Sell: **...7e3d3e1cf**; Sold: 2026-09-09 21:12",
-    "delivered": false,
-    "created_at": "2026-09-10T00:01:27.312191Z"
+    "delivered": true,
+    "created_at": "2026-09-10T00:01:27.312191Z",
+    "delivered_at": "2026-09-10T20:00:00Z"
   },
   "metadata_enrichment": {
-    "last_attempt_at": "2026-09-10T03:50:02.943579Z",
+    "last_attempt_at": "2026-09-11T03:50:16.981736Z",
     "strategy": "one serial authenticated Rarible collection request every five minutes; sale-referenced collections are prioritized; 429/errors cool down for one hour",
     "last_result": "No eligible pending collections",
     "remaining_pending": 1
   },
   "last_activity_search_cursor": "[1788988329000,93522197,916,4204104764475247233]",
-  "last_activity_search_status": "verified: HTTP 200 parsed; 4 qualifying new sales",
-  "last_activity_search_attempt_at": "2026-09-10T00:01:27.312191Z",
+  "last_activity_search_status": "verified: HTTP 200 parsed; no qualifying new sales",
+  "last_activity_search_attempt_at": "2026-09-11T00:00:12.730736Z",
   "last_activity_search_failure": {
     "at": "2026-09-07T16:01:56.192526Z",
     "http_status": 400,
@@ -4696,6 +5535,17 @@
       },
       "activities_examined": 557,
       "status": "verified HTTP 200 initial McFarlane Digital SELL baseline; pre-baseline sales will not alert"
+    },
+    "Spawn": {
+      "established_at": "2026-09-10T17:26:40.808006Z",
+      "newest_sale": {
+        "id": "POLYGON:6aa2dc73e7303c5185f92b02",
+        "date": "2026-09-10T16:35:55Z",
+        "cursor": "[1789058155000,93568748,1617,3228885394817655308]"
+      },
+      "activities_examined": 1000,
+      "continuation": false,
+      "status": "verified HTTP 200 initial Spawn SELL baseline; pre-baseline sales will not alert"
     }
   }
 }
