@@ -750,16 +750,27 @@
       "category": "DC"
     },
     {
-      "id": "POLYGON:0x0fd66c55e5861122376f207b59d71aacb1b0cc4f",
-      "contract": "0x0fd66c55e5861122376f207b59d71aacb1b0cc4f",
-      "display_name": null,
-      "name_source": null,
+      "id": "POLYGON:0x0fd66c55e5861129376f207b59d71aacb1b0cc4f",
+      "contract": "0x0fd66c55e5861129376f207b59d71aacb1b0cc4f",
+      "display_name": "Batmobile",
+      "name_source": "User-provided exact marketplace URL; Rarible collection metadata verified",
       "last_sale": null,
       "added_at": "2026-08-26T17:07:44.280198Z",
-      "metadata_status": "pending (Rarible metadata request failed HTTP 404)",
-      "last_metadata_error": "Rarible metadata request failed HTTP 404",
-      "next_metadata_retry_at": "2026-09-11T04:20:13.805183Z",
-      "category": "DC"
+      "metadata_status": "verified",
+      "category": "DC",
+      "symbol": "MTD-BMB",
+      "last_metadata_update_at": null,
+      "collection_baseline": {
+        "established_at": "2026-09-11T19:11:02.302773Z",
+        "newest_sale": {
+          "id": "POLYGON:6a905d3ee7303c5185f8892d",
+          "date": "2026-08-27T15:52:28Z",
+          "cursor": "[1787845948000,92760614,772,4567493441230854592]"
+        },
+        "activities_examined": 190,
+        "status": "verified HTTP 200 corrected Batmobile contract baseline; pre-baseline sales will not alert"
+      },
+      "baseline_status": "Corrected Batmobile contract baseline established before alerting"
     },
     {
       "id": "POLYGON:0x4bdaf58712cf8c69fe619f32f373d541ea87a51a",
@@ -5021,7 +5032,7 @@
     ],
     "rarity_rule": "fetch Rarible item metadata for each sale; use the attribute whose key is Rarity; emit Unknown when absent or unavailable, never infer"
   },
-  "last_successful_check_at": "2026-09-11T00:00:12.730736Z",
+  "last_successful_check_at": "2026-09-12T00:00:17.519302Z",
   "recent_sales": [
     {
       "@type": "SELL",
@@ -5412,14 +5423,14 @@
     "delivered_at": "2026-09-10T20:00:00Z"
   },
   "metadata_enrichment": {
-    "last_attempt_at": "2026-09-11T03:50:16.981736Z",
+    "last_attempt_at": "2026-09-12T03:50:35.894290Z",
     "strategy": "one serial authenticated Rarible collection request every five minutes; sale-referenced collections are prioritized; 429/errors cool down for one hour",
     "last_result": "No eligible pending collections",
     "remaining_pending": 1
   },
   "last_activity_search_cursor": "[1788988329000,93522197,916,4204104764475247233]",
   "last_activity_search_status": "verified: HTTP 200 parsed; no qualifying new sales",
-  "last_activity_search_attempt_at": "2026-09-11T00:00:12.730736Z",
+  "last_activity_search_attempt_at": "2026-09-12T00:00:17.519302Z",
   "last_activity_search_failure": {
     "at": "2026-09-07T16:01:56.192526Z",
     "http_status": 400,

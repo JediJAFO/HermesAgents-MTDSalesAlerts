@@ -1,6 +1,6 @@
 # MTD Collection Metadata Progress
 
-Updated: 2026-09-11T03:50:16.981736Z
+Updated: 2026-09-12T03:50:35.894290Z
 
 | Category | Collection | Symbol | Type | Metadata status | Last metadata update |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@ Updated: 2026-09-11T03:50:16.981736Z
 | DC | Batman: Knightfall | MTD-BKF | ERC721 | verified | 2025-10-03T17:54:16.644Z |
 | DC | Deathstroke | MTD-DTH | ERC721 | verified | 2025-10-03T19:54:17.942Z |
 | DC | Batman Poster | MTD-BPO | ERC721 | verified | 2025-10-03T17:54:16.198Z |
-| DC | Pending name lookup | — | — | pending (Rarible metadata request failed HTTP 404) | — |
+| DC | Batmobile | MTD-BMB | — | verified | — |
 | DC | Batman: Year Two, Designed by Todd McFarlane | BY2 | ERC721 | verified | 2026-08-12T00:12:35.733Z |
 | DC | Black Adam Bust | MTD-BAB | ERC721 | verified | 2025-04-17T16:45:00.387Z |
 | DC | Superman Action Comics #1000 | MTD-SAC | ERC721 | verified | 2025-11-15T08:23:04.580Z |
