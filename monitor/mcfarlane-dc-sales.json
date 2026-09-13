@@ -5032,7 +5032,7 @@
     ],
     "rarity_rule": "fetch Rarible item metadata for each sale; use the attribute whose key is Rarity; emit Unknown when absent or unavailable, never infer"
   },
-  "last_successful_check_at": "2026-09-12T00:00:17.519302Z",
+  "last_successful_check_at": "2026-09-13T00:00:34.032740Z",
   "recent_sales": [
     {
       "@type": "SELL",
@@ -5423,14 +5423,14 @@
     "delivered_at": "2026-09-10T20:00:00Z"
   },
   "metadata_enrichment": {
-    "last_attempt_at": "2026-09-12T03:50:35.894290Z",
+    "last_attempt_at": "2026-09-13T03:50:54.296231Z",
     "strategy": "one serial authenticated Rarible collection request every five minutes; sale-referenced collections are prioritized; 429/errors cool down for one hour",
     "last_result": "No eligible pending collections",
     "remaining_pending": 1
   },
   "last_activity_search_cursor": "[1788988329000,93522197,916,4204104764475247233]",
   "last_activity_search_status": "verified: HTTP 200 parsed; no qualifying new sales",
-  "last_activity_search_attempt_at": "2026-09-12T00:00:17.519302Z",
+  "last_activity_search_attempt_at": "2026-09-13T00:00:34.032740Z",
   "last_activity_search_failure": {
     "at": "2026-09-07T16:01:56.192526Z",
     "http_status": 400,
