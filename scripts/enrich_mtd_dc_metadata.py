@@ -9,7 +9,7 @@ import urllib.request
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
-STATE = Path("C:/Users/jltfo/AppData/Local/hermes/price-watches/mcfarlane-dc-sales.json")
+STATE = Path("__HERMES_HOME__/price-watches/mcfarlane-dc-sales.json")
 API = "https://api.rarible.org/v0.1/collections/"
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36")

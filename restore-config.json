@@ -1,0 +1,104 @@
+{
+  "kind": "sales",
+  "schedules": [
+    {
+      "script": "backup-mtd-sales-alerts.py",
+      "schedule": {
+        "kind": "cron",
+        "expr": "50 23 * * *"
+      },
+      "configured_enabled": true,
+      "enabled": false,
+      "no_agent": true,
+      "timezone": "America/New_York",
+      "delivery": "CONFIGURE_PRIVATELY"
+    },
+    {
+      "script": "enrich_mtd_dc_metadata.py",
+      "schedule": {
+        "kind": "cron",
+        "expr": "*/5 * * * *"
+      },
+      "configured_enabled": true,
+      "enabled": false,
+      "no_agent": true,
+      "timezone": "America/New_York",
+      "delivery": "CONFIGURE_PRIVATELY"
+    },
+    {
+      "script": "retry_mtd_http400.py",
+      "schedule": {
+        "kind": "cron",
+        "expr": "*/5 * * * *"
+      },
+      "configured_enabled": true,
+      "enabled": false,
+      "no_agent": true,
+      "timezone": "America/New_York",
+      "delivery": "CONFIGURE_PRIVATELY"
+    },
+    {
+      "script": "run_mtd_sales_monitor.py",
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 0,8,12,16,20 * * *"
+      },
+      "configured_enabled": true,
+      "enabled": false,
+      "no_agent": true,
+      "timezone": "America/New_York",
+      "delivery": "CONFIGURE_PRIVATELY"
+    },
+    {
+      "script": "send_mtd_8am_last_five_heartbeat.py",
+      "schedule": {
+        "kind": "cron",
+        "expr": "5 8 * * *"
+      },
+      "configured_enabled": true,
+      "enabled": false,
+      "no_agent": true,
+      "timezone": "America/New_York",
+      "delivery": "CONFIGURE_PRIVATELY"
+    },
+    {
+      "script": "send_mtd_whatsapp_sales_only.py",
+      "schedule": {
+        "kind": "cron",
+        "expr": "15 0,8,12,16,20 * * *"
+      },
+      "configured_enabled": true,
+      "enabled": false,
+      "no_agent": true,
+      "timezone": "America/New_York",
+      "delivery": "CONFIGURE_PRIVATELY"
+    }
+  ],
+  "restore_ready": false,
+  "private_inputs_required": [
+    "collection allowlist and exact filtered URLs",
+    "verified baseline/dedupe state or controlled no-alert rebaseline",
+    "delivery destinations",
+    "RARIBLE_API_KEY",
+    "optional private wallet aliases"
+  ],
+  "python": [
+    "python-docx",
+    "psutil",
+    "tzdata"
+  ],
+  "node": [
+    "playwright"
+  ],
+  "excluded": [
+    "raw state",
+    "wallet alias database",
+    "credentials",
+    "chat IDs",
+    "execution ledger",
+    "logs",
+    "browser profiles",
+    "node_modules",
+    "Python environment"
+  ]
+}
