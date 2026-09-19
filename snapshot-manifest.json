@@ -1,8 +1,8 @@
 {
   "kind": "sales",
   "files": {
-    "McFarlane_DC_Sales_Alerts_PRD.docx": "8d1a359215cfbbf7f6d6ef057e2866f392c22ded79118a280dc68f7946bb0313",
-    "McFarlane_DC_Sales_Alerts_PRD.md": "af51bffaea2c89af2516b3ca5658b29597435a7c7747b0e56f745143688574c0",
+    "McFarlane_DC_Sales_Alerts_PRD.docx": "271b8b1ba26a347ec5dda6d29ed86dbb94cdf721ced4fedfc0464aa35d4b4881",
+    "McFarlane_DC_Sales_Alerts_PRD.md": "14a02daefee1249c5229f944cbe680df1ce50ef6e28ddc736770fca377c995c0",
     "RESTORE.md": "f19b53f668c55930d9cbc6af34ad6358c96d1b5d811b08c654cfebe5840f2ecb",
     "price-watches/run_mcfarlane_dc_sales.py": "927045d08a3e96fb49c028332b1ca81babcaacde423f7be1a4e78da194a093ba",
     "restore-config.json": "d5d99ea418430ba7f308e85ee64d11762c82c60fbba852feb7690d0a2a4a918e",
