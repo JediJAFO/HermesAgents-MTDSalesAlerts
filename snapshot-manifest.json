@@ -1,20 +1,20 @@
 {
   "kind": "sales",
   "files": {
-    "McFarlane_DC_Sales_Alerts_PRD.docx": "271b8b1ba26a347ec5dda6d29ed86dbb94cdf721ced4fedfc0464aa35d4b4881",
-    "McFarlane_DC_Sales_Alerts_PRD.md": "14a02daefee1249c5229f944cbe680df1ce50ef6e28ddc736770fca377c995c0",
+    "McFarlane_DC_Sales_Alerts_PRD.docx": "bf261c1423247688229c746912835698904102eada76d1947b5dafce708653c9",
+    "McFarlane_DC_Sales_Alerts_PRD.md": "53c07de190b419483823d0175d5709777764bfa6cbbee203de994df52b086c26",
     "RESTORE.md": "f19b53f668c55930d9cbc6af34ad6358c96d1b5d811b08c654cfebe5840f2ecb",
     "price-watches/run_mcfarlane_dc_sales.py": "927045d08a3e96fb49c028332b1ca81babcaacde423f7be1a4e78da194a093ba",
     "restore-config.json": "d5d99ea418430ba7f308e85ee64d11762c82c60fbba852feb7690d0a2a4a918e",
     "scripts/backup-mtd-sales-alerts.py": "f59bd78027132c1c4272d063bfa90de7860b3bbb71099310e94c95cdf2569254",
     "scripts/enrich_mtd_dc_metadata.py": "e78d17ecba68feaed4795931893f5658497cd104422a87a3c475cca28b00fc3d",
-    "scripts/monitor_backup.py": "f34db833e4bc2f05e668abb05fe0ad8bfd11a17092ce5f1fee70dfcb184e34fc",
+    "scripts/monitor_backup.py": "6fc9578e3b9191d5b255c82240d1038dda32128676ea0d61eeec0d23fa7c6395",
     "scripts/monitor_backup_manifest.json": "3cd3903a1b12d29bcd2a7ccc592b595e68114cc1512b33aaddb2583135a72d85",
     "scripts/refresh-mcfarlane-prds.py": "83f4d148cee166a04d6878443dda6e746047f451e4eed7dcf7afd210cf5b7f10",
     "scripts/retry_mtd_http400.py": "19626298de4f8348842e877daa1898f4dea22486ec4a1f118a77a040605f4575",
     "scripts/run_mtd_sales_monitor.py": "90034e93904481b3e8aac91fb5e910b15507de92f42208411a1b1bd96f42052b",
     "scripts/send_mtd_8am_last_five_heartbeat.py": "cd646e88aeacbe27fc8fd96a033e597a0183c9d29433f00021e2b60e1e9d6ccf",
     "scripts/send_mtd_whatsapp_sales_only.py": "de0a2b3facaef654736799d57df4c7787d85ee337fcef08b05b7582fbe5cbc37",
-    "scripts/test_monitor_backup.py": "4c99b3a224cbe2b8d1cb2eb851910fbd941b37921f9c0bbb6dbabcb40e61bf5e"
+    "scripts/test_monitor_backup.py": "7bc31044d474776a09fb3c69de4e3a8b021f47a301edc2995f09849a9c2dc33f"
   }
 }

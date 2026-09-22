@@ -64,6 +64,6 @@ Daily backup detects identical source snapshots, enforces one ET-day success/pus
 The enabled daily backup remains at 23:50 America/New_York. The inspected repository still contains tracked legacy monitor data and an untracked metadata script. The source-only backup intentionally refuses this repository until the owner reviews/quarantines legacy files and cleans the worktree. No automatic cleanup, history rewrite or remote push was performed by this offline audit.
 
 <!-- automated-drift:start -->
-**Observed implementation fingerprint:** `72175d64df32895003b8a8b6b91d24abd4697e8e16ffac210a025c52892b05d9`
+**Observed implementation fingerprint:** `bbb538c53cd54a7d32e43db99c1f86b2bdc08d4ee8a820db2305fa1ff68e5c86`
 **Automated drift status:** changed or unreviewed; substantive review required. Hash comparison is not a requirements review.
 <!-- automated-drift:end -->
