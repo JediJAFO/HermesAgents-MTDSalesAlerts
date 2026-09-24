@@ -22,7 +22,7 @@ The primary calls Rarible POST /v0.1/activities/search with POLYGON, SELL, the e
 
 Returned records are accepted only when type is exactly SELL, not reverted, in the allowlist and not already known by activity ID. Category and per-collection onboarding dates suppress older history. Query-local records are also deduplicated. Recent history is bounded to 10 records in the inspected source; the oldest-first new batch updates collection last_sale and the pending WhatsApp batch.
 
-Item metadata supplies item name and the exact Rarity attribute; failures degrade to Unknown rather than aborting a valid sale. Missing collection display names get a best-effort priority lookup, falling back to the collection identifier. Buyer and seller wallets remain private; local unique aliases are preferred for display, otherwise only a nine-character wallet suffix is shown. Metadata lookups use 10-second sleeps in the current primary, not a universal 15-second marketplace pacing guarantee.
+Item metadata supplies item name and the exact Rarity attribute; failures degrade to Unknown rather than aborting a valid sale. Missing collection display names get a best-effort priority lookup, falling back to the collection identifier. Buyer and seller wallets remain private; local unique aliases from the canonical `mcfarlane-wallet-aliases.json` database shared with Exotic and tracked-wallet monitors are preferred for display, otherwise only a nine-character wallet suffix is shown. The saved-state-only recurring-wallet audit reports distinct repeated wallets still unresolved by that database without making marketplace or notification calls. Metadata lookups use 10-second sleeps in the current primary, not a universal 15-second marketplace pacing guarantee.
 
 ## Known correctness limits — do not describe as complete coverage
 
@@ -64,6 +64,6 @@ Daily backup detects identical source snapshots, enforces one ET-day success/pus
 The enabled daily backup remains at 23:50 America/New_York. The inspected repository still contains tracked legacy monitor data and an untracked metadata script. The source-only backup intentionally refuses this repository until the owner reviews/quarantines legacy files and cleans the worktree. No automatic cleanup, history rewrite or remote push was performed by this offline audit.
 
 <!-- automated-drift:start -->
-**Observed implementation fingerprint:** `bbb538c53cd54a7d32e43db99c1f86b2bdc08d4ee8a820db2305fa1ff68e5c86`
+**Observed implementation fingerprint:** `73916797a33a29296188e326c55155fe12bd9812eb4654c71e21cd68f301ddec`
 **Automated drift status:** changed or unreviewed; substantive review required. Hash comparison is not a requirements review.
 <!-- automated-drift:end -->
