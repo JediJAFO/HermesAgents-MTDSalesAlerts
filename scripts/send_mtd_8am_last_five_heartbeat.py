@@ -11,6 +11,7 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 STATE = Path(r"__HERMES_HOME__/price-watches/mcfarlane-dc-sales.json")
+ALIASES = STATE.with_name("mcfarlane-wallet-aliases.json")
 EASTERN = ZoneInfo("America/New_York")
 
 
@@ -28,18 +29,22 @@ def usd_text(value):
         return "USD unavailable"
 
 
-def buyer_text(sale):
+def buyer_text(sale, aliases):
+    wallet = str(sale.get("buyer_wallet") or sale.get("buyer") or "").split(":")[-1].lower()
+    current = {str(k).lower(): v for k, v in aliases.get("exact_aliases", {}).items()}.get(wallet)
+    if current:
+        return str(current)
     if sale.get("buyer_name_tag"):
         return str(sale["buyer_name_tag"])
     if sale.get("buyer_display"):
         return str(sale["buyer_display"])
-    wallet = str(sale.get("buyer_wallet") or sale.get("buyer") or "")
     if wallet:
         return "..." + wallet[-4:]
     return "Buyer not recorded"
 
 
 state = json.loads(STATE.read_text(encoding="utf-8"))
+aliases = json.loads(ALIASES.read_text(encoding="utf-8"))
 if os.environ.get("MTD_HEARTBEAT_SAMPLE") != "1":
     checked = parsed(state.get("last_successful_check_at"))
     now = datetime.now(EASTERN)
@@ -54,7 +59,7 @@ for sale in sales:
     name = collection.get("display_name") or sale.get("collection") or "Unknown collection"
     price = sale.get("price") or (sale.get("payment") or {}).get("value") or "Unknown"
     sold = str(sale.get("date") or "").replace("T", " ")[:16] or "time not recorded"
-    lines.append(f"• {name} - {sale.get('rarity') or 'Unknown'} - {price} POL ({usd_text(sale.get('usd_amount'))}) - {sold} - Buy: {buyer_text(sale)}")
+    lines.append(f"• {sold} - {sale.get('rarity') or 'Unknown'} - {price} POL ({usd_text(sale.get('usd_amount'))}) - {name} - Buy: {buyer_text(sale, aliases)}")
 if not sales:
     lines.append("• No saved completed sales.")
 sys.stdout.write("\n".join(lines) + "\n")
