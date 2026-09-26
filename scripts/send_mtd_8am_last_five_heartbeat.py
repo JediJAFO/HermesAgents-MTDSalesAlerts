@@ -52,8 +52,8 @@ if os.environ.get("MTD_HEARTBEAT_SAMPLE") != "1":
         print("[SILENT]")
         raise SystemExit(0)
 collections = {item.get("id"): item for item in state.get("collections") or []}
-sales = sorted((item for item in state.get("recent_sales") or [] if isinstance(item, dict)), key=lambda item: item.get("date") or "", reverse=True)[:10]
-lines = ["**MTD Sales Alert — 8 AM heartbeat (last 10)**"]
+sales = sorted((item for item in state.get("recent_sales") or [] if isinstance(item, dict)), key=lambda item: item.get("date") or "", reverse=True)[:20]
+lines = ["**MTD Sales Alert — 8 AM heartbeat (last 20)**"]
 for sale in sales:
     collection = collections.get(sale.get("collection"), {})
     name = collection.get("display_name") or sale.get("collection") or "Unknown collection"
